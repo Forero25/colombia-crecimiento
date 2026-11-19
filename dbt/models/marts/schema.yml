@@ -3,11 +3,21 @@ models:
   - name: panel
     description: "Panel país-año con todos los indicadores. Base de todos los análisis."
     tests:
-      - combinacion_unica: {columns: [iso3, anio]}
+      - combinacion_unica: {arguments: {columns: [iso3, anio]}}
     columns:
       - name: crec_pib
-        tests: [{entre: {min: -70, max: 160}}]
+        tests: [{entre: {arguments: {min: -70, max: 160}}}]
+  - name: panel_analisis
+    description: >
+      Universo del análisis: países con mediana de población de al menos un millón de habitantes en 2015-2024.
+      Deja fuera microestados y centros financieros offshore (Islas Caimán registra más de 200 empresas nuevas
+      por cada 1.000 adultos, que son sociedades de papel, no emprendimiento).
+    tests:
+      - combinacion_unica: {arguments: {columns: [iso3, anio]}}
+    columns:
       - name: densidad_empresas
-        tests: [{entre: {min: 0, max: 100}}]
+        tests: [{entre: {arguments: {min: 0, max: 60}}}]
       - name: inversion_pib
-        tests: [{entre: {min: -10, max: 100}}]
+        tests: [{entre: {arguments: {min: -20, max: 80}}}]
+      - name: crec_pib
+        tests: [{entre: {arguments: {min: -70, max: 160}}}]

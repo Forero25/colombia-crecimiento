@@ -6,7 +6,7 @@ models:
         tests: [unique, not_null]
   - name: stg_indicadores
     tests:
-      - combinacion_unica: {columns: [iso3, indicador, anio]}
+      - combinacion_unica: {arguments: {columns: [iso3, indicador, anio]}}
     columns:
       - name: valor
         tests: [not_null]

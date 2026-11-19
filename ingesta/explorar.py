@@ -1,30 +1,22 @@
-"""Exploración de fuentes de Colombia: busca en el catálogo de datos.gov.co conjuntos sobre creación de empresas,
-y prueba Penn World Table. Solo imprime; no guarda nada."""
+"""Exploración de fuentes (solo imprime): columnas y volumen del RUES en datos.gov.co, y archivos de Penn World Table."""
 import json, urllib.request, urllib.parse
 
 UA = {"User-Agent": "colombia-crecimiento portfolio project"}
 
 
 def get(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r:
         return r.read()
 
 
-for q in ["matriculas registro mercantil", "creacion de empresas", "RUES", "camara de comercio empresas", "tejido empresarial"]:
-    url = "https://api.us.socrata.com/api/catalog/v1?" + urllib.parse.urlencode({"domains": "www.datos.gov.co", "q": q, "limit": 12})
-    try:
-        d = json.loads(get(url))
-        print("\n###", q)
-        for r in d["results"]:
-            res = r["resource"]
-            print(res["id"], "|", res["name"][:90], "|", res.get("data_updated_at", "")[:10], "| filas?", res.get("page_views", {}).get("page_views_total", ""))
-    except Exception as e:  # noqa: BLE001
-        print("error", q, e)
+for ds in ["c82u-588k"]:
+    meta = json.loads(get(f"https://www.datos.gov.co/api/views/{ds}.json"))
+    print(ds, meta["name"], "| actualizado", meta.get("rowsUpdatedAt"), "| licencia", (meta.get("license") or {}).get("name"))
+    print("columnas:", [(c["fieldName"], c["dataTypeName"]) for c in meta["columns"]])
+    print("total:", get(f"https://www.datos.gov.co/resource/{ds}.json?$select=count(*)"))
+    print("muestra:", get(f"https://www.datos.gov.co/resource/{ds}.json?$limit=2")[:1500])
 
-for url in ["https://dataverse.nl/api/datasets/:persistentId/?persistentId=doi:10.34894/FABVLR",
-            "https://www.rug.nl/ggdc/productivity/pwt/"]:
-    try:
-        b = get(url)
-        print("\nPWT", url, len(b), b[:300])
-    except Exception as e:  # noqa: BLE001
-        print("PWT error", url, e)
+d = json.loads(get("https://dataverse.nl/api/datasets/:persistentId/?persistentId=doi:10.34894/FABVLR"))
+v = d["data"]["latestVersion"]
+print("PWT version", v.get("versionNumber"), [(f["dataFile"]["id"], f["dataFile"]["filename"], f["dataFile"].get("filesize")) for f in v["files"]])
+print("licencia", v.get("license"))
