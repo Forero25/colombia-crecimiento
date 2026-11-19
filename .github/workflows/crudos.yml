@@ -1,0 +1,25 @@
+name: Datos crudos
+on:
+  workflow_dispatch:
+  push:
+    paths: ["ingesta/**", ".github/workflows/crudos.yml"]
+  schedule:
+    - cron: "41 10 1 * *"   # una vez al mes
+permissions:
+  contents: write
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python ingesta/explorar.py
+      - run: python ingesta/banco_mundial.py
+      - run: python ingesta/innovation_graph.py
+      - name: Publicar en el release "crudos"
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          cd data && zip -qr ../crudos.zip raw && cd ..
+          gh release view crudos >/dev/null 2>&1 || gh release create crudos --title "Datos crudos" --notes "Copia de trabajo: Banco Mundial (WDI y WGI, CC BY 4.0) y GitHub Innovation Graph (CC0). Ver README."
+          gh release upload crudos crudos.zip --clobber
