@@ -1,0 +1,12 @@
+version: 2
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: paises
+      - name: banco_mundial
+      - name: indicadores
+      - name: gh_developers
+      - name: gh_repositories
+      - name: gh_git_pushes
+      - name: gh_organizations

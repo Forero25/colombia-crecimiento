@@ -1,0 +1,14 @@
+name: crecimiento
+version: "1.0.0"
+config-version: 2
+profile: crecimiento
+model-paths: ["models"]
+test-paths: ["tests"]
+models:
+  crecimiento:
+    staging:
+      +schema: staging
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table

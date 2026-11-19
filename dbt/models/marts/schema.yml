@@ -1,0 +1,13 @@
+version: 2
+models:
+  - name: panel
+    description: "Panel país-año con todos los indicadores. Base de todos los análisis."
+    tests:
+      - combinacion_unica: {columns: [iso3, anio]}
+    columns:
+      - name: crec_pib
+        tests: [{entre: {min: -70, max: 160}}]
+      - name: densidad_empresas
+        tests: [{entre: {min: 0, max: 100}}]
+      - name: inversion_pib
+        tests: [{entre: {min: -10, max: 100}}]
