@@ -21,3 +21,6 @@ models:
         tests: [{entre: {arguments: {min: -20, max: 80}}}]
       - name: crec_pib
         tests: [{entre: {arguments: {min: -70, max: 160}}}]
+  - name: rues_anual
+    tests:
+      - combinacion_unica: {arguments: {columns: [anio, tipo]}}

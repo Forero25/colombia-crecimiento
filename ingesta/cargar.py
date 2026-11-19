@@ -9,6 +9,9 @@ TABLAS = {
     "raw.gh_developers": ("data/raw/innovation_graph/developers.csv", "developers bigint, iso2_code text, year int, quarter int"),
     "raw.gh_repositories": ("data/raw/innovation_graph/repositories.csv", "repositories bigint, iso2_code text, year int, quarter int"),
     "raw.gh_git_pushes": ("data/raw/innovation_graph/git_pushes.csv", "git_pushes bigint, iso2_code text, year int, quarter int"),
+    "raw.rues_mensual": ("data/raw/rues/mensual_camara.csv", "ym text, camara_comercio text, categoria_matricula text, organizacion_juridica text, n bigint"),
+    "raw.rues_sector": ("data/raw/rues/anual_sector.csv", "anio text, categoria_matricula text, ciiu2 text, n bigint"),
+    "raw.pwt": ("data/raw/pwt110.csv", "countrycode text, country text, year int, rgdpna double precision, rkna double precision, emp double precision, avh double precision, hc double precision, labsh double precision, rtfpna double precision, pop double precision, rgdpo double precision, ctfp double precision"),
     "raw.gh_organizations": ("data/raw/innovation_graph/organizations.csv", "organizations bigint, iso2_code text, year int, quarter int"),
 }
 

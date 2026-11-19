@@ -10,3 +10,6 @@ sources:
       - name: gh_repositories
       - name: gh_git_pushes
       - name: gh_organizations
+      - name: rues_mensual
+      - name: rues_sector
+      - name: pwt

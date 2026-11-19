@@ -37,7 +37,9 @@ with ancho as (
 )
 select a.*, p.pais, p.region, p.ingreso, p.latinoamerica,
        g.desarrolladores, g.repositorios, g.pushes,
-       1000.0 * g.desarrolladores / nullif(a.poblacion, 0) as desarrolladores_por_mil
+       1000.0 * g.desarrolladores / nullif(a.poblacion, 0) as desarrolladores_por_mil,
+       w.pib_real, w.capital_real, w.empleo, w.horas, w.capital_humano, w.participacion_trabajo, w.ptf
 from ancho a
 join {{ ref('stg_paises') }} p using (iso3)
 left join {{ ref('stg_github') }} g using (iso3, anio)
+left join {{ ref('stg_pwt') }} w using (iso3, anio)
