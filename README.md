@@ -3,7 +3,7 @@
 ¿Le ha ido bien a Colombia? Depende de con quién se compare. Este proyecto busca a los países que más se parecen a Colombia por su estructura económica, compara su crecimiento desde 2000, pregunta si la creación de empresas y startups lo anticipa y pronostica los próximos años con un modelo evaluado hacia adelante.
 
 - **Artículo:** [nicolasforero.pages.dev/escritos/colombia-gemelos](https://nicolasforero.pages.dev/escritos/colombia-gemelos/)
-- **App interactiva:** `app.py` (Shiny for Python), publicada en Posit Connect Cloud.
+- **App interactiva:** `app.py` (Shiny for Python), publicada en [Posit Connect Cloud](https://01a1f2ea-37bd-6494-2069-7cdcd16b6f1c.share.connect.posit.cloud/).
 - **Método y glosario:** [METODO.md](METODO.md)
 
 ## Arquitectura
