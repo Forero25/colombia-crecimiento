@@ -1,0 +1,2057 @@
+{
+ "rasgos": {
+  "log_pib_pc": "Ingreso por persona (log, PPA)",
+  "agro_pib": "Agricultura (% PIB)",
+  "manufactura_pib": "Manufactura (% PIB)",
+  "servicios_pib": "Servicios (% PIB)",
+  "comercio_pib": "Comercio exterior (% PIB)",
+  "inversion_pib": "Inversión (% PIB)",
+  "materias_primas": "Combustibles y minerales (% exportaciones)",
+  "pob_15_64": "Población en edad de trabajar (%)",
+  "urbana": "Población urbana (%)",
+  "credito_pib": "Crédito privado (% PIB)",
+  "instituciones": "Calidad institucional (promedio WGI)",
+  "internet": "Usuarios de internet (%)"
+ },
+ "reciente": {
+  "ventana": [
+   2015,
+   2024
+  ],
+  "n_paises": 154,
+  "valores_imputados": 34,
+  "varianza_pca": [
+   0.49924442,
+   0.122961239,
+   0.106086956,
+   0.073258106,
+   0.065065181,
+   0.03357696
+  ],
+  "gemelos": [
+   {
+    "iso3": "RUS",
+    "pais": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "distancia": 0.747364294
+   },
+   {
+    "iso3": "PER",
+    "pais": "Peru",
+    "region": "Latin America & Caribbean",
+    "distancia": 0.834386091
+   },
+   {
+    "iso3": "ECU",
+    "pais": "Ecuador",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.052443923
+   },
+   {
+    "iso3": "BRA",
+    "pais": "Brazil",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.198063011
+   },
+   {
+    "iso3": "BOL",
+    "pais": "Bolivia",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.261585504
+   },
+   {
+    "iso3": "ARM",
+    "pais": "Armenia",
+    "region": "Europe & Central Asia",
+    "distancia": 1.437890539
+   },
+   {
+    "iso3": "JAM",
+    "pais": "Jamaica",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.446706388
+   },
+   {
+    "iso3": "KAZ",
+    "pais": "Kazakhstan",
+    "region": "Europe & Central Asia",
+    "distancia": 1.48058145
+   },
+   {
+    "iso3": "ZAF",
+    "pais": "South Africa",
+    "region": "Sub-Saharan Africa",
+    "distancia": 1.483601636
+   },
+   {
+    "iso3": "DOM",
+    "pais": "Dominican Republic",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.495103362
+   }
+  ],
+  "k": 4,
+  "silueta": {
+   "4": 0.224548107,
+   "5": 0.188019857,
+   "6": 0.1882404,
+   "7": 0.184620824,
+   "8": 0.204838322,
+   "9": 0.198224159,
+   "10": 0.198318156
+  },
+  "acuerdo_ward": 0.729799775,
+  "mismo_grupo": [
+   "United Arab Emirates",
+   "Azerbaijan",
+   "Bahrain",
+   "Bolivia",
+   "Algeria",
+   "Gabon",
+   "Iran, Islamic Rep.",
+   "Iraq",
+   "Jamaica",
+   "Kazakhstan",
+   "Kuwait",
+   "Libya",
+   "Mongolia",
+   "Oman",
+   "Panama",
+   "Peru",
+   "Qatar",
+   "Russian Federation",
+   "Saudi Arabia"
+  ],
+  "colombia": {
+   "log_pib_pc": 9.762257765,
+   "agro_pib": 7.401637601,
+   "manufactura_pib": 11.23723229,
+   "servicios_pib": 57.404590003,
+   "comercio_pib": 38.278830171,
+   "inversion_pib": 20.180208423,
+   "materias_primas": 51.929666184,
+   "pob_15_64": 69.510405182,
+   "urbana": 77.664713484,
+   "credito_pib": 46.073956294,
+   "instituciones": -0.12844698,
+   "internet": 67.773700793
+  },
+  "mediana_gemelos": {
+   "log_pib_pc": 9.646032562,
+   "agro_pib": 5.998764964,
+   "manufactura_pib": 12.248276484,
+   "servicios_pib": 57.413417058,
+   "comercio_pib": 50.63628945,
+   "inversion_pib": 21.065786779,
+   "materias_primas": 45.464113248,
+   "pob_15_64": 66.305299413,
+   "urbana": 67.490065169,
+   "credito_pib": 49.501187406,
+   "instituciones": -0.232367388,
+   "internet": 71.067487914
+  },
+  "mediana_latam": {
+   "log_pib_pc": 9.742756045,
+   "agro_pib": 6.154835914,
+   "manufactura_pib": 13.08634948,
+   "servicios_pib": 58.487710921,
+   "comercio_pib": 59.003406046,
+   "inversion_pib": 20.502733255,
+   "materias_primas": 16.443218628,
+   "pob_15_64": 65.504370703,
+   "urbana": 72.935572661,
+   "credito_pib": 44.605098508,
+   "instituciones": -0.262576469,
+   "internet": 68.117615896
+  },
+  "estabilidad": [
+   {
+    "iso3": "PER",
+    "pais": "Peru",
+    "frecuencia": 1.0
+   },
+   {
+    "iso3": "RUS",
+    "pais": "Russian Federation",
+    "frecuencia": 0.997777778
+   },
+   {
+    "iso3": "ECU",
+    "pais": "Ecuador",
+    "frecuencia": 0.993333333
+   },
+   {
+    "iso3": "BRA",
+    "pais": "Brazil",
+    "frecuencia": 0.991111111
+   },
+   {
+    "iso3": "BOL",
+    "pais": "Bolivia",
+    "frecuencia": 0.913333333
+   },
+   {
+    "iso3": "ARM",
+    "pais": "Armenia",
+    "frecuencia": 0.866666667
+   },
+   {
+    "iso3": "JAM",
+    "pais": "Jamaica",
+    "frecuencia": 0.844444444
+   },
+   {
+    "iso3": "KAZ",
+    "pais": "Kazakhstan",
+    "frecuencia": 0.775555556
+   },
+   {
+    "iso3": "ZAF",
+    "pais": "South Africa",
+    "frecuencia": 0.511111111
+   },
+   {
+    "iso3": "CUB",
+    "pais": "Cuba",
+    "frecuencia": 0.5
+   },
+   {
+    "iso3": "TTO",
+    "pais": "Trinidad and Tobago",
+    "frecuencia": 0.484444444
+   },
+   {
+    "iso3": "DOM",
+    "pais": "Dominican Republic",
+    "frecuencia": 0.32
+   },
+   {
+    "iso3": "BGR",
+    "pais": "Bulgaria",
+    "frecuencia": 0.213333333
+   },
+   {
+    "iso3": "UKR",
+    "pais": "Ukraine",
+    "frecuencia": 0.164444444
+   },
+   {
+    "iso3": "ARG",
+    "pais": "Argentina",
+    "frecuencia": 0.164444444
+   },
+   {
+    "iso3": "PSE",
+    "pais": "West Bank and Gaza",
+    "frecuencia": 0.144444444
+   },
+   {
+    "iso3": "SLV",
+    "pais": "El Salvador",
+    "frecuencia": 0.144444444
+   },
+   {
+    "iso3": "IRN",
+    "pais": "Iran, Islamic Rep.",
+    "frecuencia": 0.144444444
+   },
+   {
+    "iso3": "CHL",
+    "pais": "Chile",
+    "frecuencia": 0.14
+   },
+   {
+    "iso3": "PRY",
+    "pais": "Paraguay",
+    "frecuencia": 0.106666667
+   }
+  ],
+  "mapa": [
+   {
+    "iso3": "AFG",
+    "pc1": -4.011430309,
+    "pc2": -1.523908267,
+    "pais": "Afghanistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "AGO",
+    "pc1": -2.393236031,
+    "pc2": 2.067665471,
+    "pais": "Angola",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "ALB",
+    "pc1": -0.397440364,
+    "pc2": 0.371098786,
+    "pais": "Albania",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "ARE",
+    "pc1": 3.560332932,
+    "pc2": 1.848992883,
+    "pais": "United Arab Emirates",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "ARG",
+    "pc1": 0.762328707,
+    "pc2": -0.397926021,
+    "pais": "Argentina",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "ARM",
+    "pc1": 0.449983615,
+    "pc2": 0.321700086,
+    "pais": "Armenia",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "AUS",
+    "pc1": 3.019658813,
+    "pc2": 1.340053386,
+    "pais": "Australia",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "AUT",
+    "pc1": 2.803478161,
+    "pc2": -0.613132771,
+    "pais": "Austria",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "AZE",
+    "pc1": -0.092937768,
+    "pc2": 2.751365745,
+    "pais": "Azerbaijan",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "BDI",
+    "pc1": -4.870054093,
+    "pc2": -1.326458882,
+    "pais": "Burundi",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "BEL",
+    "pc1": 3.184324601,
+    "pc2": -0.529575862,
+    "pais": "Belgium",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "BEN",
+    "pc1": -2.919902288,
+    "pc2": -0.697963634,
+    "pais": "Benin",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "BFA",
+    "pc1": -3.296923672,
+    "pc2": -1.266399945,
+    "pais": "Burkina Faso",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "BGD",
+    "pc1": -1.597255288,
+    "pc2": -0.499062148,
+    "pais": "Bangladesh",
+    "region": "South Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "BGR",
+    "pc1": 1.267059161,
+    "pc2": -0.281578711,
+    "pais": "Bulgaria",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "BHR",
+    "pc1": 3.276756163,
+    "pc2": 2.022648569,
+    "pais": "Bahrain",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "BIH",
+    "pc1": 0.361778778,
+    "pc2": -0.023610958,
+    "pais": "Bosnia and Herzegovina",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "BLR",
+    "pc1": 0.872331373,
+    "pc2": 0.270715946,
+    "pais": "Belarus",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "BOL",
+    "pc1": -0.418855811,
+    "pc2": 1.007477236,
+    "pais": "Bolivia",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Lower middle income",
+    "latinoamerica": true,
+    "grupo": 2
+   },
+   {
+    "iso3": "BRA",
+    "pc1": 1.196860361,
+    "pc2": 0.03852895,
+    "pais": "Brazil",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "BWA",
+    "pc1": 0.47892776,
+    "pc2": -0.08633979,
+    "pais": "Botswana",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "CAF",
+    "pc1": -4.570682071,
+    "pc2": -1.070978374,
+    "pais": "Central African Republic",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "CAN",
+    "pc1": 2.80160569,
+    "pc2": 0.259305055,
+    "pais": "Canada",
+    "region": "North America",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "CHE",
+    "pc1": 4.148152986,
+    "pc2": -0.985058524,
+    "pais": "Switzerland",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "CHL",
+    "pc1": 2.3050079,
+    "pc2": 1.260954546,
+    "pais": "Chile",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 0
+   },
+   {
+    "iso3": "CHN",
+    "pc1": 1.601762113,
+    "pc2": 0.241164116,
+    "pais": "China",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "CIV",
+    "pc1": -1.85943124,
+    "pc2": -0.606781465,
+    "pais": "Cote d'Ivoire",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "CMR",
+    "pc1": -2.400504364,
+    "pc2": 0.153905092,
+    "pais": "Cameroon",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "COD",
+    "pc1": -3.544719254,
+    "pc2": 1.174548931,
+    "pais": "Congo, Dem. Rep.",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "COG",
+    "pc1": -2.072198452,
+    "pc2": 2.070945305,
+    "pais": "Congo, Rep.",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "COL",
+    "pc1": 0.657118389,
+    "pc2": 0.979133727,
+    "pais": "Colombia",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 2
+   },
+   {
+    "iso3": "CRI",
+    "pc1": 1.80282332,
+    "pc2": -1.009739871,
+    "pais": "Costa Rica",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "CUB",
+    "pc1": 1.096218058,
+    "pc2": -0.289597195,
+    "pais": "Cuba",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "CYP",
+    "pc1": 3.22095723,
+    "pc2": -0.21659677,
+    "pais": "Cyprus",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "CZE",
+    "pc1": 2.13085108,
+    "pc2": -0.703204905,
+    "pais": "Czechia",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "DEU",
+    "pc1": 2.828645444,
+    "pc2": -0.912702633,
+    "pais": "Germany",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "DJI",
+    "pc1": 1.040937144,
+    "pc2": -2.652934118,
+    "pais": "Djibouti",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "DNK",
+    "pc1": 3.845094236,
+    "pc2": -0.877092388,
+    "pais": "Denmark",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "DOM",
+    "pc1": 0.706853911,
+    "pc2": -0.148696925,
+    "pais": "Dominican Republic",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "DZA",
+    "pc1": -0.709915194,
+    "pc2": 3.813791176,
+    "pais": "Algeria",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "ECU",
+    "pc1": 0.049180209,
+    "pc2": 0.280952553,
+    "pais": "Ecuador",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "EGY",
+    "pc1": -0.926179043,
+    "pc2": -0.38038315,
+    "pais": "Egypt, Arab Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "ESP",
+    "pc1": 2.551495626,
+    "pc2": -0.593075606,
+    "pais": "Spain",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "EST",
+    "pc1": 2.39472122,
+    "pc2": -0.420949136,
+    "pais": "Estonia",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "ETH",
+    "pc1": -4.407091388,
+    "pc2": -0.089754074,
+    "pais": "Ethiopia",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "FIN",
+    "pc1": 2.607249399,
+    "pc2": -0.445620131,
+    "pais": "Finland",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "FRA",
+    "pc1": 2.604252748,
+    "pc2": -0.789554039,
+    "pais": "France",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "GAB",
+    "pc1": -0.425343551,
+    "pc2": 1.180573815,
+    "pais": "Gabon",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "GBR",
+    "pc1": 3.156162023,
+    "pc2": -0.756106436,
+    "pais": "United Kingdom",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "GEO",
+    "pc1": 0.879940793,
+    "pc2": 0.172026744,
+    "pais": "Georgia",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "GHA",
+    "pc1": -1.699571758,
+    "pc2": -0.123998337,
+    "pais": "Ghana",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "GIN",
+    "pc1": -3.413411681,
+    "pc2": 0.1496386,
+    "pais": "Guinea",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "GMB",
+    "pc1": -2.469725869,
+    "pc2": -0.212820235,
+    "pais": "Gambia, The",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "GNB",
+    "pc1": -3.946806908,
+    "pc2": -0.895435786,
+    "pais": "Guinea-Bissau",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "GNQ",
+    "pc1": -0.79603593,
+    "pc2": -0.903947135,
+    "pais": "Equatorial Guinea",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "GRC",
+    "pc1": 1.754108068,
+    "pc2": -0.244341375,
+    "pais": "Greece",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "GTM",
+    "pc1": -0.646308677,
+    "pc2": -1.317563476,
+    "pais": "Guatemala",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "HKG",
+    "pc1": 6.31466365,
+    "pc2": -1.921779621,
+    "pais": "Hong Kong SAR, China",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "HND",
+    "pc1": -0.509442354,
+    "pc2": -0.991306711,
+    "pais": "Honduras",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Lower middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "HRV",
+    "pc1": 1.208524521,
+    "pc2": -0.3508716,
+    "pais": "Croatia",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "HTI",
+    "pc1": -2.253011585,
+    "pc2": -0.979657619,
+    "pais": "Haiti",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Lower middle income",
+    "latinoamerica": true,
+    "grupo": 1
+   },
+   {
+    "iso3": "HUN",
+    "pc1": 1.719771912,
+    "pc2": -0.473245235,
+    "pais": "Hungary",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "IDN",
+    "pc1": -0.65397832,
+    "pc2": 0.863658404,
+    "pais": "Indonesia",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "IND",
+    "pc1": -1.380390283,
+    "pc2": 0.352270936,
+    "pais": "India",
+    "region": "South Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "IRL",
+    "pc1": 3.079781983,
+    "pc2": -1.070547812,
+    "pais": "Ireland",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "IRN",
+    "pc1": 0.22075997,
+    "pc2": 2.376500699,
+    "pais": "Iran, Islamic Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "IRQ",
+    "pc1": -1.321155305,
+    "pc2": 2.568315649,
+    "pais": "Iraq",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "ISR",
+    "pc1": 2.310933065,
+    "pc2": -0.674601388,
+    "pais": "Israel",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "ITA",
+    "pc1": 1.780480849,
+    "pc2": -0.915701418,
+    "pais": "Italy",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "JAM",
+    "pc1": 0.56597134,
+    "pc2": 1.506258247,
+    "pais": "Jamaica",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 2
+   },
+   {
+    "iso3": "JOR",
+    "pc1": 1.12369498,
+    "pc2": -0.427126128,
+    "pais": "Jordan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "JPN",
+    "pc1": 3.295033007,
+    "pc2": -0.962146903,
+    "pais": "Japan",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "KAZ",
+    "pc1": 0.502322546,
+    "pc2": 1.911933746,
+    "pais": "Kazakhstan",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "KEN",
+    "pc1": -2.438554854,
+    "pc2": -1.035235359,
+    "pais": "Kenya",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "KGZ",
+    "pc1": -1.124771414,
+    "pc2": 0.125367984,
+    "pais": "Kyrgyz Republic",
+    "region": "Europe & Central Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "KHM",
+    "pc1": -1.047029363,
+    "pc2": -0.605879679,
+    "pais": "Cambodia",
+    "region": "East Asia & Pacific",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "KOR",
+    "pc1": 3.336479009,
+    "pc2": -0.08321032,
+    "pais": "Korea, Rep.",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "KWT",
+    "pc1": 2.539701452,
+    "pc2": 2.817794213,
+    "pais": "Kuwait",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "LAO",
+    "pc1": -1.902608708,
+    "pc2": 1.203332353,
+    "pais": "Lao PDR",
+    "region": "East Asia & Pacific",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "LBN",
+    "pc1": 1.589442257,
+    "pc2": -1.057472032,
+    "pais": "Lebanon",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "LBR",
+    "pc1": -3.883568146,
+    "pc2": -0.393055707,
+    "pais": "Liberia",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "LBY",
+    "pc1": -0.252563335,
+    "pc2": 2.101190244,
+    "pais": "Libya",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "LKA",
+    "pc1": -0.868174591,
+    "pc2": -0.332888432,
+    "pais": "Sri Lanka",
+    "region": "South Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "LSO",
+    "pc1": -1.19158802,
+    "pc2": -0.875219182,
+    "pais": "Lesotho",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "LTU",
+    "pc1": 1.967580389,
+    "pc2": -0.613321152,
+    "pais": "Lithuania",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "LVA",
+    "pc1": 1.743113395,
+    "pc2": -0.547394648,
+    "pais": "Latvia",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "MAR",
+    "pc1": 0.374947819,
+    "pc2": -0.0289504,
+    "pais": "Morocco",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "MDA",
+    "pc1": -0.151862791,
+    "pc2": -0.432491188,
+    "pais": "Moldova",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "MDG",
+    "pc1": -3.501546342,
+    "pc2": -0.583634229,
+    "pais": "Madagascar",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MEX",
+    "pc1": 0.936523835,
+    "pc2": -0.5131579,
+    "pais": "Mexico",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "MKD",
+    "pc1": 0.980850721,
+    "pc2": 0.10918156,
+    "pais": "North Macedonia",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "MLI",
+    "pc1": -4.130144973,
+    "pc2": -0.81006685,
+    "pais": "Mali",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MMR",
+    "pc1": -2.387296696,
+    "pc2": 0.042706184,
+    "pais": "Myanmar",
+    "region": "East Asia & Pacific",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MNG",
+    "pc1": -0.38976728,
+    "pc2": 2.602399108,
+    "pais": "Mongolia",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "MOZ",
+    "pc1": -3.807931255,
+    "pc2": 1.797989783,
+    "pais": "Mozambique",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MRT",
+    "pc1": -2.586457087,
+    "pc2": 1.665962941,
+    "pais": "Mauritania",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MUS",
+    "pc1": 1.752878108,
+    "pc2": -1.247588313,
+    "pais": "Mauritius",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "MWI",
+    "pc1": -3.829446193,
+    "pc2": -1.707720647,
+    "pais": "Malawi",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "MYS",
+    "pc1": 2.26355576,
+    "pc2": -0.368990341,
+    "pais": "Malaysia",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "NAM",
+    "pc1": -0.219044654,
+    "pc2": -0.457317258,
+    "pais": "Namibia",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "NER",
+    "pc1": -5.194486268,
+    "pc2": 1.18512625,
+    "pais": "Niger",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "NGA",
+    "pc1": -2.383010258,
+    "pc2": 1.706636301,
+    "pais": "Nigeria",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "NIC",
+    "pc1": -1.1700554,
+    "pc2": -0.494237003,
+    "pais": "Nicaragua",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Lower middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "NLD",
+    "pc1": 3.701108011,
+    "pc2": -0.717163612,
+    "pais": "Netherlands",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "NOR",
+    "pc1": 3.039595709,
+    "pc2": 1.718404799,
+    "pais": "Norway",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "NPL",
+    "pc1": -1.430044077,
+    "pc2": 0.24099808,
+    "pais": "Nepal",
+    "region": "South Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "NZL",
+    "pc1": 3.104816658,
+    "pc2": -0.576594774,
+    "pais": "New Zealand",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "OMN",
+    "pc1": 1.806714036,
+    "pc2": 2.727109383,
+    "pais": "Oman",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "PAK",
+    "pc1": -2.721288428,
+    "pc2": -1.378659763,
+    "pais": "Pakistan",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "PAN",
+    "pc1": 1.314818501,
+    "pc2": 1.106516711,
+    "pais": "Panama",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 2
+   },
+   {
+    "iso3": "PER",
+    "pc1": 0.316457757,
+    "pc2": 0.995465681,
+    "pais": "Peru",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 2
+   },
+   {
+    "iso3": "PHL",
+    "pc1": -0.112053077,
+    "pc2": -0.859020771,
+    "pais": "Philippines",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "PNG",
+    "pc1": -3.179591463,
+    "pc2": 1.727637499,
+    "pais": "Papua New Guinea",
+    "region": "East Asia & Pacific",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "POL",
+    "pc1": 1.565776372,
+    "pc2": -0.760662716,
+    "pais": "Poland",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "PRI",
+    "pc1": 2.288871696,
+    "pc2": -1.920169685,
+    "pais": "Puerto Rico (US)",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "PRT",
+    "pc1": 2.014111767,
+    "pc2": -0.996167163,
+    "pais": "Portugal",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "PRY",
+    "pc1": -0.025251106,
+    "pc2": -0.089148164,
+    "pais": "Paraguay",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "PSE",
+    "pc1": -0.027292915,
+    "pc2": -0.265511657,
+    "pais": "West Bank and Gaza",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "QAT",
+    "pc1": 3.528995778,
+    "pc2": 4.287381416,
+    "pais": "Qatar",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "ROU",
+    "pc1": 0.865744042,
+    "pc2": -0.469895483,
+    "pais": "Romania",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "RUS",
+    "pc1": 0.985321102,
+    "pc2": 1.381609087,
+    "pais": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "RWA",
+    "pc1": -2.814972041,
+    "pc2": -0.235719272,
+    "pais": "Rwanda",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "SAU",
+    "pc1": 1.811113221,
+    "pc2": 2.61290303,
+    "pais": "Saudi Arabia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 2
+   },
+   {
+    "iso3": "SDN",
+    "pc1": -3.698656775,
+    "pc2": -1.294856055,
+    "pais": "Sudan",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "SEN",
+    "pc1": -1.643024491,
+    "pc2": 0.269784936,
+    "pais": "Senegal",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "SGP",
+    "pc1": 5.609328927,
+    "pc2": -0.892273215,
+    "pais": "Singapore",
+    "region": "East Asia & Pacific",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "SLE",
+    "pc1": -3.767662126,
+    "pc2": -0.866771137,
+    "pais": "Sierra Leone",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "SLV",
+    "pc1": 0.391675105,
+    "pc2": -0.91629582,
+    "pais": "El Salvador",
+    "region": "Latin America & Caribbean",
+    "ingreso": "Upper middle income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "SRB",
+    "pc1": 0.713023912,
+    "pc2": -0.156144365,
+    "pais": "Serbia",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "SSD",
+    "pc1": -3.554499386,
+    "pc2": -1.902814429,
+    "pais": "South Sudan",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "SVK",
+    "pc1": 2.046347125,
+    "pc2": -0.912932183,
+    "pais": "Slovak Republic",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "SVN",
+    "pc1": 1.843359755,
+    "pc2": -0.957806579,
+    "pais": "Slovenia",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "SWE",
+    "pc1": 3.32470985,
+    "pc2": -0.500944048,
+    "pais": "Sweden",
+    "region": "Europe & Central Asia",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "SWZ",
+    "pc1": -1.014554119,
+    "pc2": -1.812010298,
+    "pais": "Eswatini",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "TCD",
+    "pc1": -5.162324126,
+    "pc2": -0.719380849,
+    "pais": "Chad",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "TGO",
+    "pc1": -2.700928673,
+    "pc2": -0.698590864,
+    "pais": "Togo",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "THA",
+    "pc1": 1.786685543,
+    "pc2": -1.109464003,
+    "pais": "Thailand",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "TJK",
+    "pc1": -3.185042987,
+    "pc2": 1.764642804,
+    "pais": "Tajikistan",
+    "region": "Europe & Central Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "TLS",
+    "pc1": -2.349166331,
+    "pc2": 0.956263022,
+    "pais": "Timor-Leste",
+    "region": "East Asia & Pacific",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "TTO",
+    "pc1": 1.2842754,
+    "pc2": 0.358117865,
+    "pais": "Trinidad and Tobago",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "TUN",
+    "pc1": 0.687546408,
+    "pc2": -1.010416209,
+    "pais": "Tunisia",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "TUR",
+    "pc1": 1.321663786,
+    "pc2": 0.423187447,
+    "pais": "Turkiye",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "TZA",
+    "pc1": -3.766065364,
+    "pc2": 0.486843729,
+    "pais": "Tanzania",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "UGA",
+    "pc1": -3.744098231,
+    "pc2": -1.094599436,
+    "pais": "Uganda",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "UKR",
+    "pc1": 0.27054729,
+    "pc2": -0.444861525,
+    "pais": "Ukraine",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "URY",
+    "pc1": 1.645486195,
+    "pc2": -0.758565092,
+    "pais": "Uruguay",
+    "region": "Latin America & Caribbean",
+    "ingreso": "High income",
+    "latinoamerica": true,
+    "grupo": 3
+   },
+   {
+    "iso3": "USA",
+    "pc1": 3.647962979,
+    "pc2": -0.678270581,
+    "pais": "United States",
+    "region": "North America",
+    "ingreso": "High income",
+    "latinoamerica": false,
+    "grupo": 0
+   },
+   {
+    "iso3": "UZB",
+    "pc1": -1.482694789,
+    "pc2": 0.756992685,
+    "pais": "Uzbekistan",
+    "region": "Europe & Central Asia",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "VNM",
+    "pc1": 0.32591848,
+    "pc2": -0.455886333,
+    "pais": "Viet Nam",
+    "region": "East Asia & Pacific",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "XKX",
+    "pc1": 0.109866591,
+    "pc2": 0.90380889,
+    "pais": "Kosovo",
+    "region": "Europe & Central Asia",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "YEM",
+    "pc1": -3.851313395,
+    "pc2": -1.939558825,
+    "pais": "Yemen, Rep.",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "ingreso": "Low income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "ZAF",
+    "pc1": 1.235077667,
+    "pc2": -0.262383035,
+    "pais": "South Africa",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Upper middle income",
+    "latinoamerica": false,
+    "grupo": 3
+   },
+   {
+    "iso3": "ZMB",
+    "pc1": -2.102797165,
+    "pc2": 1.794552936,
+    "pais": "Zambia",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   },
+   {
+    "iso3": "ZWE",
+    "pc1": -2.813720701,
+    "pc2": -0.724789224,
+    "pais": "Zimbabwe",
+    "region": "Sub-Saharan Africa",
+    "ingreso": "Lower middle income",
+    "latinoamerica": false,
+    "grupo": 1
+   }
+  ],
+  "cargas": {
+   "log_pib_pc": [
+    0.386693991,
+    0.095248301
+   ],
+   "agro_pib": [
+    -0.361741469,
+    -0.067609921
+   ],
+   "manufactura_pib": [
+    0.096844572,
+    -0.240448776
+   ],
+   "servicios_pib": [
+    0.309008554,
+    -0.282832764
+   ],
+   "comercio_pib": [
+    0.210086873,
+    -0.12826184
+   ],
+   "inversion_pib": [
+    -0.000689191,
+    0.459378564
+   ],
+   "materias_primas": [
+    -0.024973152,
+    0.729003319
+   ],
+   "pob_15_64": [
+    0.314711535,
+    0.20257634
+   ],
+   "urbana": [
+    0.330698797,
+    0.152893656
+   ],
+   "credito_pib": [
+    0.314224703,
+    -0.088913351
+   ],
+   "instituciones": [
+    0.33837251,
+    -0.087107097
+   ],
+   "internet": [
+    0.385158302,
+    0.098560624
+   ]
+  }
+ },
+ "anterior": {
+  "ventana": [
+   1996,
+   2005
+  ],
+  "n_paises": 151,
+  "valores_imputados": 80,
+  "varianza_pca": [
+   0.504710343,
+   0.119730713,
+   0.099657135,
+   0.071339275,
+   0.055856831,
+   0.042304295,
+   0.032054744
+  ],
+  "gemelos": [
+   {
+    "iso3": "PER",
+    "pais": "Peru",
+    "region": "Latin America & Caribbean",
+    "distancia": 0.455230059
+   },
+   {
+    "iso3": "ARG",
+    "pais": "Argentina",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.114494071
+   },
+   {
+    "iso3": "BRA",
+    "pais": "Brazil",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.161644933
+   },
+   {
+    "iso3": "ECU",
+    "pais": "Ecuador",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.298431267
+   },
+   {
+    "iso3": "BOL",
+    "pais": "Bolivia",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.31969524
+   },
+   {
+    "iso3": "MEX",
+    "pais": "Mexico",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.355115363
+   },
+   {
+    "iso3": "CUB",
+    "pais": "Cuba",
+    "region": "Latin America & Caribbean",
+    "distancia": 1.422247949
+   },
+   {
+    "iso3": "RUS",
+    "pais": "Russian Federation",
+    "region": "Europe & Central Asia",
+    "distancia": 1.450302304
+   },
+   {
+    "iso3": "BGR",
+    "pais": "Bulgaria",
+    "region": "Europe & Central Asia",
+    "distancia": 1.540694195
+   },
+   {
+    "iso3": "MKD",
+    "pais": "North Macedonia",
+    "region": "Europe & Central Asia",
+    "distancia": 1.546303884
+   }
+  ],
+  "k": 4,
+  "silueta": {
+   "4": 0.222270297,
+   "5": 0.18209983,
+   "6": 0.186801517,
+   "7": 0.195693841,
+   "8": 0.176822195,
+   "9": 0.178502159,
+   "10": 0.187350743
+  },
+  "acuerdo_ward": 0.630647229,
+  "mismo_grupo": [
+   "Argentina",
+   "Bulgaria",
+   "Bosnia and Herzegovina",
+   "Belarus",
+   "Bolivia",
+   "Brazil",
+   "Botswana",
+   "China",
+   "Costa Rica",
+   "Cuba",
+   "Dominican Republic",
+   "Ecuador",
+   "Egypt, Arab Rep.",
+   "Georgia",
+   "Greece",
+   "Guatemala",
+   "Honduras",
+   "Croatia",
+   "Hungary",
+   "Indonesia",
+   "Jordan",
+   "Lebanon",
+   "Sri Lanka",
+   "Lithuania",
+   "Latvia",
+   "Morocco",
+   "Moldova",
+   "Mexico",
+   "North Macedonia",
+   "Mauritius",
+   "Namibia",
+   "Nicaragua",
+   "Panama",
+   "Peru",
+   "Philippines",
+   "Poland",
+   "Paraguay",
+   "West Bank and Gaza",
+   "Romania",
+   "El Salvador",
+   "Serbia",
+   "Eswatini",
+   "Thailand",
+   "Trinidad and Tobago",
+   "Tunisia",
+   "Turkiye",
+   "Ukraine",
+   "Uruguay",
+   "Viet Nam",
+   "South Africa"
+  ],
+  "colombia": {
+   "log_pib_pc": 9.324510006,
+   "agro_pib": 10.051557276,
+   "manufactura_pib": 14.28434304,
+   "servicios_pib": 56.579530535,
+   "comercio_pib": 35.305252207,
+   "inversion_pib": 18.36413798,
+   "materias_primas": 37.500530193,
+   "pob_15_64": 63.13531041,
+   "urbana": 74.410283493,
+   "credito_pib": 26.907754996,
+   "instituciones": -0.409854311,
+   "internet": 4.088761087
+  },
+  "mediana_gemelos": {
+   "log_pib_pc": 9.458824845,
+   "agro_pib": 7.22057839,
+   "manufactura_pib": 15.476152314,
+   "servicios_pib": 53.945584963,
+   "comercio_pib": 49.874656859,
+   "inversion_pib": 18.063193053,
+   "materias_primas": 28.867186661,
+   "pob_15_64": 63.718752421,
+   "urbana": 73.092492782,
+   "credito_pib": 22.720471649,
+   "instituciones": -0.35629463,
+   "internet": 6.919877473
+  },
+  "mediana_latam": {
+   "log_pib_pc": 9.255122374,
+   "agro_pib": 7.623704158,
+   "manufactura_pib": 15.482054909,
+   "servicios_pib": 54.204251093,
+   "comercio_pib": 56.396949469,
+   "inversion_pib": 18.36413798,
+   "materias_primas": 12.350583011,
+   "pob_15_64": 61.05822853,
+   "urbana": 62.104882911,
+   "credito_pib": 24.675996569,
+   "instituciones": -0.364800646,
+   "internet": 4.622247571
+  }
+ },
+ "gemelos_estables": [
+  "PER",
+  "RUS",
+  "ECU",
+  "BRA",
+  "BOL",
+  "ARM",
+  "JAM",
+  "KAZ"
+ ],
+ "umbral_estable": 0.75
+}

@@ -35,7 +35,7 @@ def panel_fe(p, h=3):
     g = x.groupby("iso3")
     x["crec_fut"] = sum(g.crec_pib_pc.shift(-k) for k in range(1, h + 1)) / h
     x["log_dens"] = np.log(x.densidad_empresas.where(x.densidad_empresas > 0))
-    x["dlog_dens_fut"] = g.log_dens.shift(-h) - x.log_dens if False else x.groupby("iso3").log_dens.shift(-h) - x.log_dens
+    x["dlog_dens_fut"] = x.groupby("iso3").log_dens.shift(-h) - x.log_dens
     x["log_y"] = np.log(x.pib_pc_ppa)
     out = {}
     d1 = x.dropna(subset=["crec_fut", "log_dens", "log_y", "crec_pib_pc"])

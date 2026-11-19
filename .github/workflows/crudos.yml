@@ -1,10 +1,6 @@
 name: Datos crudos
 on:
   workflow_dispatch:
-  push:
-    paths: ["ingesta/**", ".github/workflows/crudos.yml"]
-  schedule:
-    - cron: "41 10 1 * *"   # una vez al mes
 permissions:
   contents: write
 jobs:

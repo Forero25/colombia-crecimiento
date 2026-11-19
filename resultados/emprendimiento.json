@@ -1,0 +1,12811 @@
+{
+ "densidad": {
+  "variable": "densidad_empresas",
+  "ventana": [
+   2015,
+   2022
+  ],
+  "n": 143,
+  "colombia": 2.056662468,
+  "esperado_colombia": 1.73060785,
+  "razon_colombia": 1.18840468,
+  "percentil_razon": 0.594405594,
+  "mediana_gemelos": 2.976715389,
+  "mediana_latam": 1.564615155,
+  "elasticidad_ingreso": 0.856512035,
+  "puntos": [
+   {
+    "iso3": "AFG",
+    "pais": "Afghanistan",
+    "v": 0.162152127,
+    "y": 2700.584515246,
+    "esperado": 0.355836552,
+    "lat": false
+   },
+   {
+    "iso3": "AGO",
+    "pais": "Angola",
+    "v": 0.871983908,
+    "y": 9895.359260956,
+    "esperado": 1.082183475,
+    "lat": false
+   },
+   {
+    "iso3": "ALB",
+    "pais": "Albania",
+    "v": 1.529395976,
+    "y": 16358.867564994,
+    "esperado": 1.664546899,
+    "lat": false
+   },
+   {
+    "iso3": "ARE",
+    "pais": "United Arab Emirates",
+    "v": 2.431120291,
+    "y": 71799.631545257,
+    "esperado": 5.90871166,
+    "lat": false
+   },
+   {
+    "iso3": "ARG",
+    "pais": "Argentina",
+    "v": 0.599927813,
+    "y": 27100.659853193,
+    "esperado": 2.564875457,
+    "lat": true
+   },
+   {
+    "iso3": "ARM",
+    "pais": "Armenia",
+    "v": 3.022822691,
+    "y": 15082.856843902,
+    "esperado": 1.55269865,
+    "lat": false
+   },
+   {
+    "iso3": "AUS",
+    "pais": "Australia",
+    "v": 15.252386428,
+    "y": 57575.66021219,
+    "esperado": 4.890661518,
+    "lat": false
+   },
+   {
+    "iso3": "AUT",
+    "pais": "Austria",
+    "v": 1.001349319,
+    "y": 62798.362961385,
+    "esperado": 5.268247356,
+    "lat": false
+   },
+   {
+    "iso3": "AZE",
+    "pais": "Azerbaijan",
+    "v": 1.557500899,
+    "y": 20041.52862055,
+    "esperado": 1.980711474,
+    "lat": false
+   },
+   {
+    "iso3": "BDI",
+    "pais": "Burundi",
+    "v": 0.638870956,
+    "y": 1025.743658579,
+    "esperado": 0.155294717,
+    "lat": false
+   },
+   {
+    "iso3": "BEL",
+    "pais": "Belgium",
+    "v": 4.164884782,
+    "y": 59297.900309793,
+    "esperado": 5.01569701,
+    "lat": false
+   },
+   {
+    "iso3": "BEN",
+    "pais": "Benin",
+    "v": 0.590201842,
+    "y": 3220.434326856,
+    "esperado": 0.413748677,
+    "lat": false
+   },
+   {
+    "iso3": "BFA",
+    "pais": "Burkina Faso",
+    "v": 0.384994276,
+    "y": 2317.651134375,
+    "esperado": 0.312154674,
+    "lat": false
+   },
+   {
+    "iso3": "BGD",
+    "pais": "Bangladesh",
+    "v": 0.083109762,
+    "y": 6577.03805883,
+    "esperado": 0.762701544,
+    "lat": false
+   },
+   {
+    "iso3": "BGR",
+    "pais": "Bulgaria",
+    "v": 9.834755872,
+    "y": 28205.726808402,
+    "esperado": 2.65419685,
+    "lat": false
+   },
+   {
+    "iso3": "BHR",
+    "pais": "Bahrain",
+    "v": 4.047153728,
+    "y": 55012.714705385,
+    "esperado": 4.703588857,
+    "lat": false
+   },
+   {
+    "iso3": "BIH",
+    "pais": "Bosnia and Herzegovina",
+    "v": 1.170912648,
+    "y": 16544.812592033,
+    "esperado": 1.680739181,
+    "lat": false
+   },
+   {
+    "iso3": "BLR",
+    "pais": "Belarus",
+    "v": 1.195676155,
+    "y": 26238.311482453,
+    "esperado": 2.494809806,
+    "lat": false
+   },
+   {
+    "iso3": "BOL",
+    "pais": "Bolivia",
+    "v": 0.484667518,
+    "y": 11396.870419505,
+    "esperado": 1.221381606,
+    "lat": true
+   },
+   {
+    "iso3": "BRA",
+    "pais": "Brazil",
+    "v": 3.762212087,
+    "y": 17949.514287899,
+    "esperado": 1.80224161,
+    "lat": true
+   },
+   {
+    "iso3": "BWA",
+    "pais": "Botswana",
+    "v": 9.815460075,
+    "y": 17385.233533556,
+    "esperado": 1.753603202,
+    "lat": false
+   },
+   {
+    "iso3": "CAF",
+    "pais": "Central African Republic",
+    "v": 0.078712675,
+    "y": 1111.806720279,
+    "esperado": 0.166389695,
+    "lat": false
+   },
+   {
+    "iso3": "CAN",
+    "pais": "Canada",
+    "v": 3.69829885,
+    "y": 56558.957379521,
+    "esperado": 4.816597073,
+    "lat": false
+   },
+   {
+    "iso3": "CHE",
+    "pais": "Switzerland",
+    "v": 3.87091999,
+    "y": 81030.027736616,
+    "esperado": 6.553601653,
+    "lat": false
+   },
+   {
+    "iso3": "CHL",
+    "pais": "Chile",
+    "v": 8.175662808,
+    "y": 28166.972519262,
+    "esperado": 2.651072987,
+    "lat": true
+   },
+   {
+    "iso3": "CHN",
+    "pais": "China",
+    "v": 14.760393563,
+    "y": 18196.667542685,
+    "esperado": 1.823475673,
+    "lat": false
+   },
+   {
+    "iso3": "CIV",
+    "pais": "Cote d'Ivoire",
+    "v": 4.222377885,
+    "y": 5707.304007376,
+    "esperado": 0.6754513,
+    "lat": false
+   },
+   {
+    "iso3": "COD",
+    "pais": "Congo, Dem. Rep.",
+    "v": 0.077307406,
+    "y": 1411.497765292,
+    "esperado": 0.204128982,
+    "lat": false
+   },
+   {
+    "iso3": "COG",
+    "pais": "Congo, Rep.",
+    "v": 0.169474189,
+    "y": 7142.479280163,
+    "esperado": 0.818528333,
+    "lat": false
+   },
+   {
+    "iso3": "COL",
+    "pais": "Colombia",
+    "v": 2.056662468,
+    "y": 17119.358991311,
+    "esperado": 1.73060785,
+    "lat": true
+   },
+   {
+    "iso3": "CRI",
+    "pais": "Costa Rica",
+    "v": 5.118737812,
+    "y": 23017.998202017,
+    "esperado": 2.230124105,
+    "lat": true
+   },
+   {
+    "iso3": "CYP",
+    "pais": "Cyprus",
+    "v": 1.861045412,
+    "y": 43627.173828125,
+    "esperado": 3.856323465,
+    "lat": false
+   },
+   {
+    "iso3": "CZE",
+    "pais": "Czechia",
+    "v": 4.121052212,
+    "y": 45710.612162301,
+    "esperado": 4.013528508,
+    "lat": false
+   },
+   {
+    "iso3": "DEU",
+    "pais": "Germany",
+    "v": 1.372709681,
+    "y": 61784.787675352,
+    "esperado": 5.195333001,
+    "lat": false
+   },
+   {
+    "iso3": "DJI",
+    "pais": "Djibouti",
+    "v": 0.722489047,
+    "y": 5617.799936475,
+    "esperado": 0.666368274,
+    "lat": false
+   },
+   {
+    "iso3": "DNK",
+    "pais": "Denmark",
+    "v": 8.793964657,
+    "y": 65867.975009874,
+    "esperado": 5.488051994,
+    "lat": false
+   },
+   {
+    "iso3": "DOM",
+    "pais": "Dominican Republic",
+    "v": 1.353891956,
+    "y": 20392.999827649,
+    "esperado": 2.010426112,
+    "lat": true
+   },
+   {
+    "iso3": "DZA",
+    "pais": "Algeria",
+    "v": 0.567347649,
+    "y": 15024.339230681,
+    "esperado": 1.547537522,
+    "lat": false
+   },
+   {
+    "iso3": "ECU",
+    "pais": "Ecuador",
+    "v": 0.922455347,
+    "y": 13716.955775565,
+    "esperado": 1.431451774,
+    "lat": true
+   },
+   {
+    "iso3": "EGY",
+    "pais": "Egypt, Arab Rep.",
+    "v": 0.16750288,
+    "y": 14741.876655066,
+    "esperado": 1.522584117,
+    "lat": false
+   },
+   {
+    "iso3": "ESP",
+    "pais": "Spain",
+    "v": 3.045876172,
+    "y": 44816.862694502,
+    "esperado": 3.946219693,
+    "lat": false
+   },
+   {
+    "iso3": "EST",
+    "pais": "Estonia",
+    "v": 23.109648942,
+    "y": 40587.880113161,
+    "esperado": 3.625038541,
+    "lat": false
+   },
+   {
+    "iso3": "ETH",
+    "pais": "Ethiopia",
+    "v": 0.249033862,
+    "y": 2346.846733225,
+    "esperado": 0.315519649,
+    "lat": false
+   },
+   {
+    "iso3": "FIN",
+    "pais": "Finland",
+    "v": 5.240814021,
+    "y": 55604.588702297,
+    "esperado": 4.746899538,
+    "lat": false
+   },
+   {
+    "iso3": "FRA",
+    "pais": "France",
+    "v": 5.37132005,
+    "y": 51884.316013162,
+    "esperado": 4.473534982,
+    "lat": false
+   },
+   {
+    "iso3": "GAB",
+    "pais": "Gabon",
+    "v": 1.142426908,
+    "y": 19284.464224267,
+    "esperado": 1.916450202,
+    "lat": false
+   },
+   {
+    "iso3": "GBR",
+    "pais": "United Kingdom",
+    "v": 16.509676517,
+    "y": 51771.018101368,
+    "esperado": 4.465166664,
+    "lat": false
+   },
+   {
+    "iso3": "GEO",
+    "pais": "Georgia",
+    "v": 9.107118381,
+    "y": 17368.288783726,
+    "esperado": 1.752139173,
+    "lat": false
+   },
+   {
+    "iso3": "GHA",
+    "pais": "Ghana",
+    "v": 1.31004129,
+    "y": 6219.809537105,
+    "esperado": 0.727078678,
+    "lat": false
+   },
+   {
+    "iso3": "GIN",
+    "pais": "Guinea",
+    "v": 0.425862761,
+    "y": 3434.665332507,
+    "esperado": 0.437213177,
+    "lat": false
+   },
+   {
+    "iso3": "GMB",
+    "pais": "Gambia, The",
+    "v": 1.694520657,
+    "y": 2656.644356234,
+    "esperado": 0.350871798,
+    "lat": false
+   },
+   {
+    "iso3": "GNB",
+    "pais": "Guinea-Bissau",
+    "v": 0.489851336,
+    "y": 2407.665030974,
+    "esperado": 0.322510162,
+    "lat": false
+   },
+   {
+    "iso3": "GRC",
+    "pais": "Greece",
+    "v": 1.612950778,
+    "y": 32610.075589549,
+    "esperado": 3.005424455,
+    "lat": false
+   },
+   {
+    "iso3": "GTM",
+    "pais": "Guatemala",
+    "v": 0.6082755,
+    "y": 11298.691451341,
+    "esperado": 1.21236409,
+    "lat": true
+   },
+   {
+    "iso3": "HKG",
+    "pais": "Hong Kong SAR, China",
+    "v": 24.624378375,
+    "y": 64477.932100328,
+    "esperado": 5.388701972,
+    "lat": false
+   },
+   {
+    "iso3": "HND",
+    "pais": "Honduras",
+    "v": 0.446988515,
+    "y": 6060.09536833,
+    "esperado": 0.711057718,
+    "lat": true
+   },
+   {
+    "iso3": "HRV",
+    "pais": "Croatia",
+    "v": 15.459535772,
+    "y": 33846.94693495,
+    "esperado": 3.102798989,
+    "lat": false
+   },
+   {
+    "iso3": "HUN",
+    "pais": "Hungary",
+    "v": 4.011531069,
+    "y": 35846.456416511,
+    "esperado": 3.259145018,
+    "lat": false
+   },
+   {
+    "iso3": "IDN",
+    "pais": "Indonesia",
+    "v": 0.422688218,
+    "y": 12185.72511922,
+    "esperado": 1.293440794,
+    "lat": false
+   },
+   {
+    "iso3": "IND",
+    "pais": "India",
+    "v": 0.136162098,
+    "y": 7338.320910513,
+    "esperado": 0.837713998,
+    "lat": false
+   },
+   {
+    "iso3": "IRL",
+    "pais": "Ireland",
+    "v": 6.768129015,
+    "y": 97516.618292455,
+    "esperado": 7.680183,
+    "lat": false
+   },
+   {
+    "iso3": "IRN",
+    "pais": "Iran, Islamic Rep.",
+    "v": 0.597395252,
+    "y": 15597.512212655,
+    "esperado": 1.597967836,
+    "lat": false
+   },
+   {
+    "iso3": "IRQ",
+    "pais": "Iraq",
+    "v": 0.101432869,
+    "y": 13913.62456527,
+    "esperado": 1.449012537,
+    "lat": false
+   },
+   {
+    "iso3": "ISR",
+    "pais": "Israel",
+    "v": 3.243815987,
+    "y": 43898.068220545,
+    "esperado": 3.876823604,
+    "lat": false
+   },
+   {
+    "iso3": "ITA",
+    "pais": "Italy",
+    "v": 2.789215562,
+    "y": 48857.397073608,
+    "esperado": 4.249041096,
+    "lat": false
+   },
+   {
+    "iso3": "JAM",
+    "pais": "Jamaica",
+    "v": 1.775338355,
+    "y": 10421.744157641,
+    "esperado": 1.131305742,
+    "lat": true
+   },
+   {
+    "iso3": "JOR",
+    "pais": "Jordan",
+    "v": 0.538431651,
+    "y": 10165.794506745,
+    "esperado": 1.107466119,
+    "lat": false
+   },
+   {
+    "iso3": "JPN",
+    "pais": "Japan",
+    "v": 0.404330194,
+    "y": 45553.63080018,
+    "esperado": 4.001719919,
+    "lat": false
+   },
+   {
+    "iso3": "KAZ",
+    "pais": "Kazakhstan",
+    "v": 2.930608087,
+    "y": 32158.578235139,
+    "esperado": 2.969748454,
+    "lat": false
+   },
+   {
+    "iso3": "KEN",
+    "pais": "Kenya",
+    "v": 1.524598087,
+    "y": 5046.765282783,
+    "esperado": 0.607912353,
+    "lat": false
+   },
+   {
+    "iso3": "KGZ",
+    "pais": "Kyrgyz Republic",
+    "v": 0.787770505,
+    "y": 5828.741205991,
+    "esperado": 0.687742382,
+    "lat": false
+   },
+   {
+    "iso3": "KHM",
+    "pais": "Cambodia",
+    "v": 0.553145451,
+    "y": 5899.561544533,
+    "esperado": 0.694893361,
+    "lat": false
+   },
+   {
+    "iso3": "KOR",
+    "pais": "Korea, Rep.",
+    "v": 3.67771223,
+    "y": 48927.550356596,
+    "esperado": 4.254266229,
+    "lat": false
+   },
+   {
+    "iso3": "KWT",
+    "pais": "Kuwait",
+    "v": 2.634209888,
+    "y": 52674.354807797,
+    "esperado": 4.531815669,
+    "lat": false
+   },
+   {
+    "iso3": "LAO",
+    "pais": "Lao PDR",
+    "v": 0.49535773,
+    "y": 7663.610065101,
+    "esperado": 0.869420011,
+    "lat": false
+   },
+   {
+    "iso3": "LBR",
+    "pais": "Liberia",
+    "v": 0.020157676,
+    "y": 1608.503649449,
+    "esperado": 0.228299391,
+    "lat": false
+   },
+   {
+    "iso3": "LKA",
+    "pais": "Sri Lanka",
+    "v": 0.825385693,
+    "y": 14074.625084413,
+    "esperado": 1.463361928,
+    "lat": false
+   },
+   {
+    "iso3": "LSO",
+    "pais": "Lesotho",
+    "v": 2.040173489,
+    "y": 2778.505450836,
+    "esperado": 0.364612422,
+    "lat": false
+   },
+   {
+    "iso3": "LTU",
+    "pais": "Lithuania",
+    "v": 3.20238284,
+    "y": 41306.040253771,
+    "esperado": 3.679907037,
+    "lat": false
+   },
+   {
+    "iso3": "LVA",
+    "pais": "Latvia",
+    "v": 7.765428446,
+    "y": 34262.379993484,
+    "esperado": 3.13538925,
+    "lat": false
+   },
+   {
+    "iso3": "MAR",
+    "pais": "Morocco",
+    "v": 2.103726816,
+    "y": 8442.370056152,
+    "esperado": 0.944560276,
+    "lat": false
+   },
+   {
+    "iso3": "MDA",
+    "pais": "Moldova",
+    "v": 2.828214164,
+    "y": 13786.956907078,
+    "esperado": 1.437706363,
+    "lat": false
+   },
+   {
+    "iso3": "MDG",
+    "pais": "Madagascar",
+    "v": 0.109032047,
+    "y": 1632.303244152,
+    "esperado": 0.231189585,
+    "lat": false
+   },
+   {
+    "iso3": "MEX",
+    "pais": "Mexico",
+    "v": 0.853696453,
+    "y": 21296.200007486,
+    "esperado": 2.086452637,
+    "lat": true
+   },
+   {
+    "iso3": "MKD",
+    "pais": "North Macedonia",
+    "v": 4.574276163,
+    "y": 20959.071472283,
+    "esperado": 2.058130152,
+    "lat": false
+   },
+   {
+    "iso3": "MLI",
+    "pais": "Mali",
+    "v": 0.250291693,
+    "y": 2805.861706562,
+    "esperado": 0.367685012,
+    "lat": false
+   },
+   {
+    "iso3": "MMR",
+    "pais": "Myanmar",
+    "v": 0.233825291,
+    "y": 5749.095167456,
+    "esperado": 0.679685325,
+    "lat": false
+   },
+   {
+    "iso3": "MNG",
+    "pais": "Mongolia",
+    "v": 5.889231669,
+    "y": 14774.90560777,
+    "esperado": 1.52550549,
+    "lat": false
+   },
+   {
+    "iso3": "MOZ",
+    "pais": "Mozambique",
+    "v": 0.249703191,
+    "y": 1506.29189299,
+    "esperado": 0.215815732,
+    "lat": false
+   },
+   {
+    "iso3": "MRT",
+    "pais": "Mauritania",
+    "v": 0.600008833,
+    "y": 6006.919634573,
+    "esperado": 0.70571027,
+    "lat": false
+   },
+   {
+    "iso3": "MUS",
+    "pais": "Mauritius",
+    "v": 8.641566126,
+    "y": 23950.678580294,
+    "esperado": 2.307300161,
+    "lat": false
+   },
+   {
+    "iso3": "MYS",
+    "pais": "Malaysia",
+    "v": 2.183546502,
+    "y": 29823.692774161,
+    "esperado": 2.784077889,
+    "lat": false
+   },
+   {
+    "iso3": "NAM",
+    "pais": "Namibia",
+    "v": 8.667353354,
+    "y": 10845.526855804,
+    "esperado": 1.170594356,
+    "lat": false
+   },
+   {
+    "iso3": "NER",
+    "pais": "Niger",
+    "v": 0.089047272,
+    "y": 1573.650718838,
+    "esperado": 0.224055778,
+    "lat": false
+   },
+   {
+    "iso3": "NGA",
+    "pais": "Nigeria",
+    "v": 0.851254963,
+    "y": 8194.112149691,
+    "esperado": 0.920719107,
+    "lat": false
+   },
+   {
+    "iso3": "NLD",
+    "pais": "Netherlands",
+    "v": 3.007365898,
+    "y": 66547.633029912,
+    "esperado": 5.536519141,
+    "lat": false
+   },
+   {
+    "iso3": "NOR",
+    "pais": "Norway",
+    "v": 8.901502978,
+    "y": 90319.937837454,
+    "esperado": 7.192071531,
+    "lat": false
+   },
+   {
+    "iso3": "NPL",
+    "pais": "Nepal",
+    "v": 1.102124734,
+    "y": 4282.722529755,
+    "esperado": 0.528174599,
+    "lat": false
+   },
+   {
+    "iso3": "NZL",
+    "pais": "New Zealand",
+    "v": 17.709205875,
+    "y": 46983.433129828,
+    "esperado": 4.109060917,
+    "lat": false
+   },
+   {
+    "iso3": "OMN",
+    "pais": "Oman",
+    "v": 1.909070903,
+    "y": 38924.018403563,
+    "esperado": 3.497376224,
+    "lat": false
+   },
+   {
+    "iso3": "PAK",
+    "pais": "Pakistan",
+    "v": 0.115662916,
+    "y": 5142.880377573,
+    "esperado": 0.617815275,
+    "lat": false
+   },
+   {
+    "iso3": "PAN",
+    "pais": "Panama",
+    "v": 5.877128786,
+    "y": 31281.648870387,
+    "esperado": 2.900249436,
+    "lat": true
+   },
+   {
+    "iso3": "PER",
+    "pais": "Peru",
+    "v": 4.146136625,
+    "y": 14978.68226397,
+    "esperado": 1.543508672,
+    "lat": true
+   },
+   {
+    "iso3": "PHL",
+    "pais": "Philippines",
+    "v": 0.323870859,
+    "y": 8705.797967242,
+    "esperado": 0.969748563,
+    "lat": false
+   },
+   {
+    "iso3": "PNG",
+    "pais": "Papua New Guinea",
+    "v": 0.664059438,
+    "y": 4181.200421039,
+    "esperado": 0.517432321,
+    "lat": false
+   },
+   {
+    "iso3": "POL",
+    "pais": "Poland",
+    "v": 1.740128448,
+    "y": 36966.214397481,
+    "esperado": 3.346151603,
+    "lat": false
+   },
+   {
+    "iso3": "PRI",
+    "pais": "Puerto Rico (US)",
+    "v": 3.559696603,
+    "y": 41361.614983896,
+    "esperado": 3.684147294,
+    "lat": true
+   },
+   {
+    "iso3": "PRT",
+    "pais": "Portugal",
+    "v": 5.985455742,
+    "y": 38284.428759627,
+    "esperado": 3.448095794,
+    "lat": false
+   },
+   {
+    "iso3": "PRY",
+    "pais": "Paraguay",
+    "v": 0.317894321,
+    "y": 15136.622008424,
+    "esperado": 1.557438091,
+    "lat": true
+   },
+   {
+    "iso3": "PSE",
+    "pais": "West Bank and Gaza",
+    "v": 0.334383387,
+    "y": 6052.036999692,
+    "esperado": 0.710247788,
+    "lat": false
+   },
+   {
+    "iso3": "QAT",
+    "pais": "Qatar",
+    "v": 5.386701834,
+    "y": 115111.970858903,
+    "esperado": 8.852710988,
+    "lat": false
+   },
+   {
+    "iso3": "ROU",
+    "pais": "Romania",
+    "v": 7.098406562,
+    "y": 34440.808040005,
+    "esperado": 3.149369295,
+    "lat": false
+   },
+   {
+    "iso3": "RUS",
+    "pais": "Russian Federation",
+    "v": 3.241492192,
+    "y": 36587.346679688,
+    "esperado": 3.316756013,
+    "lat": false
+   },
+   {
+    "iso3": "RWA",
+    "pais": "Rwanda",
+    "v": 1.803745784,
+    "y": 2606.171931709,
+    "esperado": 0.345154398,
+    "lat": false
+   },
+   {
+    "iso3": "SAU",
+    "pais": "Saudi Arabia",
+    "v": 1.037003773,
+    "y": 60630.819075459,
+    "esperado": 5.112109683,
+    "lat": false
+   },
+   {
+    "iso3": "SEN",
+    "pais": "Senegal",
+    "v": 0.953504553,
+    "y": 3958.081588981,
+    "esperado": 0.493690368,
+    "lat": false
+   },
+   {
+    "iso3": "SGP",
+    "pais": "Singapore",
+    "v": 9.505755483,
+    "y": 120869.573719873,
+    "esperado": 9.230630024,
+    "lat": false
+   },
+   {
+    "iso3": "SLE",
+    "pais": "Sierra Leone",
+    "v": 0.489276085,
+    "y": 2783.831190504,
+    "esperado": 0.365210936,
+    "lat": false
+   },
+   {
+    "iso3": "SLV",
+    "pais": "El Salvador",
+    "v": 0.589273859,
+    "y": 10250.45378802,
+    "esperado": 1.11536087,
+    "lat": true
+   },
+   {
+    "iso3": "SOM",
+    "pais": "Somalia, Fed. Rep.",
+    "v": 0.106487635,
+    "y": 1428.49193313,
+    "esperado": 0.2062322,
+    "lat": false
+   },
+   {
+    "iso3": "SRB",
+    "pais": "Serbia",
+    "v": 1.975324133,
+    "y": 21013.595998477,
+    "esperado": 2.062715213,
+    "lat": false
+   },
+   {
+    "iso3": "SVK",
+    "pais": "Slovak Republic",
+    "v": 5.011385393,
+    "y": 36182.225582922,
+    "esperado": 3.285275103,
+    "lat": false
+   },
+   {
+    "iso3": "SVN",
+    "pais": "Slovenia",
+    "v": 3.034386968,
+    "y": 42913.803056031,
+    "esperado": 3.802250829,
+    "lat": false
+   },
+   {
+    "iso3": "SWE",
+    "pais": "Sweden",
+    "v": 8.177489729,
+    "y": 60446.70889107,
+    "esperado": 5.098810875,
+    "lat": false
+   },
+   {
+    "iso3": "SWZ",
+    "pais": "Eswatini",
+    "v": 3.863811224,
+    "y": 9692.658237068,
+    "esperado": 1.063168246,
+    "lat": false
+   },
+   {
+    "iso3": "TCD",
+    "pais": "Chad",
+    "v": 0.122813788,
+    "y": 2561.990703587,
+    "esperado": 0.340136603,
+    "lat": false
+   },
+   {
+    "iso3": "TGO",
+    "pais": "Togo",
+    "v": 0.709602413,
+    "y": 2811.97241604,
+    "esperado": 0.368370764,
+    "lat": false
+   },
+   {
+    "iso3": "THA",
+    "pais": "Thailand",
+    "v": 1.368485412,
+    "y": 20175.209481719,
+    "esperado": 1.992022076,
+    "lat": false
+   },
+   {
+    "iso3": "TJK",
+    "pais": "Tajikistan",
+    "v": 0.176412114,
+    "y": 3572.264666719,
+    "esperado": 0.452173028,
+    "lat": false
+   },
+   {
+    "iso3": "TLS",
+    "pais": "Timor-Leste",
+    "v": 2.314614518,
+    "y": 5166.707450375,
+    "esperado": 0.6202661,
+    "lat": false
+   },
+   {
+    "iso3": "TTO",
+    "pais": "Trinidad and Tobago",
+    "v": 4.512215872,
+    "y": 33552.598421439,
+    "esperado": 3.079672951,
+    "lat": true
+   },
+   {
+    "iso3": "TUN",
+    "pais": "Tunisia",
+    "v": 1.594627647,
+    "y": 12760.164851644,
+    "esperado": 1.345491624,
+    "lat": false
+   },
+   {
+    "iso3": "TUR",
+    "pais": "Turkiye",
+    "v": 1.630066083,
+    "y": 29099.19604629,
+    "esperado": 2.726047804,
+    "lat": false
+   },
+   {
+    "iso3": "TZA",
+    "pais": "Tanzania",
+    "v": 0.252717883,
+    "y": 3376.39831543,
+    "esperado": 0.430852596,
+    "lat": false
+   },
+   {
+    "iso3": "UGA",
+    "pais": "Uganda",
+    "v": 0.972317296,
+    "y": 2626.152590018,
+    "esperado": 0.347419644,
+    "lat": false
+   },
+   {
+    "iso3": "UKR",
+    "pais": "Ukraine",
+    "v": 1.454402877,
+    "y": 16364.061279297,
+    "esperado": 1.66499953,
+    "lat": false
+   },
+   {
+    "iso3": "URY",
+    "pais": "Uruguay",
+    "v": 2.034541868,
+    "y": 29483.150874087,
+    "esperado": 2.756826968,
+    "lat": true
+   },
+   {
+    "iso3": "UZB",
+    "pais": "Uzbekistan",
+    "v": 2.079143934,
+    "y": 8904.029714137,
+    "esperado": 0.988630792,
+    "lat": false
+   },
+   {
+    "iso3": "VNM",
+    "pais": "Viet Nam",
+    "v": 1.529616305,
+    "y": 11090.916382407,
+    "esperado": 1.193243184,
+    "lat": false
+   },
+   {
+    "iso3": "XKX",
+    "pais": "Kosovo",
+    "v": 4.308785057,
+    "y": 11325.112378138,
+    "esperado": 1.214791894,
+    "lat": false
+   },
+   {
+    "iso3": "ZAF",
+    "pais": "South Africa",
+    "v": 10.571105473,
+    "y": 14152.850424814,
+    "esperado": 1.470325355,
+    "lat": false
+   },
+   {
+    "iso3": "ZMB",
+    "pais": "Zambia",
+    "v": 1.11251244,
+    "y": 3563.235131932,
+    "esperado": 0.451193902,
+    "lat": false
+   },
+   {
+    "iso3": "ZWE",
+    "pais": "Zimbabwe",
+    "v": 2.097614361,
+    "y": 5026.069756999,
+    "esperado": 0.605776527,
+    "lat": false
+   }
+  ]
+ },
+ "github": {
+  "variable": "desarrolladores_por_mil",
+  "ventana": [
+   2023,
+   2025
+  ],
+  "n": 153,
+  "colombia": 20.624813557,
+  "esperado_colombia": 12.550640815,
+  "razon_colombia": 1.643327529,
+  "percentil_razon": 0.738562092,
+  "mediana_gemelos": 15.778107055,
+  "mediana_latam": 14.236523773,
+  "elasticidad_ingreso": 1.21532877,
+  "puntos": [
+   {
+    "iso3": "AFG",
+    "pais": "Afghanistan",
+    "v": 0.774855633,
+    "y": 1974.132454442,
+    "esperado": 0.824191439,
+    "lat": false
+   },
+   {
+    "iso3": "AGO",
+    "pais": "Angola",
+    "v": 1.041730682,
+    "y": 8703.509026163,
+    "esperado": 5.001340438,
+    "lat": false
+   },
+   {
+    "iso3": "ALB",
+    "pais": "Albania",
+    "v": 31.008866632,
+    "y": 21622.308156499,
+    "esperado": 15.114495904,
+    "lat": false
+   },
+   {
+    "iso3": "ARE",
+    "pais": "United Arab Emirates",
+    "v": 36.251443262,
+    "y": 69970.809334624,
+    "esperado": 62.983875678,
+    "lat": false
+   },
+   {
+    "iso3": "ARG",
+    "pais": "Argentina",
+    "v": 24.380300383,
+    "y": 27282.987024816,
+    "esperado": 20.050700705,
+    "lat": true
+   },
+   {
+    "iso3": "ARM",
+    "pais": "Armenia",
+    "v": 34.341747284,
+    "y": 20211.671439538,
+    "esperado": 13.924664806,
+    "lat": false
+   },
+   {
+    "iso3": "AUS",
+    "pais": "Australia",
+    "v": 62.769832606,
+    "y": 60396.202050839,
+    "esperado": 52.669723667,
+    "lat": false
+   },
+   {
+    "iso3": "AUT",
+    "pais": "Austria",
+    "v": 44.638723025,
+    "y": 64098.199219729,
+    "esperado": 56.618781166,
+    "lat": false
+   },
+   {
+    "iso3": "AZE",
+    "pais": "Azerbaijan",
+    "v": 11.918292166,
+    "y": 21905.161796643,
+    "esperado": 15.355129536,
+    "lat": false
+   },
+   {
+    "iso3": "BDI",
+    "pais": "Burundi",
+    "v": 0.381823597,
+    "y": 1049.192645602,
+    "esperado": 0.382291611,
+    "lat": false
+   },
+   {
+    "iso3": "BEL",
+    "pais": "Belgium",
+    "v": 45.350681116,
+    "y": 63280.569480534,
+    "esperado": 55.742252163,
+    "lat": false
+   },
+   {
+    "iso3": "BEN",
+    "pais": "Benin",
+    "v": 2.566401783,
+    "y": 3912.917863014,
+    "esperado": 1.892918794,
+    "lat": false
+   },
+   {
+    "iso3": "BFA",
+    "pais": "Burkina Faso",
+    "v": 0.71988111,
+    "y": 2553.179252621,
+    "esperado": 1.126643256,
+    "lat": false
+   },
+   {
+    "iso3": "BGD",
+    "pais": "Bangladesh",
+    "v": 7.04184362,
+    "y": 8468.646236209,
+    "esperado": 4.837799158,
+    "lat": false
+   },
+   {
+    "iso3": "BGR",
+    "pais": "Bulgaria",
+    "v": 40.446397892,
+    "y": 34206.86626391,
+    "esperado": 26.39373276,
+    "lat": false
+   },
+   {
+    "iso3": "BHR",
+    "pais": "Bahrain",
+    "v": 24.825600212,
+    "y": 59183.23926634,
+    "esperado": 51.386957199,
+    "lat": false
+   },
+   {
+    "iso3": "BIH",
+    "pais": "Bosnia and Herzegovina",
+    "v": 23.599681048,
+    "y": 20520.547899065,
+    "esperado": 14.183708039,
+    "lat": false
+   },
+   {
+    "iso3": "BLR",
+    "pais": "Belarus",
+    "v": 36.233960071,
+    "y": 28861.532033277,
+    "esperado": 21.469254013,
+    "lat": false
+   },
+   {
+    "iso3": "BOL",
+    "pais": "Bolivia",
+    "v": 11.03907304,
+    "y": 11315.281295914,
+    "esperado": 6.880161259,
+    "lat": true
+   },
+   {
+    "iso3": "BRA",
+    "pais": "Brazil",
+    "v": 25.613129974,
+    "y": 19585.624846088,
+    "esperado": 13.402244212,
+    "lat": true
+   },
+   {
+    "iso3": "BWA",
+    "pais": "Botswana",
+    "v": 6.755242373,
+    "y": 18242.432988313,
+    "esperado": 12.293596561,
+    "lat": false
+   },
+   {
+    "iso3": "CAF",
+    "pais": "Central African Republic",
+    "v": 0.085367948,
+    "y": 1122.218894523,
+    "esperado": 0.414867598,
+    "lat": false
+   },
+   {
+    "iso3": "CAN",
+    "pais": "Canada",
+    "v": 71.349160717,
+    "y": 57870.68259723,
+    "esperado": 50.005231963,
+    "lat": false
+   },
+   {
+    "iso3": "CHE",
+    "pais": "Switzerland",
+    "v": 60.414974577,
+    "y": 85521.174920542,
+    "esperado": 80.381017768,
+    "lat": false
+   },
+   {
+    "iso3": "CHL",
+    "pais": "Chile",
+    "v": 27.388624666,
+    "y": 30243.828422941,
+    "esperado": 22.725280727,
+    "lat": true
+   },
+   {
+    "iso3": "CHN",
+    "pais": "China",
+    "v": 7.007778256,
+    "y": 23865.083465754,
+    "esperado": 17.0405559,
+    "lat": false
+   },
+   {
+    "iso3": "CIV",
+    "pais": "Cote d'Ivoire",
+    "v": 1.984032882,
+    "y": 6760.927536433,
+    "esperado": 3.679419541,
+    "lat": false
+   },
+   {
+    "iso3": "CMR",
+    "pais": "Cameroon",
+    "v": 2.692103293,
+    "y": 4912.713719176,
+    "esperado": 2.495925705,
+    "lat": false
+   },
+   {
+    "iso3": "COD",
+    "pais": "Congo, Dem. Rep.",
+    "v": 0.283412194,
+    "y": 1600.537849802,
+    "esperado": 0.638703186,
+    "lat": false
+   },
+   {
+    "iso3": "COG",
+    "pais": "Congo, Rep.",
+    "v": 1.202301773,
+    "y": 6172.98089019,
+    "esperado": 3.294276375,
+    "lat": false
+   },
+   {
+    "iso3": "COL",
+    "pais": "Colombia",
+    "v": 20.624813557,
+    "y": 18555.703329992,
+    "esperado": 12.550640815,
+    "lat": true
+   },
+   {
+    "iso3": "CRI",
+    "pais": "Costa Rica",
+    "v": 31.360724517,
+    "y": 27382.333603161,
+    "esperado": 20.139468289,
+    "lat": true
+   },
+   {
+    "iso3": "CYP",
+    "pais": "Cyprus",
+    "v": 44.595103763,
+    "y": 52880.0,
+    "esperado": 44.81407861,
+    "lat": false
+   },
+   {
+    "iso3": "CZE",
+    "pais": "Czechia",
+    "v": 38.20718264,
+    "y": 48274.476755191,
+    "esperado": 40.116146377,
+    "lat": false
+   },
+   {
+    "iso3": "DEU",
+    "pais": "Germany",
+    "v": 43.381809022,
+    "y": 62872.856946291,
+    "esperado": 55.306077834,
+    "lat": false
+   },
+   {
+    "iso3": "DJI",
+    "pais": "Djibouti",
+    "v": 2.683574178,
+    "y": 6868.117629008,
+    "esperado": 3.750436013,
+    "lat": false
+   },
+   {
+    "iso3": "DNK",
+    "pais": "Denmark",
+    "v": 67.211045262,
+    "y": 70917.25228785,
+    "esperado": 64.020760423,
+    "lat": false
+   },
+   {
+    "iso3": "DOM",
+    "pais": "Dominican Republic",
+    "v": 11.726493065,
+    "y": 24018.573726246,
+    "esperado": 17.173845272,
+    "lat": true
+   },
+   {
+    "iso3": "DZA",
+    "pais": "Algeria",
+    "v": 7.524719305,
+    "y": 15514.652607124,
+    "esperado": 10.096988824,
+    "lat": false
+   },
+   {
+    "iso3": "ECU",
+    "pais": "Ecuador",
+    "v": 14.562348122,
+    "y": 14187.609254488,
+    "esperado": 9.057267862,
+    "lat": true
+   },
+   {
+    "iso3": "EGY",
+    "pais": "Egypt, Arab Rep.",
+    "v": 8.654790153,
+    "y": 16918.229279165,
+    "esperado": 11.217700873,
+    "lat": false
+   },
+   {
+    "iso3": "ESP",
+    "pais": "Spain",
+    "v": 38.60352406,
+    "y": 48366.996888818,
+    "esperado": 40.209605397,
+    "lat": false
+   },
+   {
+    "iso3": "EST",
+    "pais": "Estonia",
+    "v": 75.970104631,
+    "y": 41358.310728148,
+    "esperado": 33.243295266,
+    "lat": false
+   },
+   {
+    "iso3": "ETH",
+    "pais": "Ethiopia",
+    "v": 1.047383267,
+    "y": 2915.016518857,
+    "esperado": 1.323550137,
+    "lat": false
+   },
+   {
+    "iso3": "FIN",
+    "pais": "Finland",
+    "v": 65.539637085,
+    "y": 55896.10261158,
+    "esperado": 47.939316769,
+    "lat": false
+   },
+   {
+    "iso3": "FRA",
+    "pais": "France",
+    "v": 41.606983992,
+    "y": 54740.203538384,
+    "esperado": 46.73718878,
+    "lat": false
+   },
+   {
+    "iso3": "GAB",
+    "pais": "Gabon",
+    "v": 3.086280928,
+    "y": 18870.519438113,
+    "esperado": 12.809896502,
+    "lat": false
+   },
+   {
+    "iso3": "GBR",
+    "pais": "United Kingdom",
+    "v": 58.779549708,
+    "y": 53609.534870326,
+    "esperado": 45.566576258,
+    "lat": false
+   },
+   {
+    "iso3": "GEO",
+    "pais": "Georgia",
+    "v": 36.471825923,
+    "y": 23957.645007173,
+    "esperado": 17.120913376,
+    "lat": false
+   },
+   {
+    "iso3": "GHA",
+    "pais": "Ghana",
+    "v": 5.738694212,
+    "y": 7079.723291971,
+    "esperado": 3.891329822,
+    "lat": false
+   },
+   {
+    "iso3": "GIN",
+    "pais": "Guinea",
+    "v": 0.526782278,
+    "y": 4046.008525728,
+    "esperado": 1.971450714,
+    "lat": false
+   },
+   {
+    "iso3": "GMB",
+    "pais": "Gambia, The",
+    "v": 1.886794616,
+    "y": 3062.634736327,
+    "esperado": 1.405446389,
+    "lat": false
+   },
+   {
+    "iso3": "GNB",
+    "pais": "Guinea-Bissau",
+    "v": 0.285339423,
+    "y": 2730.813358562,
+    "esperado": 1.222607457,
+    "lat": false
+   },
+   {
+    "iso3": "GNQ",
+    "pais": "Equatorial Guinea",
+    "v": 0.640914033,
+    "y": 14695.43383874,
+    "esperado": 9.45277156,
+    "lat": false
+   },
+   {
+    "iso3": "GRC",
+    "pais": "Greece",
+    "v": 27.678276018,
+    "y": 37464.504971905,
+    "esperado": 29.479115923,
+    "lat": false
+   },
+   {
+    "iso3": "GTM",
+    "pais": "Guatemala",
+    "v": 6.894078597,
+    "y": 12670.293250054,
+    "esperado": 7.894000704,
+    "lat": true
+   },
+   {
+    "iso3": "HKG",
+    "pais": "Hong Kong SAR, China",
+    "v": 297.531566394,
+    "y": 66432.755618909,
+    "esperado": 59.134699874,
+    "lat": false
+   },
+   {
+    "iso3": "HND",
+    "pais": "Honduras",
+    "v": 5.892296018,
+    "y": 6594.96357632,
+    "esperado": 3.569942308,
+    "lat": true
+   },
+   {
+    "iso3": "HRV",
+    "pais": "Croatia",
+    "v": 37.097842217,
+    "y": 42773.70065054,
+    "esperado": 34.630991272,
+    "lat": false
+   },
+   {
+    "iso3": "HTI",
+    "pais": "Haiti",
+    "v": 1.364467048,
+    "y": 2800.269685634,
+    "esperado": 1.260502329,
+    "lat": true
+   },
+   {
+    "iso3": "HUN",
+    "pais": "Hungary",
+    "v": 36.238106452,
+    "y": 40747.031756959,
+    "esperado": 32.647111456,
+    "lat": false
+   },
+   {
+    "iso3": "IDN",
+    "pais": "Indonesia",
+    "v": 12.632098655,
+    "y": 14483.892114136,
+    "esperado": 9.287655085,
+    "lat": false
+   },
+   {
+    "iso3": "IND",
+    "pais": "India",
+    "v": 11.740461298,
+    "y": 9441.890845867,
+    "esperado": 5.521613744,
+    "lat": false
+   },
+   {
+    "iso3": "IRL",
+    "pais": "Ireland",
+    "v": 65.799743374,
+    "y": 122610.495136836,
+    "esperado": 124.536464719,
+    "lat": false
+   },
+   {
+    "iso3": "IRN",
+    "pais": "Iran, Islamic Rep.",
+    "v": 7.397663848,
+    "y": 17120.910508674,
+    "esperado": 11.381237229,
+    "lat": false
+   },
+   {
+    "iso3": "IRQ",
+    "pais": "Iraq",
+    "v": 5.545627579,
+    "y": 12706.307466417,
+    "esperado": 7.92127861,
+    "lat": false
+   },
+   {
+    "iso3": "ISR",
+    "pais": "Israel",
+    "v": 65.9599128,
+    "y": 47752.2019595,
+    "esperado": 39.58929651,
+    "lat": false
+   },
+   {
+    "iso3": "ITA",
+    "pais": "Italy",
+    "v": 23.132491163,
+    "y": 53244.527448397,
+    "esperado": 45.189802376,
+    "lat": false
+   },
+   {
+    "iso3": "JAM",
+    "pais": "Jamaica",
+    "v": 13.910699425,
+    "y": 11365.663837191,
+    "esperado": 6.917410293,
+    "lat": true
+   },
+   {
+    "iso3": "JOR",
+    "pais": "Jordan",
+    "v": 12.729958964,
+    "y": 10523.762600564,
+    "esperado": 6.299740692,
+    "lat": false
+   },
+   {
+    "iso3": "JPN",
+    "pais": "Japan",
+    "v": 28.82679019,
+    "y": 47716.811501588,
+    "esperado": 39.553640751,
+    "lat": false
+   },
+   {
+    "iso3": "KAZ",
+    "pais": "Kazakhstan",
+    "v": 13.808205606,
+    "y": 36175.92578722,
+    "esperado": 28.251469267,
+    "lat": false
+   },
+   {
+    "iso3": "KEN",
+    "pais": "Kenya",
+    "v": 7.101118281,
+    "y": 5842.941857906,
+    "esperado": 3.081471777,
+    "lat": false
+   },
+   {
+    "iso3": "KGZ",
+    "pais": "Kyrgyz Republic",
+    "v": 10.683412283,
+    "y": 7221.600415969,
+    "esperado": 3.986306959,
+    "lat": false
+   },
+   {
+    "iso3": "KHM",
+    "pais": "Cambodia",
+    "v": 7.26456435,
+    "y": 7002.318066394,
+    "esperado": 3.839684282,
+    "lat": false
+   },
+   {
+    "iso3": "KOR",
+    "pais": "Korea, Rep.",
+    "v": 43.364667623,
+    "y": 54932.455642374,
+    "esperado": 46.93675411,
+    "lat": false
+   },
+   {
+    "iso3": "KWT",
+    "pais": "Kuwait",
+    "v": 15.012680603,
+    "y": 47569.458906884,
+    "esperado": 39.405244789,
+    "lat": false
+   },
+   {
+    "iso3": "LAO",
+    "pais": "Lao PDR",
+    "v": 3.071023799,
+    "y": 8615.058142422,
+    "esperado": 4.939636728,
+    "lat": false
+   },
+   {
+    "iso3": "LBN",
+    "pais": "Lebanon",
+    "v": 19.076703408,
+    "y": 10899.744917718,
+    "esperado": 6.574318126,
+    "lat": false
+   },
+   {
+    "iso3": "LBR",
+    "pais": "Liberia",
+    "v": 1.227443387,
+    "y": 1651.969419529,
+    "esperado": 0.663732227,
+    "lat": false
+   },
+   {
+    "iso3": "LBY",
+    "pais": "Libya",
+    "v": 5.425526412,
+    "y": 13059.545936315,
+    "esperado": 8.189705697,
+    "lat": false
+   },
+   {
+    "iso3": "LKA",
+    "pais": "Sri Lanka",
+    "v": 16.427478851,
+    "y": 13813.632395792,
+    "esperado": 8.767944428,
+    "lat": false
+   },
+   {
+    "iso3": "LSO",
+    "pais": "Lesotho",
+    "v": 2.47828873,
+    "y": 2670.347257951,
+    "esperado": 1.189785979,
+    "lat": false
+   },
+   {
+    "iso3": "LTU",
+    "pais": "Lithuania",
+    "v": 55.075332895,
+    "y": 47545.149426838,
+    "esperado": 39.380772682,
+    "lat": false
+   },
+   {
+    "iso3": "LVA",
+    "pais": "Latvia",
+    "v": 63.355192912,
+    "y": 37897.780165131,
+    "esperado": 29.893965692,
+    "lat": false
+   },
+   {
+    "iso3": "MAR",
+    "pais": "Morocco",
+    "v": 14.864118353,
+    "y": 9191.16796875,
+    "esperado": 5.343932073,
+    "lat": false
+   },
+   {
+    "iso3": "MDA",
+    "pais": "Moldova",
+    "v": 37.084567347,
+    "y": 16487.205873062,
+    "esperado": 10.871328978,
+    "lat": false
+   },
+   {
+    "iso3": "MDG",
+    "pais": "Madagascar",
+    "v": 1.403143144,
+    "y": 1652.410951186,
+    "esperado": 0.663947832,
+    "lat": false
+   },
+   {
+    "iso3": "MEX",
+    "pais": "Mexico",
+    "v": 14.749150314,
+    "y": 21915.734978661,
+    "esperado": 15.364137551,
+    "lat": true
+   },
+   {
+    "iso3": "MKD",
+    "pais": "North Macedonia",
+    "v": 33.831809796,
+    "y": 24251.010070852,
+    "esperado": 17.376039739,
+    "lat": false
+   },
+   {
+    "iso3": "MLI",
+    "pais": "Mali",
+    "v": 0.501770395,
+    "y": 2924.221567687,
+    "esperado": 1.328631342,
+    "lat": false
+   },
+   {
+    "iso3": "MMR",
+    "pais": "Myanmar",
+    "v": 2.633832033,
+    "y": 5259.177599493,
+    "esperado": 2.711446163,
+    "lat": false
+   },
+   {
+    "iso3": "MNG",
+    "pais": "Mongolia",
+    "v": 15.889031118,
+    "y": 16946.01623283,
+    "esperado": 11.240096355,
+    "lat": false
+   },
+   {
+    "iso3": "MOZ",
+    "pais": "Mozambique",
+    "v": 0.716635534,
+    "y": 1488.111477878,
+    "esperado": 0.584598433,
+    "lat": false
+   },
+   {
+    "iso3": "MRT",
+    "pais": "Mauritania",
+    "v": 1.621316308,
+    "y": 6439.402865574,
+    "esperado": 3.467864514,
+    "lat": false
+   },
+   {
+    "iso3": "MUS",
+    "pais": "Mauritius",
+    "v": 26.526097795,
+    "y": 27695.147861514,
+    "esperado": 20.419424501,
+    "lat": false
+   },
+   {
+    "iso3": "MWI",
+    "pais": "Malawi",
+    "v": 0.863532857,
+    "y": 1635.522373435,
+    "esperado": 0.655709803,
+    "lat": false
+   },
+   {
+    "iso3": "MYS",
+    "pais": "Malaysia",
+    "v": 21.902021109,
+    "y": 34145.115341851,
+    "esperado": 26.335837862,
+    "lat": false
+   },
+   {
+    "iso3": "NAM",
+    "pais": "Namibia",
+    "v": 4.365734005,
+    "y": 10214.962881774,
+    "esperado": 6.075797738,
+    "lat": false
+   },
+   {
+    "iso3": "NER",
+    "pais": "Niger",
+    "v": 0.192065697,
+    "y": 1789.723856291,
+    "esperado": 0.7315886,
+    "lat": false
+   },
+   {
+    "iso3": "NGA",
+    "pais": "Nigeria",
+    "v": 4.881862618,
+    "y": 7994.06320622,
+    "esperado": 4.51032885,
+    "lat": false
+   },
+   {
+    "iso3": "NIC",
+    "pais": "Nicaragua",
+    "v": 6.245053076,
+    "y": 7697.037848924,
+    "esperado": 4.307481246,
+    "lat": true
+   },
+   {
+    "iso3": "NLD",
+    "pais": "Netherlands",
+    "v": 81.058376926,
+    "y": 70690.448452421,
+    "esperado": 63.772010238,
+    "lat": false
+   },
+   {
+    "iso3": "NOR",
+    "pais": "Norway",
+    "v": 66.251374223,
+    "y": 94780.688497011,
+    "esperado": 91.077963795,
+    "lat": false
+   },
+   {
+    "iso3": "NPL",
+    "pais": "Nepal",
+    "v": 10.265546022,
+    "y": 5061.859557093,
+    "esperado": 2.588314914,
+    "lat": false
+   },
+   {
+    "iso3": "NZL",
+    "pais": "New Zealand",
+    "v": 62.164798002,
+    "y": 48716.872616416,
+    "esperado": 40.563379265,
+    "lat": false
+   },
+   {
+    "iso3": "OMN",
+    "pais": "Oman",
+    "v": 10.553817536,
+    "y": 36885.880276769,
+    "esperado": 28.926708511,
+    "lat": false
+   },
+   {
+    "iso3": "PAK",
+    "pais": "Pakistan",
+    "v": 5.906366402,
+    "y": 5512.697903744,
+    "esperado": 2.87111132,
+    "lat": false
+   },
+   {
+    "iso3": "PAN",
+    "pais": "Panama",
+    "v": 13.649872605,
+    "y": 36594.691699831,
+    "esperado": 28.64941677,
+    "lat": true
+   },
+   {
+    "iso3": "PER",
+    "pais": "Peru",
+    "v": 16.993865989,
+    "y": 15710.077273182,
+    "esperado": 10.251766963,
+    "lat": true
+   },
+   {
+    "iso3": "PHL",
+    "pais": "Philippines",
+    "v": 15.164845366,
+    "y": 10341.416719032,
+    "esperado": 6.167328882,
+    "lat": false
+   },
+   {
+    "iso3": "PNG",
+    "pais": "Papua New Guinea",
+    "v": 0.841232795,
+    "y": 4318.440486945,
+    "esperado": 2.133928702,
+    "lat": false
+   },
+   {
+    "iso3": "POL",
+    "pais": "Poland",
+    "v": 40.140874898,
+    "y": 45250.133189523,
+    "esperado": 37.082691481,
+    "lat": false
+   },
+   {
+    "iso3": "PRI",
+    "pais": "Puerto Rico (US)",
+    "v": 16.369610174,
+    "y": 43885.84137658,
+    "esperado": 35.728347184,
+    "lat": true
+   },
+   {
+    "iso3": "PRT",
+    "pais": "Portugal",
+    "v": 46.92246514,
+    "y": 42191.076773897,
+    "esperado": 34.05855057,
+    "lat": false
+   },
+   {
+    "iso3": "PRY",
+    "pais": "Paraguay",
+    "v": 8.168789469,
+    "y": 16481.64161403,
+    "esperado": 10.866870148,
+    "lat": true
+   },
+   {
+    "iso3": "PSE",
+    "pais": "West Bank and Gaza",
+    "v": 14.972740183,
+    "y": 4675.263719915,
+    "esperado": 2.350084281,
+    "lat": false
+   },
+   {
+    "iso3": "QAT",
+    "pais": "Qatar",
+    "v": 23.58754224,
+    "y": 112536.363072557,
+    "esperado": 112.213225228,
+    "lat": false
+   },
+   {
+    "iso3": "ROU",
+    "pais": "Romania",
+    "v": 29.858885152,
+    "y": 40488.83527036,
+    "esperado": 32.395867275,
+    "lat": false
+   },
+   {
+    "iso3": "RUS",
+    "pais": "Russian Federation",
+    "v": 25.087506317,
+    "y": 41376.869791667,
+    "esperado": 33.261425863,
+    "lat": false
+   },
+   {
+    "iso3": "RWA",
+    "pais": "Rwanda",
+    "v": 3.279170974,
+    "y": 3350.572829064,
+    "esperado": 1.567621105,
+    "lat": false
+   },
+   {
+    "iso3": "SAU",
+    "pais": "Saudi Arabia",
+    "v": 17.137658894,
+    "y": 63575.774723804,
+    "esperado": 56.058443368,
+    "lat": false
+   },
+   {
+    "iso3": "SDN",
+    "pais": "Sudan",
+    "v": 0.678503618,
+    "y": 1971.954223633,
+    "esperado": 0.823086348,
+    "lat": false
+   },
+   {
+    "iso3": "SEN",
+    "pais": "Senegal",
+    "v": 2.885734476,
+    "y": 4483.706844056,
+    "esperado": 2.233583775,
+    "lat": false
+   },
+   {
+    "iso3": "SGP",
+    "pais": "Singapore",
+    "v": 219.77190955,
+    "y": 134812.740046168,
+    "esperado": 139.756519417,
+    "lat": false
+   },
+   {
+    "iso3": "SLE",
+    "pais": "Sierra Leone",
+    "v": 1.048383316,
+    "y": 3103.315266441,
+    "esperado": 1.428166893,
+    "lat": false
+   },
+   {
+    "iso3": "SLV",
+    "pais": "El Salvador",
+    "v": 13.869768726,
+    "y": 11700.461979994,
+    "esperado": 7.165832421,
+    "lat": true
+   },
+   {
+    "iso3": "SOM",
+    "pais": "Somalia, Fed. Rep.",
+    "v": 1.971983035,
+    "y": 1404.932055087,
+    "esperado": 0.545128086,
+    "lat": false
+   },
+   {
+    "iso3": "SRB",
+    "pais": "Serbia",
+    "v": 37.521855242,
+    "y": 26746.422214138,
+    "esperado": 19.572480113,
+    "lat": false
+   },
+   {
+    "iso3": "SVK",
+    "pais": "Slovak Republic",
+    "v": 27.452999782,
+    "y": 40164.738935927,
+    "esperado": 32.080985882,
+    "lat": false
+   },
+   {
+    "iso3": "SVN",
+    "pais": "Slovenia",
+    "v": 40.642968516,
+    "y": 48578.4881814,
+    "esperado": 40.423387396,
+    "lat": false
+   },
+   {
+    "iso3": "SWE",
+    "pais": "Sweden",
+    "v": 71.067988018,
+    "y": 62681.126521164,
+    "esperado": 55.101173212,
+    "lat": false
+   },
+   {
+    "iso3": "SWZ",
+    "pais": "Eswatini",
+    "v": 3.552191132,
+    "y": 10424.832149915,
+    "esperado": 6.227839759,
+    "lat": false
+   },
+   {
+    "iso3": "TCD",
+    "pais": "Chad",
+    "v": 0.136637442,
+    "y": 2448.258639396,
+    "esperado": 1.07062716,
+    "lat": false
+   },
+   {
+    "iso3": "TGO",
+    "pais": "Togo",
+    "v": 2.70821687,
+    "y": 3351.018258822,
+    "esperado": 1.567874386,
+    "lat": false
+   },
+   {
+    "iso3": "THA",
+    "pais": "Thailand",
+    "v": 14.599691135,
+    "y": 21853.078920919,
+    "esperado": 15.310770255,
+    "lat": false
+   },
+   {
+    "iso3": "TJK",
+    "pais": "Tajikistan",
+    "v": 1.339729959,
+    "y": 4763.368037054,
+    "esperado": 2.404015998,
+    "lat": false
+   },
+   {
+    "iso3": "TKM",
+    "pais": "Turkmenistan",
+    "v": 1.000429301,
+    "y": 18490.181821402,
+    "esperado": 12.496801335,
+    "lat": false
+   },
+   {
+    "iso3": "TLS",
+    "pais": "Timor-Leste",
+    "v": 1.32928486,
+    "y": 4110.646650222,
+    "esperado": 2.00979361,
+    "lat": false
+   },
+   {
+    "iso3": "TTO",
+    "pais": "Trinidad and Tobago",
+    "v": 21.468754455,
+    "y": 31626.11206158,
+    "esperado": 23.993721927,
+    "lat": true
+   },
+   {
+    "iso3": "TUN",
+    "pais": "Tunisia",
+    "v": 23.178987163,
+    "y": 12814.503804972,
+    "esperado": 8.003328757,
+    "lat": false
+   },
+   {
+    "iso3": "TUR",
+    "pais": "Turkiye",
+    "v": 20.829409103,
+    "y": 36174.803060654,
+    "esperado": 28.250403683,
+    "lat": false
+   },
+   {
+    "iso3": "TZA",
+    "pais": "Tanzania",
+    "v": 0.9711931,
+    "y": 3718.22273763,
+    "esperado": 1.779073213,
+    "lat": false
+   },
+   {
+    "iso3": "UGA",
+    "pais": "Uganda",
+    "v": 1.614069343,
+    "y": 2883.701761039,
+    "esperado": 1.30629024,
+    "lat": false
+   },
+   {
+    "iso3": "UKR",
+    "pais": "Ukraine",
+    "v": 35.036678184,
+    "y": 16147.82421875,
+    "esperado": 10.599967051,
+    "lat": false
+   },
+   {
+    "iso3": "URY",
+    "pais": "Uruguay",
+    "v": 33.03216852,
+    "y": 31997.358150255,
+    "esperado": 24.336453674,
+    "lat": true
+   },
+   {
+    "iso3": "USA",
+    "pais": "United States",
+    "v": 69.829647982,
+    "y": 75660.386618082,
+    "esperado": 69.261486624,
+    "lat": false
+   },
+   {
+    "iso3": "UZB",
+    "pais": "Uzbekistan",
+    "v": 6.180709649,
+    "y": 11044.707308554,
+    "esperado": 6.680733108,
+    "lat": false
+   },
+   {
+    "iso3": "VNM",
+    "pais": "Viet Nam",
+    "v": 19.168813756,
+    "y": 14462.857153868,
+    "esperado": 9.271264731,
+    "lat": false
+   },
+   {
+    "iso3": "XKX",
+    "pais": "Kosovo",
+    "v": 16.722455117,
+    "y": 15472.596650538,
+    "esperado": 10.063734796,
+    "lat": false
+   },
+   {
+    "iso3": "ZAF",
+    "pais": "South Africa",
+    "v": 10.506760314,
+    "y": 13628.3592737,
+    "esperado": 8.625230523,
+    "lat": false
+   },
+   {
+    "iso3": "ZMB",
+    "pais": "Zambia",
+    "v": 1.596149402,
+    "y": 3707.936567705,
+    "esperado": 1.773093554,
+    "lat": false
+   },
+   {
+    "iso3": "ZWE",
+    "pais": "Zimbabwe",
+    "v": 2.885145686,
+    "y": 5319.725307335,
+    "esperado": 2.749431065,
+    "lat": false
+   }
+  ]
+ },
+ "panel": {
+  "densidad_a_crecimiento": {
+   "coef": 0.004735584,
+   "ee": 0.27915702,
+   "p": 0.986465438,
+   "n": 2133,
+   "paises": 145,
+   "lectura": "puntos porcentuales de crecimiento anual futuro por cada 100 % más de densidad"
+  },
+  "crecimiento_a_densidad": {
+   "coef": -0.002215758,
+   "ee": 0.003310339,
+   "p": 0.503275487,
+   "n": 1925,
+   "paises": 143,
+   "lectura": "cambio en log densidad en 3 años por cada punto de crecimiento hoy"
+  },
+  "contemporaneo": {
+   "coef": 0.282110702,
+   "p": 0.437331195,
+   "n": 2367
+  }
+ },
+ "rues": {
+  "anual": [
+   {
+    "anio": 2005,
+    "tipo": "esal",
+    "nuevas": 12716.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2005,
+    "tipo": "persona_natural",
+    "nuevas": 196802.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2005,
+    "tipo": "sociedad",
+    "nuevas": 31554.0,
+    "nuevas_sas": 5781.0,
+    "meses": 12
+   },
+   {
+    "anio": 2006,
+    "tipo": "esal",
+    "nuevas": 13763.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2006,
+    "tipo": "persona_natural",
+    "nuevas": 186904.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2006,
+    "tipo": "sociedad",
+    "nuevas": 33978.0,
+    "nuevas_sas": 6874.0,
+    "meses": 12
+   },
+   {
+    "anio": 2007,
+    "tipo": "esal",
+    "nuevas": 12558.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2007,
+    "tipo": "persona_natural",
+    "nuevas": 185600.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2007,
+    "tipo": "sociedad",
+    "nuevas": 37565.0,
+    "nuevas_sas": 8491.0,
+    "meses": 12
+   },
+   {
+    "anio": 2008,
+    "tipo": "esal",
+    "nuevas": 14211.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2008,
+    "tipo": "persona_natural",
+    "nuevas": 185947.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2008,
+    "tipo": "sociedad",
+    "nuevas": 40663.0,
+    "nuevas_sas": 10031.0,
+    "meses": 12
+   },
+   {
+    "anio": 2009,
+    "tipo": "esal",
+    "nuevas": 13346.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2009,
+    "tipo": "persona_natural",
+    "nuevas": 176156.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2009,
+    "tipo": "sociedad",
+    "nuevas": 40274.0,
+    "nuevas_sas": 23188.0,
+    "meses": 12
+   },
+   {
+    "anio": 2010,
+    "tipo": "esal",
+    "nuevas": 12882.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2010,
+    "tipo": "persona_natural",
+    "nuevas": 175347.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2010,
+    "tipo": "sociedad",
+    "nuevas": 46925.0,
+    "nuevas_sas": 39397.0,
+    "meses": 12
+   },
+   {
+    "anio": 2011,
+    "tipo": "esal",
+    "nuevas": 12137.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2011,
+    "tipo": "persona_natural",
+    "nuevas": 181008.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2011,
+    "tipo": "sociedad",
+    "nuevas": 58232.0,
+    "nuevas_sas": 53963.0,
+    "meses": 12
+   },
+   {
+    "anio": 2012,
+    "tipo": "esal",
+    "nuevas": 18795.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2012,
+    "tipo": "persona_natural",
+    "nuevas": 215522.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2012,
+    "tipo": "sociedad",
+    "nuevas": 62303.0,
+    "nuevas_sas": 59250.0,
+    "meses": 12
+   },
+   {
+    "anio": 2013,
+    "tipo": "esal",
+    "nuevas": 13381.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2013,
+    "tipo": "persona_natural",
+    "nuevas": 212828.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2013,
+    "tipo": "sociedad",
+    "nuevas": 63488.0,
+    "nuevas_sas": 60904.0,
+    "meses": 12
+   },
+   {
+    "anio": 2014,
+    "tipo": "esal",
+    "nuevas": 13315.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2014,
+    "tipo": "persona_natural",
+    "nuevas": 232150.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2014,
+    "tipo": "sociedad",
+    "nuevas": 71776.0,
+    "nuevas_sas": 69380.0,
+    "meses": 12
+   },
+   {
+    "anio": 2015,
+    "tipo": "esal",
+    "nuevas": 12486.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2015,
+    "tipo": "persona_natural",
+    "nuevas": 196667.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2015,
+    "tipo": "sociedad",
+    "nuevas": 62773.0,
+    "nuevas_sas": 61084.0,
+    "meses": 12
+   },
+   {
+    "anio": 2016,
+    "tipo": "esal",
+    "nuevas": 15898.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2016,
+    "tipo": "persona_natural",
+    "nuevas": 225134.0,
+    "nuevas_sas": 2.0,
+    "meses": 12
+   },
+   {
+    "anio": 2016,
+    "tipo": "sociedad",
+    "nuevas": 76700.0,
+    "nuevas_sas": 75109.0,
+    "meses": 12
+   },
+   {
+    "anio": 2017,
+    "tipo": "esal",
+    "nuevas": 12604.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2017,
+    "tipo": "persona_natural",
+    "nuevas": 256002.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2017,
+    "tipo": "sociedad",
+    "nuevas": 69680.0,
+    "nuevas_sas": 68374.0,
+    "meses": 12
+   },
+   {
+    "anio": 2018,
+    "tipo": "esal",
+    "nuevas": 10417.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2018,
+    "tipo": "persona_natural",
+    "nuevas": 263134.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2018,
+    "tipo": "sociedad",
+    "nuevas": 70821.0,
+    "nuevas_sas": 69524.0,
+    "meses": 12
+   },
+   {
+    "anio": 2019,
+    "tipo": "esal",
+    "nuevas": 11980.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2019,
+    "tipo": "persona_natural",
+    "nuevas": 267432.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2019,
+    "tipo": "sociedad",
+    "nuevas": 78305.0,
+    "nuevas_sas": 76987.0,
+    "meses": 12
+   },
+   {
+    "anio": 2020,
+    "tipo": "esal",
+    "nuevas": 9754.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2020,
+    "tipo": "persona_natural",
+    "nuevas": 242982.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2020,
+    "tipo": "sociedad",
+    "nuevas": 71120.0,
+    "nuevas_sas": 70106.0,
+    "meses": 12
+   },
+   {
+    "anio": 2021,
+    "tipo": "esal",
+    "nuevas": 13308.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2021,
+    "tipo": "persona_natural",
+    "nuevas": 269538.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2021,
+    "tipo": "sociedad",
+    "nuevas": 81489.0,
+    "nuevas_sas": 80424.0,
+    "meses": 12
+   },
+   {
+    "anio": 2022,
+    "tipo": "esal",
+    "nuevas": 11739.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2022,
+    "tipo": "persona_natural",
+    "nuevas": 276304.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2022,
+    "tipo": "sociedad",
+    "nuevas": 83960.0,
+    "nuevas_sas": 83031.0,
+    "meses": 12
+   },
+   {
+    "anio": 2023,
+    "tipo": "esal",
+    "nuevas": 14482.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2023,
+    "tipo": "persona_natural",
+    "nuevas": 247211.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2023,
+    "tipo": "sociedad",
+    "nuevas": 80772.0,
+    "nuevas_sas": 79891.0,
+    "meses": 12
+   },
+   {
+    "anio": 2024,
+    "tipo": "esal",
+    "nuevas": 17273.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2024,
+    "tipo": "persona_natural",
+    "nuevas": 241090.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2024,
+    "tipo": "sociedad",
+    "nuevas": 85703.0,
+    "nuevas_sas": 84826.0,
+    "meses": 12
+   },
+   {
+    "anio": 2025,
+    "tipo": "esal",
+    "nuevas": 13419.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2025,
+    "tipo": "persona_natural",
+    "nuevas": 245449.0,
+    "nuevas_sas": null,
+    "meses": 12
+   },
+   {
+    "anio": 2025,
+    "tipo": "sociedad",
+    "nuevas": 88190.0,
+    "nuevas_sas": 87400.0,
+    "meses": 12
+   },
+   {
+    "anio": 2026,
+    "tipo": "esal",
+    "nuevas": 9940.0,
+    "nuevas_sas": null,
+    "meses": 11
+   },
+   {
+    "anio": 2026,
+    "tipo": "persona_natural",
+    "nuevas": 216607.0,
+    "nuevas_sas": null,
+    "meses": 11
+   },
+   {
+    "anio": 2026,
+    "tipo": "sociedad",
+    "nuevas": 79321.0,
+    "nuevas_sas": 78683.0,
+    "meses": 11
+   }
+  ],
+  "validacion": [
+   {
+    "anio": 2020,
+    "confecamaras": 68853.0,
+    "rues_agregado": 71120.0,
+    "diferencia_pct": 3.292521749,
+    "fuente": "Confecámaras - Informe de dinámica de creación de empresas 2021"
+   },
+   {
+    "anio": 2021,
+    "confecamaras": 78880.0,
+    "rues_agregado": 81489.0,
+    "diferencia_pct": 3.307555781,
+    "fuente": "Confecámaras - Informe de dinámica de creación de empresas 2021"
+   }
+  ],
+  "sas_participacion": {
+   "2005": 0.183209736,
+   "2006": 0.202307375,
+   "2007": 0.226034873,
+   "2008": 0.246686177,
+   "2009": 0.575756071,
+   "2010": 0.839573788,
+   "2011": 0.926689793,
+   "2012": 0.950997544,
+   "2013": 0.959299395,
+   "2014": 0.966618368,
+   "2015": 0.973093527,
+   "2016": 0.979256845,
+   "2017": 0.981257176,
+   "2018": 0.981686223,
+   "2019": 0.98316838,
+   "2020": 0.985742407,
+   "2021": 0.986930751,
+   "2022": 0.988935207,
+   "2023": 0.989092755,
+   "2024": 0.989766986,
+   "2025": 0.991042068,
+   "2026": 0.991956733
+  },
+  "sectores": [
+   {
+    "anio": 2015,
+    "ciiu2": "00",
+    "n": 1.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "01",
+    "n": 1905.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "02",
+    "n": 95.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "03",
+    "n": 142.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "05",
+    "n": 89.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "06",
+    "n": 15.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "07",
+    "n": 157.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "08",
+    "n": 235.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "09",
+    "n": 141.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "10",
+    "n": 1111.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "11",
+    "n": 131.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "12",
+    "n": 1.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "13",
+    "n": 225.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "14",
+    "n": 868.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "15",
+    "n": 217.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "16",
+    "n": 208.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "17",
+    "n": 48.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "18",
+    "n": 296.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "19",
+    "n": 18.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "20",
+    "n": 347.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "21",
+    "n": 63.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "22",
+    "n": 215.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "23",
+    "n": 170.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "24",
+    "n": 103.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "25",
+    "n": 692.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "26",
+    "n": 56.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "27",
+    "n": 71.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "28",
+    "n": 190.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "29",
+    "n": 104.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "30",
+    "n": 39.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "31",
+    "n": 325.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "32",
+    "n": 225.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "33",
+    "n": 1066.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "35",
+    "n": 176.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "36",
+    "n": 163.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "37",
+    "n": 48.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "38",
+    "n": 262.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "39",
+    "n": 126.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "41",
+    "n": 2681.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "42",
+    "n": 2878.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "43",
+    "n": 3181.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "45",
+    "n": 1327.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "46",
+    "n": 6831.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "47",
+    "n": 5246.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "49",
+    "n": 1677.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "50",
+    "n": 54.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "51",
+    "n": 31.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "52",
+    "n": 664.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "53",
+    "n": 222.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "55",
+    "n": 446.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "56",
+    "n": 1789.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "58",
+    "n": 253.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "59",
+    "n": 303.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "60",
+    "n": 81.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "61",
+    "n": 666.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "62",
+    "n": 1572.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "63",
+    "n": 289.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "64",
+    "n": 404.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "65",
+    "n": 158.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "66",
+    "n": 826.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "68",
+    "n": 3290.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "69",
+    "n": 1816.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "70",
+    "n": 3546.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "71",
+    "n": 2359.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "72",
+    "n": 199.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "73",
+    "n": 1296.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "74",
+    "n": 1183.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "75",
+    "n": 89.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "77",
+    "n": 599.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "78",
+    "n": 394.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "79",
+    "n": 565.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "80",
+    "n": 230.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "81",
+    "n": 566.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "82",
+    "n": 1493.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "84",
+    "n": 157.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "85",
+    "n": 1541.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "86",
+    "n": 1935.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "87",
+    "n": 113.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "88",
+    "n": 191.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "90",
+    "n": 563.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "91",
+    "n": 44.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "92",
+    "n": 56.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "93",
+    "n": 515.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "94",
+    "n": 9915.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "95",
+    "n": 172.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "96",
+    "n": 373.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "97",
+    "n": 6.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "98",
+    "n": 9.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": "99",
+    "n": 114.0
+   },
+   {
+    "anio": 2015,
+    "ciiu2": null,
+    "n": 7.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "01",
+    "n": 2612.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "02",
+    "n": 114.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "03",
+    "n": 185.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "05",
+    "n": 71.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "06",
+    "n": 23.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "07",
+    "n": 186.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "08",
+    "n": 276.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "09",
+    "n": 122.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "10",
+    "n": 1392.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "11",
+    "n": 192.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "13",
+    "n": 268.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "14",
+    "n": 1167.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "15",
+    "n": 265.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "16",
+    "n": 237.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "17",
+    "n": 55.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "18",
+    "n": 317.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "19",
+    "n": 40.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "20",
+    "n": 407.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "21",
+    "n": 75.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "22",
+    "n": 276.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "23",
+    "n": 214.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "24",
+    "n": 121.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "25",
+    "n": 840.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "26",
+    "n": 60.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "27",
+    "n": 115.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "28",
+    "n": 224.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "29",
+    "n": 99.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "30",
+    "n": 37.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "31",
+    "n": 360.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "32",
+    "n": 264.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "33",
+    "n": 1252.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "35",
+    "n": 299.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "36",
+    "n": 192.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "37",
+    "n": 37.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "38",
+    "n": 349.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "39",
+    "n": 170.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "41",
+    "n": 2910.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "42",
+    "n": 3501.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "43",
+    "n": 3829.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "45",
+    "n": 1535.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "46",
+    "n": 8240.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "47",
+    "n": 5916.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "49",
+    "n": 1851.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "50",
+    "n": 94.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "51",
+    "n": 47.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "52",
+    "n": 811.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "53",
+    "n": 268.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "55",
+    "n": 555.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "56",
+    "n": 2321.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "58",
+    "n": 304.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "59",
+    "n": 391.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "60",
+    "n": 97.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "61",
+    "n": 741.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "62",
+    "n": 2153.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "63",
+    "n": 417.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "64",
+    "n": 484.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "65",
+    "n": 184.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "66",
+    "n": 899.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "68",
+    "n": 4097.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "69",
+    "n": 2521.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "70",
+    "n": 4973.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "71",
+    "n": 2968.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "72",
+    "n": 265.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "73",
+    "n": 1500.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "74",
+    "n": 1500.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "75",
+    "n": 138.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "77",
+    "n": 636.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "78",
+    "n": 410.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "79",
+    "n": 772.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "80",
+    "n": 276.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "81",
+    "n": 762.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "82",
+    "n": 1861.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "84",
+    "n": 232.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "85",
+    "n": 1828.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "86",
+    "n": 2102.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "87",
+    "n": 150.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "88",
+    "n": 248.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "90",
+    "n": 744.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "91",
+    "n": 61.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "92",
+    "n": 85.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "93",
+    "n": 561.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "94",
+    "n": 12564.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "95",
+    "n": 235.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "96",
+    "n": 511.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "97",
+    "n": 20.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "98",
+    "n": 4.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": "99",
+    "n": 106.0
+   },
+   {
+    "anio": 2016,
+    "ciiu2": null,
+    "n": 5.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "00",
+    "n": 4.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "01",
+    "n": 2423.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "02",
+    "n": 122.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "03",
+    "n": 194.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "05",
+    "n": 113.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "06",
+    "n": 15.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "07",
+    "n": 175.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "08",
+    "n": 190.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "09",
+    "n": 151.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "10",
+    "n": 1429.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "11",
+    "n": 164.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "13",
+    "n": 224.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "14",
+    "n": 1012.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "15",
+    "n": 254.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "16",
+    "n": 226.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "17",
+    "n": 45.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "18",
+    "n": 259.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "19",
+    "n": 39.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "20",
+    "n": 360.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "21",
+    "n": 85.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "22",
+    "n": 248.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "23",
+    "n": 175.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "24",
+    "n": 125.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "25",
+    "n": 814.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "26",
+    "n": 45.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "27",
+    "n": 65.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "28",
+    "n": 194.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "29",
+    "n": 75.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "30",
+    "n": 35.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "31",
+    "n": 313.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "32",
+    "n": 265.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "33",
+    "n": 1166.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "35",
+    "n": 242.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "36",
+    "n": 214.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "37",
+    "n": 40.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "38",
+    "n": 311.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "39",
+    "n": 153.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "41",
+    "n": 2637.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "42",
+    "n": 2875.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "43",
+    "n": 3499.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "45",
+    "n": 1590.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "46",
+    "n": 7519.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "47",
+    "n": 6047.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "49",
+    "n": 1591.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "50",
+    "n": 85.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "51",
+    "n": 34.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "52",
+    "n": 660.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "53",
+    "n": 272.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "55",
+    "n": 700.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "56",
+    "n": 2187.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "58",
+    "n": 283.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "59",
+    "n": 363.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "60",
+    "n": 75.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "61",
+    "n": 637.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "62",
+    "n": 1972.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "63",
+    "n": 418.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "64",
+    "n": 409.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "65",
+    "n": 131.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "66",
+    "n": 841.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "68",
+    "n": 3448.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "69",
+    "n": 2007.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "70",
+    "n": 4011.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "71",
+    "n": 2442.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "72",
+    "n": 214.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "73",
+    "n": 1406.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "74",
+    "n": 1266.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "75",
+    "n": 113.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "77",
+    "n": 595.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "78",
+    "n": 314.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "79",
+    "n": 814.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "80",
+    "n": 272.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "81",
+    "n": 715.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "82",
+    "n": 1655.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "84",
+    "n": 136.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "85",
+    "n": 1585.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "86",
+    "n": 1934.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "87",
+    "n": 155.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "88",
+    "n": 179.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "90",
+    "n": 675.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "91",
+    "n": 55.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "92",
+    "n": 111.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "93",
+    "n": 540.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "94",
+    "n": 10044.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "95",
+    "n": 228.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "96",
+    "n": 481.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "97",
+    "n": 18.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "98",
+    "n": 5.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": "99",
+    "n": 74.0
+   },
+   {
+    "anio": 2017,
+    "ciiu2": null,
+    "n": 1.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "00",
+    "n": 1.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "01",
+    "n": 2819.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "02",
+    "n": 136.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "03",
+    "n": 156.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "05",
+    "n": 150.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "06",
+    "n": 12.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "07",
+    "n": 149.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "08",
+    "n": 187.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "09",
+    "n": 101.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "10",
+    "n": 1463.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "11",
+    "n": 146.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "12",
+    "n": 4.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "13",
+    "n": 247.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "14",
+    "n": 975.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "15",
+    "n": 318.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "16",
+    "n": 254.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "17",
+    "n": 63.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "18",
+    "n": 275.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "19",
+    "n": 47.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "20",
+    "n": 337.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "21",
+    "n": 195.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "22",
+    "n": 242.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "23",
+    "n": 160.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "24",
+    "n": 113.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "25",
+    "n": 798.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "26",
+    "n": 44.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "27",
+    "n": 72.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "28",
+    "n": 209.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "29",
+    "n": 71.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "30",
+    "n": 25.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "31",
+    "n": 290.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "32",
+    "n": 251.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "33",
+    "n": 1188.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "35",
+    "n": 298.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "36",
+    "n": 183.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "37",
+    "n": 39.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "38",
+    "n": 393.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "39",
+    "n": 110.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "41",
+    "n": 2552.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "42",
+    "n": 2723.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "43",
+    "n": 3248.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "45",
+    "n": 1606.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "46",
+    "n": 7720.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "47",
+    "n": 6470.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "49",
+    "n": 1596.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "50",
+    "n": 87.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "51",
+    "n": 43.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "52",
+    "n": 679.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "53",
+    "n": 274.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "55",
+    "n": 598.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "56",
+    "n": 2105.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "58",
+    "n": 246.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "59",
+    "n": 314.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "60",
+    "n": 81.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "61",
+    "n": 754.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "62",
+    "n": 2056.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "63",
+    "n": 497.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "64",
+    "n": 372.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "65",
+    "n": 120.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "66",
+    "n": 902.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "68",
+    "n": 3545.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "69",
+    "n": 2065.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "70",
+    "n": 3817.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "71",
+    "n": 2348.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "72",
+    "n": 223.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "73",
+    "n": 1370.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "74",
+    "n": 1139.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "75",
+    "n": 126.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "77",
+    "n": 557.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "78",
+    "n": 315.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "79",
+    "n": 856.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "80",
+    "n": 305.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "81",
+    "n": 729.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "82",
+    "n": 1757.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "84",
+    "n": 171.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "85",
+    "n": 1760.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "86",
+    "n": 1836.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "87",
+    "n": 134.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "88",
+    "n": 192.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "90",
+    "n": 695.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "91",
+    "n": 46.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "92",
+    "n": 136.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "93",
+    "n": 475.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "94",
+    "n": 8200.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "95",
+    "n": 205.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "96",
+    "n": 549.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "97",
+    "n": 15.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "98",
+    "n": 4.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": "99",
+    "n": 103.0
+   },
+   {
+    "anio": 2018,
+    "ciiu2": null,
+    "n": 1.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "00",
+    "n": 1.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "01",
+    "n": 3291.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "02",
+    "n": 137.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "03",
+    "n": 127.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "05",
+    "n": 148.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "06",
+    "n": 10.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "07",
+    "n": 210.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "08",
+    "n": 197.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "09",
+    "n": 128.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "10",
+    "n": 1515.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "11",
+    "n": 157.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "13",
+    "n": 242.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "14",
+    "n": 1213.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "15",
+    "n": 306.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "16",
+    "n": 242.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "17",
+    "n": 65.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "18",
+    "n": 265.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "19",
+    "n": 29.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "20",
+    "n": 364.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "21",
+    "n": 225.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "22",
+    "n": 275.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "23",
+    "n": 173.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "24",
+    "n": 116.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "25",
+    "n": 806.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "26",
+    "n": 45.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "27",
+    "n": 78.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "28",
+    "n": 196.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "29",
+    "n": 99.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "30",
+    "n": 25.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "31",
+    "n": 378.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "32",
+    "n": 266.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "33",
+    "n": 1183.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "35",
+    "n": 306.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "36",
+    "n": 186.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "37",
+    "n": 40.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "38",
+    "n": 487.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "39",
+    "n": 122.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "41",
+    "n": 2709.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "42",
+    "n": 3004.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "43",
+    "n": 3418.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "45",
+    "n": 1801.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "46",
+    "n": 8369.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "47",
+    "n": 7496.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "49",
+    "n": 1887.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "50",
+    "n": 83.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "51",
+    "n": 30.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "52",
+    "n": 740.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "53",
+    "n": 255.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "55",
+    "n": 789.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "56",
+    "n": 2251.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "58",
+    "n": 310.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "59",
+    "n": 393.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "60",
+    "n": 75.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "61",
+    "n": 802.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "62",
+    "n": 2470.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "63",
+    "n": 612.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "64",
+    "n": 527.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "65",
+    "n": 110.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "66",
+    "n": 1179.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "68",
+    "n": 3841.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "69",
+    "n": 2247.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "70",
+    "n": 4184.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "71",
+    "n": 2483.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "72",
+    "n": 243.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "73",
+    "n": 1447.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "74",
+    "n": 1291.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "75",
+    "n": 145.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "77",
+    "n": 701.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "78",
+    "n": 264.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "79",
+    "n": 1037.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "80",
+    "n": 280.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "81",
+    "n": 822.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "82",
+    "n": 1863.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "84",
+    "n": 199.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "85",
+    "n": 1823.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "86",
+    "n": 2111.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "87",
+    "n": 138.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "88",
+    "n": 208.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "90",
+    "n": 885.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "91",
+    "n": 69.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "92",
+    "n": 88.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "93",
+    "n": 493.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "94",
+    "n": 9553.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "95",
+    "n": 211.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "96",
+    "n": 597.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "97",
+    "n": 20.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "98",
+    "n": 2.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": "99",
+    "n": 74.0
+   },
+   {
+    "anio": 2019,
+    "ciiu2": null,
+    "n": 1.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "01",
+    "n": 2743.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "02",
+    "n": 126.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "03",
+    "n": 147.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "05",
+    "n": 107.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "06",
+    "n": 15.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "07",
+    "n": 126.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "08",
+    "n": 163.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "09",
+    "n": 102.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "10",
+    "n": 1395.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "11",
+    "n": 166.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "13",
+    "n": 277.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "14",
+    "n": 1093.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "15",
+    "n": 208.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "16",
+    "n": 195.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "17",
+    "n": 51.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "18",
+    "n": 213.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "19",
+    "n": 32.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "20",
+    "n": 402.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "21",
+    "n": 113.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "22",
+    "n": 200.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "23",
+    "n": 170.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "24",
+    "n": 93.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "25",
+    "n": 751.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "26",
+    "n": 44.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "27",
+    "n": 71.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "28",
+    "n": 193.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "29",
+    "n": 84.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "30",
+    "n": 32.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "31",
+    "n": 326.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "32",
+    "n": 252.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "33",
+    "n": 1030.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "35",
+    "n": 253.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "36",
+    "n": 124.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "37",
+    "n": 23.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "38",
+    "n": 510.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "39",
+    "n": 173.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "41",
+    "n": 2198.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "42",
+    "n": 3037.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "43",
+    "n": 2756.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "45",
+    "n": 1784.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "46",
+    "n": 8413.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "47",
+    "n": 7820.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "49",
+    "n": 1766.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "50",
+    "n": 60.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "51",
+    "n": 32.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "52",
+    "n": 585.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "53",
+    "n": 422.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "55",
+    "n": 548.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "56",
+    "n": 1660.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "58",
+    "n": 265.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "59",
+    "n": 359.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "60",
+    "n": 85.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "61",
+    "n": 857.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "62",
+    "n": 2582.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "63",
+    "n": 650.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "64",
+    "n": 470.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "65",
+    "n": 80.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "66",
+    "n": 855.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "68",
+    "n": 3399.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "69",
+    "n": 2068.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "70",
+    "n": 3551.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "71",
+    "n": 2465.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "72",
+    "n": 191.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "73",
+    "n": 1202.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "74",
+    "n": 1129.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "75",
+    "n": 161.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "77",
+    "n": 578.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "78",
+    "n": 246.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "79",
+    "n": 606.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "80",
+    "n": 225.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "81",
+    "n": 819.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "82",
+    "n": 1553.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "84",
+    "n": 153.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "85",
+    "n": 1447.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "86",
+    "n": 1800.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "87",
+    "n": 126.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "88",
+    "n": 233.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "90",
+    "n": 729.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "91",
+    "n": 42.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "92",
+    "n": 52.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "93",
+    "n": 367.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "94",
+    "n": 7673.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "95",
+    "n": 186.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "96",
+    "n": 480.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "97",
+    "n": 14.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "98",
+    "n": 8.0
+   },
+   {
+    "anio": 2020,
+    "ciiu2": "99",
+    "n": 84.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "00",
+    "n": 1.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "01",
+    "n": 3227.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "02",
+    "n": 143.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "03",
+    "n": 188.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "05",
+    "n": 169.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "06",
+    "n": 10.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "07",
+    "n": 175.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "08",
+    "n": 192.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "09",
+    "n": 85.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "10",
+    "n": 1707.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "11",
+    "n": 201.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "12",
+    "n": 3.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "13",
+    "n": 290.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "14",
+    "n": 1162.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "15",
+    "n": 255.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "16",
+    "n": 266.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "17",
+    "n": 60.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "18",
+    "n": 248.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "19",
+    "n": 43.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "20",
+    "n": 430.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "21",
+    "n": 105.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "22",
+    "n": 231.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "23",
+    "n": 205.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "24",
+    "n": 93.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "25",
+    "n": 785.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "26",
+    "n": 47.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "27",
+    "n": 64.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "28",
+    "n": 194.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "29",
+    "n": 93.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "30",
+    "n": 33.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "31",
+    "n": 408.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "32",
+    "n": 272.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "33",
+    "n": 1167.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "35",
+    "n": 370.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "36",
+    "n": 205.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "37",
+    "n": 44.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "38",
+    "n": 695.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "39",
+    "n": 157.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "41",
+    "n": 2677.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "42",
+    "n": 3138.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "43",
+    "n": 3313.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "45",
+    "n": 2086.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "46",
+    "n": 9187.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "47",
+    "n": 9194.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "49",
+    "n": 2014.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "50",
+    "n": 116.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "51",
+    "n": 29.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "52",
+    "n": 695.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "53",
+    "n": 293.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "55",
+    "n": 831.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "56",
+    "n": 2462.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "58",
+    "n": 255.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "59",
+    "n": 399.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "60",
+    "n": 69.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "61",
+    "n": 913.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "62",
+    "n": 2605.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "63",
+    "n": 574.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "64",
+    "n": 548.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "65",
+    "n": 101.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "66",
+    "n": 951.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "68",
+    "n": 4458.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "69",
+    "n": 2173.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "70",
+    "n": 3734.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "71",
+    "n": 2553.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "72",
+    "n": 193.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "73",
+    "n": 1297.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "74",
+    "n": 1327.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "75",
+    "n": 201.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "77",
+    "n": 641.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "78",
+    "n": 292.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "79",
+    "n": 836.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "80",
+    "n": 247.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "81",
+    "n": 710.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "82",
+    "n": 1864.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "84",
+    "n": 211.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "85",
+    "n": 1760.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "86",
+    "n": 2260.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "87",
+    "n": 143.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "88",
+    "n": 214.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "90",
+    "n": 923.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "91",
+    "n": 39.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "92",
+    "n": 81.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "93",
+    "n": 493.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "94",
+    "n": 10636.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "95",
+    "n": 183.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "96",
+    "n": 730.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "97",
+    "n": 14.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "98",
+    "n": 6.0
+   },
+   {
+    "anio": 2021,
+    "ciiu2": "99",
+    "n": 105.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "01",
+    "n": 3417.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "02",
+    "n": 164.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "03",
+    "n": 196.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "05",
+    "n": 229.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "06",
+    "n": 11.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "07",
+    "n": 172.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "08",
+    "n": 184.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "09",
+    "n": 96.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "10",
+    "n": 1763.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "11",
+    "n": 220.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "12",
+    "n": 4.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "13",
+    "n": 316.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "14",
+    "n": 1374.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "15",
+    "n": 242.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "16",
+    "n": 276.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "17",
+    "n": 78.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "18",
+    "n": 249.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "19",
+    "n": 52.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "20",
+    "n": 404.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "21",
+    "n": 96.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "22",
+    "n": 240.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "23",
+    "n": 197.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "24",
+    "n": 125.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "25",
+    "n": 812.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "26",
+    "n": 60.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "27",
+    "n": 61.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "28",
+    "n": 181.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "29",
+    "n": 90.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "30",
+    "n": 33.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "31",
+    "n": 390.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "32",
+    "n": 339.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "33",
+    "n": 1165.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "35",
+    "n": 327.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "36",
+    "n": 154.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "37",
+    "n": 36.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "38",
+    "n": 591.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "39",
+    "n": 117.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "41",
+    "n": 2569.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "42",
+    "n": 3020.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "43",
+    "n": 3269.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "45",
+    "n": 2201.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "46",
+    "n": 8619.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "47",
+    "n": 8584.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "49",
+    "n": 2181.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "50",
+    "n": 107.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "51",
+    "n": 38.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "52",
+    "n": 743.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "53",
+    "n": 264.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "55",
+    "n": 1106.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "56",
+    "n": 3106.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "58",
+    "n": 257.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "59",
+    "n": 427.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "60",
+    "n": 59.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "61",
+    "n": 662.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "62",
+    "n": 2425.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "63",
+    "n": 517.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "64",
+    "n": 642.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "65",
+    "n": 111.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "66",
+    "n": 972.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "68",
+    "n": 5311.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "69",
+    "n": 2253.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "70",
+    "n": 4187.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "71",
+    "n": 2428.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "72",
+    "n": 203.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "73",
+    "n": 1460.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "74",
+    "n": 1292.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "75",
+    "n": 241.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "77",
+    "n": 750.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "78",
+    "n": 360.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "79",
+    "n": 1093.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "80",
+    "n": 230.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "81",
+    "n": 722.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "82",
+    "n": 2059.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "84",
+    "n": 134.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "85",
+    "n": 1806.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "86",
+    "n": 2320.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "87",
+    "n": 166.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "88",
+    "n": 186.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "90",
+    "n": 1054.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "91",
+    "n": 53.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "92",
+    "n": 109.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "93",
+    "n": 506.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "94",
+    "n": 9333.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "95",
+    "n": 193.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "96",
+    "n": 818.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "97",
+    "n": 22.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "98",
+    "n": 5.0
+   },
+   {
+    "anio": 2022,
+    "ciiu2": "99",
+    "n": 65.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "00",
+    "n": 2.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "01",
+    "n": 3243.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "02",
+    "n": 145.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "03",
+    "n": 163.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "05",
+    "n": 200.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "06",
+    "n": 8.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "07",
+    "n": 161.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "08",
+    "n": 147.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "09",
+    "n": 83.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "10",
+    "n": 1500.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "11",
+    "n": 174.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "13",
+    "n": 245.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "14",
+    "n": 1170.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "15",
+    "n": 219.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "16",
+    "n": 260.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "17",
+    "n": 55.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "18",
+    "n": 271.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "19",
+    "n": 27.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "20",
+    "n": 361.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "21",
+    "n": 78.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "22",
+    "n": 258.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "23",
+    "n": 176.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "24",
+    "n": 87.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "25",
+    "n": 766.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "26",
+    "n": 47.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "27",
+    "n": 59.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "28",
+    "n": 140.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "29",
+    "n": 99.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "30",
+    "n": 23.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "31",
+    "n": 358.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "32",
+    "n": 320.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "33",
+    "n": 1065.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "35",
+    "n": 436.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "36",
+    "n": 143.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "37",
+    "n": 35.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "38",
+    "n": 529.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "39",
+    "n": 113.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "41",
+    "n": 2353.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "42",
+    "n": 3121.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "43",
+    "n": 3219.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "45",
+    "n": 2198.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "46",
+    "n": 8282.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "47",
+    "n": 8502.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "49",
+    "n": 2348.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "50",
+    "n": 103.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "51",
+    "n": 35.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "52",
+    "n": 674.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "53",
+    "n": 241.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "55",
+    "n": 1066.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "56",
+    "n": 2827.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "58",
+    "n": 173.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "59",
+    "n": 415.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "60",
+    "n": 55.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "61",
+    "n": 579.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "62",
+    "n": 2417.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "63",
+    "n": 555.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "64",
+    "n": 550.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "65",
+    "n": 68.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "66",
+    "n": 755.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "68",
+    "n": 4823.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "69",
+    "n": 2356.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "70",
+    "n": 4197.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "71",
+    "n": 2424.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "72",
+    "n": 194.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "73",
+    "n": 1517.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "74",
+    "n": 1186.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "75",
+    "n": 213.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "77",
+    "n": 790.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "78",
+    "n": 332.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "79",
+    "n": 1089.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "80",
+    "n": 276.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "81",
+    "n": 725.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "82",
+    "n": 2013.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "84",
+    "n": 154.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "85",
+    "n": 1827.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "86",
+    "n": 2568.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "87",
+    "n": 114.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "88",
+    "n": 207.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "90",
+    "n": 1102.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "91",
+    "n": 36.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "92",
+    "n": 76.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "93",
+    "n": 510.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "94",
+    "n": 11809.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "95",
+    "n": 179.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "96",
+    "n": 742.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "97",
+    "n": 15.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "98",
+    "n": 1.0
+   },
+   {
+    "anio": 2023,
+    "ciiu2": "99",
+    "n": 75.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "01",
+    "n": 3309.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "02",
+    "n": 130.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "03",
+    "n": 133.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "05",
+    "n": 148.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "06",
+    "n": 11.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "07",
+    "n": 133.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "08",
+    "n": 172.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "09",
+    "n": 64.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "10",
+    "n": 1866.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "11",
+    "n": 191.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "13",
+    "n": 271.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "14",
+    "n": 1119.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "15",
+    "n": 217.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "16",
+    "n": 225.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "17",
+    "n": 78.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "18",
+    "n": 271.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "19",
+    "n": 42.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "20",
+    "n": 394.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "21",
+    "n": 91.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "22",
+    "n": 234.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "23",
+    "n": 155.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "24",
+    "n": 88.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "25",
+    "n": 717.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "26",
+    "n": 52.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "27",
+    "n": 59.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "28",
+    "n": 145.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "29",
+    "n": 78.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "30",
+    "n": 37.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "31",
+    "n": 330.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "32",
+    "n": 337.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "33",
+    "n": 1122.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "35",
+    "n": 374.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "36",
+    "n": 186.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "37",
+    "n": 29.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "38",
+    "n": 519.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "39",
+    "n": 205.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "41",
+    "n": 2384.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "42",
+    "n": 3367.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "43",
+    "n": 3259.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "45",
+    "n": 2328.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "46",
+    "n": 8594.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "47",
+    "n": 9292.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "49",
+    "n": 2281.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "50",
+    "n": 106.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "51",
+    "n": 39.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "52",
+    "n": 681.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "53",
+    "n": 262.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "55",
+    "n": 1055.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "56",
+    "n": 3256.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "58",
+    "n": 228.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "59",
+    "n": 447.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "60",
+    "n": 54.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "61",
+    "n": 565.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "62",
+    "n": 2562.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "63",
+    "n": 559.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "64",
+    "n": 493.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "65",
+    "n": 61.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "66",
+    "n": 909.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "68",
+    "n": 5487.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "69",
+    "n": 2406.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "70",
+    "n": 4726.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "71",
+    "n": 2767.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "72",
+    "n": 264.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "73",
+    "n": 1661.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "74",
+    "n": 1298.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "75",
+    "n": 229.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "77",
+    "n": 814.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "78",
+    "n": 334.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "79",
+    "n": 1148.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "80",
+    "n": 224.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "81",
+    "n": 799.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "82",
+    "n": 2124.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "84",
+    "n": 184.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "85",
+    "n": 1905.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "86",
+    "n": 2647.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "87",
+    "n": 152.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "88",
+    "n": 200.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "90",
+    "n": 1126.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "91",
+    "n": 35.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "92",
+    "n": 79.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "93",
+    "n": 713.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "94",
+    "n": 14302.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "95",
+    "n": 185.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "96",
+    "n": 767.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "97",
+    "n": 11.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "98",
+    "n": 5.0
+   },
+   {
+    "anio": 2024,
+    "ciiu2": "99",
+    "n": 68.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "00",
+    "n": 3.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "01",
+    "n": 3457.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "02",
+    "n": 136.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "03",
+    "n": 122.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "05",
+    "n": 113.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "06",
+    "n": 10.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "07",
+    "n": 175.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "08",
+    "n": 157.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "09",
+    "n": 84.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "10",
+    "n": 1826.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "11",
+    "n": 195.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "12",
+    "n": 2.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "13",
+    "n": 237.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "14",
+    "n": 1177.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "15",
+    "n": 211.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "16",
+    "n": 255.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "17",
+    "n": 68.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "18",
+    "n": 250.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "19",
+    "n": 27.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "20",
+    "n": 343.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "21",
+    "n": 74.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "22",
+    "n": 219.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "23",
+    "n": 153.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "24",
+    "n": 76.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "25",
+    "n": 736.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "26",
+    "n": 40.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "27",
+    "n": 62.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "28",
+    "n": 145.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "29",
+    "n": 104.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "30",
+    "n": 38.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "31",
+    "n": 321.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "32",
+    "n": 376.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "33",
+    "n": 1087.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "35",
+    "n": 442.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "36",
+    "n": 178.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "37",
+    "n": 40.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "38",
+    "n": 461.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "39",
+    "n": 84.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "41",
+    "n": 2348.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "42",
+    "n": 3181.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "43",
+    "n": 3281.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "45",
+    "n": 2480.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "46",
+    "n": 8644.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "47",
+    "n": 9569.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "49",
+    "n": 2207.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "50",
+    "n": 105.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "51",
+    "n": 26.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "52",
+    "n": 791.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "53",
+    "n": 261.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "55",
+    "n": 999.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "56",
+    "n": 3362.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "58",
+    "n": 200.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "59",
+    "n": 417.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "60",
+    "n": 32.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "61",
+    "n": 547.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "62",
+    "n": 3108.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "63",
+    "n": 500.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "64",
+    "n": 528.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "65",
+    "n": 56.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "66",
+    "n": 914.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "68",
+    "n": 6190.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "69",
+    "n": 2531.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "70",
+    "n": 4848.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "71",
+    "n": 2847.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "72",
+    "n": 200.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "73",
+    "n": 1744.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "74",
+    "n": 1360.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "75",
+    "n": 205.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "77",
+    "n": 864.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "78",
+    "n": 302.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "79",
+    "n": 1146.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "80",
+    "n": 246.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "81",
+    "n": 802.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "82",
+    "n": 2203.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "84",
+    "n": 122.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "85",
+    "n": 1939.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "86",
+    "n": 2692.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "87",
+    "n": 145.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "88",
+    "n": 258.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "90",
+    "n": 1113.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "91",
+    "n": 39.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "92",
+    "n": 112.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "93",
+    "n": 756.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "94",
+    "n": 10853.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "95",
+    "n": 165.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "96",
+    "n": 843.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "97",
+    "n": 8.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "98",
+    "n": 7.0
+   },
+   {
+    "anio": 2025,
+    "ciiu2": "99",
+    "n": 29.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "00",
+    "n": 3.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "01",
+    "n": 2496.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "02",
+    "n": 96.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "03",
+    "n": 99.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "05",
+    "n": 91.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "06",
+    "n": 4.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "07",
+    "n": 191.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "08",
+    "n": 119.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "09",
+    "n": 84.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "10",
+    "n": 1524.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "11",
+    "n": 180.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "12",
+    "n": 1.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "13",
+    "n": 204.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "14",
+    "n": 874.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "15",
+    "n": 152.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "16",
+    "n": 184.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "17",
+    "n": 41.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "18",
+    "n": 200.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "19",
+    "n": 13.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "20",
+    "n": 279.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "21",
+    "n": 54.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "22",
+    "n": 205.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "23",
+    "n": 131.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "24",
+    "n": 51.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "25",
+    "n": 671.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "26",
+    "n": 32.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "27",
+    "n": 39.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "28",
+    "n": 121.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "29",
+    "n": 74.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "30",
+    "n": 13.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "31",
+    "n": 329.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "32",
+    "n": 305.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "33",
+    "n": 879.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "35",
+    "n": 344.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "36",
+    "n": 137.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "37",
+    "n": 18.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "38",
+    "n": 337.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "39",
+    "n": 66.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "41",
+    "n": 2113.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "42",
+    "n": 2652.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "43",
+    "n": 3234.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "45",
+    "n": 2332.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "46",
+    "n": 7934.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "47",
+    "n": 8539.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "49",
+    "n": 2009.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "50",
+    "n": 89.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "51",
+    "n": 22.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "52",
+    "n": 781.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "53",
+    "n": 329.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "55",
+    "n": 792.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "56",
+    "n": 2917.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "58",
+    "n": 207.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "59",
+    "n": 526.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "60",
+    "n": 31.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "61",
+    "n": 477.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "62",
+    "n": 4110.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "63",
+    "n": 639.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "64",
+    "n": 676.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "65",
+    "n": 23.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "66",
+    "n": 720.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "68",
+    "n": 5724.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "69",
+    "n": 2379.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "70",
+    "n": 4483.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "71",
+    "n": 2662.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "72",
+    "n": 170.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "73",
+    "n": 1403.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "74",
+    "n": 974.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "75",
+    "n": 218.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "77",
+    "n": 835.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "78",
+    "n": 262.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "79",
+    "n": 994.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "80",
+    "n": 188.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "81",
+    "n": 679.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "82",
+    "n": 1811.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "84",
+    "n": 60.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "85",
+    "n": 1576.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "86",
+    "n": 2238.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "87",
+    "n": 125.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "88",
+    "n": 283.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "90",
+    "n": 778.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "91",
+    "n": 32.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "92",
+    "n": 89.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "93",
+    "n": 667.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "94",
+    "n": 7816.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "95",
+    "n": 136.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "96",
+    "n": 843.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "97",
+    "n": 3.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "98",
+    "n": 6.0
+   },
+   {
+    "anio": 2026,
+    "ciiu2": "99",
+    "n": 34.0
+   }
+  ],
+  "camaras": [
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2015,
+    "n": 1395.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2016,
+    "n": 1724.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2017,
+    "n": 1533.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2018,
+    "n": 1658.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2019,
+    "n": 1830.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2020,
+    "n": 1761.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2021,
+    "n": 1968.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2022,
+    "n": 2018.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2023,
+    "n": 1859.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2024,
+    "n": 1882.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2025,
+    "n": 1988.0
+   },
+   {
+    "camara": "ABURRA SUR",
+    "anio": 2026,
+    "n": 1739.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2015,
+    "n": 128.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2016,
+    "n": 164.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2017,
+    "n": 130.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2018,
+    "n": 222.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2019,
+    "n": 259.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2020,
+    "n": 292.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2021,
+    "n": 322.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2022,
+    "n": 261.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2023,
+    "n": 268.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2024,
+    "n": 296.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2025,
+    "n": 232.0
+   },
+   {
+    "camara": "AGUACHICA",
+    "anio": 2026,
+    "n": 266.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2015,
+    "n": 104.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2016,
+    "n": 48.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2017,
+    "n": 43.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2018,
+    "n": 38.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2019,
+    "n": 52.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2020,
+    "n": 43.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2021,
+    "n": 59.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2022,
+    "n": 69.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2023,
+    "n": 76.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2024,
+    "n": 98.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2025,
+    "n": 82.0
+   },
+   {
+    "camara": "AMAZONAS",
+    "anio": 2026,
+    "n": 67.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2015,
+    "n": 80.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2016,
+    "n": 123.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2017,
+    "n": 94.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2018,
+    "n": 67.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2019,
+    "n": 122.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2020,
+    "n": 142.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2021,
+    "n": 124.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2022,
+    "n": 122.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2023,
+    "n": 74.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2024,
+    "n": 81.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2025,
+    "n": 68.0
+   },
+   {
+    "camara": "ARAUCA",
+    "anio": 2026,
+    "n": 69.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2015,
+    "n": 481.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2016,
+    "n": 632.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2017,
+    "n": 628.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2018,
+    "n": 650.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2019,
+    "n": 672.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2020,
+    "n": 703.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2021,
+    "n": 855.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2022,
+    "n": 1118.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2023,
+    "n": 703.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2024,
+    "n": 741.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2025,
+    "n": 859.0
+   },
+   {
+    "camara": "ARMENIA",
+    "anio": 2026,
+    "n": 768.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2015,
+    "n": 398.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2016,
+    "n": 369.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2017,
+    "n": 329.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2018,
+    "n": 356.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2019,
+    "n": 396.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2020,
+    "n": 432.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2021,
+    "n": 566.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2022,
+    "n": 470.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2023,
+    "n": 490.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2024,
+    "n": 765.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2025,
+    "n": 445.0
+   },
+   {
+    "camara": "BARRANCABERMEJA",
+    "anio": 2026,
+    "n": 400.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2015,
+    "n": 4148.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2016,
+    "n": 5107.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2017,
+    "n": 4898.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2018,
+    "n": 5164.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2019,
+    "n": 5602.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2020,
+    "n": 4613.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2021,
+    "n": 5701.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2022,
+    "n": 5908.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2023,
+    "n": 5678.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2024,
+    "n": 5719.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2025,
+    "n": 6005.0
+   },
+   {
+    "camara": "BARRANQUILLA",
+    "anio": 2026,
+    "n": 5396.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2015,
+    "n": 25422.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2016,
+    "n": 30555.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2017,
+    "n": 27478.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2018,
+    "n": 27320.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2019,
+    "n": 29157.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2020,
+    "n": 24965.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2021,
+    "n": 27487.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2022,
+    "n": 27445.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2023,
+    "n": 27370.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2024,
+    "n": 28567.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2025,
+    "n": 29671.0
+   },
+   {
+    "camara": "BOGOTA",
+    "anio": 2026,
+    "n": 27052.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2015,
+    "n": 2227.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2016,
+    "n": 2733.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2017,
+    "n": 2459.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2018,
+    "n": 2270.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2019,
+    "n": 2699.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2020,
+    "n": 2642.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2021,
+    "n": 2792.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2022,
+    "n": 2680.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2023,
+    "n": 2808.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2024,
+    "n": 2944.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2025,
+    "n": 2936.0
+   },
+   {
+    "camara": "BUCARAMANGA",
+    "anio": 2026,
+    "n": 2608.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2015,
+    "n": 278.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2016,
+    "n": 281.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2017,
+    "n": 229.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2018,
+    "n": 268.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2019,
+    "n": 256.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2020,
+    "n": 218.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2021,
+    "n": 221.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2022,
+    "n": 211.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2023,
+    "n": 219.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2024,
+    "n": 193.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2025,
+    "n": 196.0
+   },
+   {
+    "camara": "BUENAVENTURA",
+    "anio": 2026,
+    "n": 213.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2015,
+    "n": 155.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2016,
+    "n": 207.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2017,
+    "n": 201.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2018,
+    "n": 196.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2019,
+    "n": 232.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2020,
+    "n": 206.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2021,
+    "n": 214.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2022,
+    "n": 211.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2023,
+    "n": 248.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2024,
+    "n": 220.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2025,
+    "n": 196.0
+   },
+   {
+    "camara": "BUGA",
+    "anio": 2026,
+    "n": 188.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2015,
+    "n": 4378.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2016,
+    "n": 5242.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2017,
+    "n": 4839.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2018,
+    "n": 4900.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2019,
+    "n": 5253.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2020,
+    "n": 4951.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2021,
+    "n": 5212.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2022,
+    "n": 5313.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2023,
+    "n": 5284.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2024,
+    "n": 5610.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2025,
+    "n": 5694.0
+   },
+   {
+    "camara": "CALI",
+    "anio": 2026,
+    "n": 4945.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2015,
+    "n": 2436.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2016,
+    "n": 2852.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2017,
+    "n": 2575.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2018,
+    "n": 2375.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2019,
+    "n": 2703.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2020,
+    "n": 2274.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2021,
+    "n": 3013.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2022,
+    "n": 3022.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2023,
+    "n": 3186.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2024,
+    "n": 3075.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2025,
+    "n": 3411.0
+   },
+   {
+    "camara": "CARTAGENA",
+    "anio": 2026,
+    "n": 3037.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2015,
+    "n": 138.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2016,
+    "n": 201.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2017,
+    "n": 161.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2018,
+    "n": 178.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2019,
+    "n": 225.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2020,
+    "n": 222.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2021,
+    "n": 240.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2022,
+    "n": 260.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2023,
+    "n": 269.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2024,
+    "n": 240.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2025,
+    "n": 263.0
+   },
+   {
+    "camara": "CARTAGO",
+    "anio": 2026,
+    "n": 222.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2015,
+    "n": 558.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2016,
+    "n": 547.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2017,
+    "n": 469.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2018,
+    "n": 505.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2019,
+    "n": 577.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2020,
+    "n": 618.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2021,
+    "n": 662.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2022,
+    "n": 686.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2023,
+    "n": 756.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2024,
+    "n": 757.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2025,
+    "n": 753.0
+   },
+   {
+    "camara": "CASANARE",
+    "anio": 2026,
+    "n": 631.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2015,
+    "n": 432.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2016,
+    "n": 603.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2017,
+    "n": 635.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2018,
+    "n": 565.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2019,
+    "n": 729.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2020,
+    "n": 564.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2021,
+    "n": 681.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2022,
+    "n": 697.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2023,
+    "n": 571.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2024,
+    "n": 658.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2025,
+    "n": 627.0
+   },
+   {
+    "camara": "CAUCA",
+    "anio": 2026,
+    "n": 589.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2015,
+    "n": 13.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2016,
+    "n": 31.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2017,
+    "n": 32.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2018,
+    "n": 31.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2019,
+    "n": 44.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2020,
+    "n": 38.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2021,
+    "n": 49.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2022,
+    "n": 36.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2023,
+    "n": 46.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2024,
+    "n": 40.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2025,
+    "n": 32.0
+   },
+   {
+    "camara": "CHINCHINA",
+    "anio": 2026,
+    "n": 37.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2015,
+    "n": 222.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2016,
+    "n": 234.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2017,
+    "n": 218.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2018,
+    "n": 269.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2019,
+    "n": 272.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2020,
+    "n": 326.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2021,
+    "n": 418.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2022,
+    "n": 353.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2023,
+    "n": 300.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2024,
+    "n": 442.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2025,
+    "n": 352.0
+   },
+   {
+    "camara": "CHOCÓ",
+    "anio": 2026,
+    "n": 417.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2015,
+    "n": 1032.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2016,
+    "n": 1340.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2017,
+    "n": 1044.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2018,
+    "n": 1240.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2019,
+    "n": 1611.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2020,
+    "n": 1501.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2021,
+    "n": 1684.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2022,
+    "n": 1877.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2023,
+    "n": 1153.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2024,
+    "n": 1201.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2025,
+    "n": 1167.0
+   },
+   {
+    "camara": "CUCUTA",
+    "anio": 2026,
+    "n": 1107.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2015,
+    "n": 189.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2016,
+    "n": 235.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2017,
+    "n": 219.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2018,
+    "n": 216.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2019,
+    "n": 214.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2020,
+    "n": 226.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2021,
+    "n": 246.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2022,
+    "n": 262.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2023,
+    "n": 262.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2024,
+    "n": 270.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2025,
+    "n": 299.0
+   },
+   {
+    "camara": "DOSQUEBRADAS",
+    "anio": 2026,
+    "n": 248.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2015,
+    "n": 196.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2016,
+    "n": 219.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2017,
+    "n": 228.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2018,
+    "n": 266.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2019,
+    "n": 306.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2020,
+    "n": 302.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2021,
+    "n": 416.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2022,
+    "n": 377.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2023,
+    "n": 339.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2024,
+    "n": 351.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2025,
+    "n": 358.0
+   },
+   {
+    "camara": "DUITAMA",
+    "anio": 2026,
+    "n": 325.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2015,
+    "n": 728.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2016,
+    "n": 842.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2017,
+    "n": 811.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2018,
+    "n": 825.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2019,
+    "n": 939.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2020,
+    "n": 886.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2021,
+    "n": 978.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2022,
+    "n": 1153.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2023,
+    "n": 1018.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2024,
+    "n": 1054.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2025,
+    "n": 1033.0
+   },
+   {
+    "camara": "FACATATIVA",
+    "anio": 2026,
+    "n": 971.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2015,
+    "n": 133.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2016,
+    "n": 250.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2017,
+    "n": 243.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2018,
+    "n": 254.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2019,
+    "n": 262.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2020,
+    "n": 282.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2021,
+    "n": 282.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2022,
+    "n": 253.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2023,
+    "n": 250.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2024,
+    "n": 367.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2025,
+    "n": 343.0
+   },
+   {
+    "camara": "FLORENCIA PARA EL CAQUETA",
+    "anio": 2026,
+    "n": 303.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2015,
+    "n": 225.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2016,
+    "n": 273.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2017,
+    "n": 274.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2018,
+    "n": 230.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2019,
+    "n": 239.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2020,
+    "n": 277.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2021,
+    "n": 305.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2022,
+    "n": 306.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2023,
+    "n": 295.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2024,
+    "n": 311.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2025,
+    "n": 292.0
+   },
+   {
+    "camara": "GIRARDOT",
+    "anio": 2026,
+    "n": 257.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2015,
+    "n": 57.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2016,
+    "n": 83.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2017,
+    "n": 62.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2018,
+    "n": 88.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2019,
+    "n": 90.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2020,
+    "n": 111.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2021,
+    "n": 140.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2022,
+    "n": 123.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2023,
+    "n": 101.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2024,
+    "n": 153.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2025,
+    "n": 128.0
+   },
+   {
+    "camara": "HONDA",
+    "anio": 2026,
+    "n": 111.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2015,
+    "n": 795.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2016,
+    "n": 1022.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2017,
+    "n": 820.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2018,
+    "n": 791.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2019,
+    "n": 910.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2020,
+    "n": 866.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2021,
+    "n": 1020.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2022,
+    "n": 1071.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2023,
+    "n": 1030.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2024,
+    "n": 1177.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2025,
+    "n": 1333.0
+   },
+   {
+    "camara": "HUILA",
+    "anio": 2026,
+    "n": 1123.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2015,
+    "n": 777.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2016,
+    "n": 951.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2017,
+    "n": 842.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2018,
+    "n": 858.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2019,
+    "n": 963.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2020,
+    "n": 982.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2021,
+    "n": 1111.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2022,
+    "n": 1117.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2023,
+    "n": 1087.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2024,
+    "n": 1107.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2025,
+    "n": 1168.0
+   },
+   {
+    "camara": "IBAGUE",
+    "anio": 2026,
+    "n": 1166.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2015,
+    "n": 109.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2016,
+    "n": 152.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2017,
+    "n": 143.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2018,
+    "n": 132.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2019,
+    "n": 126.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2020,
+    "n": 136.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2021,
+    "n": 161.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2022,
+    "n": 126.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2023,
+    "n": 112.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2024,
+    "n": 145.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2025,
+    "n": 144.0
+   },
+   {
+    "camara": "IPIALES",
+    "anio": 2026,
+    "n": 111.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2015,
+    "n": 117.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2016,
+    "n": 97.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2017,
+    "n": 108.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2018,
+    "n": 94.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2019,
+    "n": 115.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2020,
+    "n": 137.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2021,
+    "n": 153.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2022,
+    "n": 138.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2023,
+    "n": 132.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2024,
+    "n": 163.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2025,
+    "n": 130.0
+   },
+   {
+    "camara": "LA DORADA",
+    "anio": 2026,
+    "n": 126.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2015,
+    "n": 245.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2016,
+    "n": 367.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2017,
+    "n": 362.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2018,
+    "n": 457.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2019,
+    "n": 506.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2020,
+    "n": 439.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2021,
+    "n": 619.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2022,
+    "n": 654.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2023,
+    "n": 511.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2024,
+    "n": 509.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2025,
+    "n": 537.0
+   },
+   {
+    "camara": "LA GUAJIRA",
+    "anio": 2026,
+    "n": 517.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2015,
+    "n": 56.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2016,
+    "n": 97.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2017,
+    "n": 96.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2018,
+    "n": 93.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2019,
+    "n": 94.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2020,
+    "n": 131.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2021,
+    "n": 193.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2022,
+    "n": 157.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2023,
+    "n": 170.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2024,
+    "n": 168.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2025,
+    "n": 181.0
+   },
+   {
+    "camara": "MAGANGUE",
+    "anio": 2026,
+    "n": 162.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2015,
+    "n": 149.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2016,
+    "n": 180.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2017,
+    "n": 172.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2018,
+    "n": 200.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2019,
+    "n": 267.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2020,
+    "n": 281.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2021,
+    "n": 293.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2022,
+    "n": 266.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2023,
+    "n": 304.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2024,
+    "n": 310.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2025,
+    "n": 295.0
+   },
+   {
+    "camara": "MAGDALENA MEDIO",
+    "anio": 2026,
+    "n": 225.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2015,
+    "n": 622.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2016,
+    "n": 811.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2017,
+    "n": 715.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2018,
+    "n": 756.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2019,
+    "n": 894.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2020,
+    "n": 869.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2021,
+    "n": 994.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2022,
+    "n": 1023.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2023,
+    "n": 888.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2024,
+    "n": 922.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2025,
+    "n": 990.0
+   },
+   {
+    "camara": "MANIZALES",
+    "anio": 2026,
+    "n": 1023.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2015,
+    "n": 6380.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2016,
+    "n": 8238.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2017,
+    "n": 7206.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2018,
+    "n": 7688.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2019,
+    "n": 8699.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2020,
+    "n": 7274.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2021,
+    "n": 9477.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2022,
+    "n": 10839.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2023,
+    "n": 10479.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2024,
+    "n": 11070.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2025,
+    "n": 11824.0
+   },
+   {
+    "camara": "MEDELLIN PARA ANTIOQUIA",
+    "anio": 2026,
+    "n": 10270.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2015,
+    "n": 770.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2016,
+    "n": 769.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2017,
+    "n": 715.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2018,
+    "n": 790.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2019,
+    "n": 871.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2020,
+    "n": 849.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2021,
+    "n": 1087.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2022,
+    "n": 1071.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2023,
+    "n": 1107.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2024,
+    "n": 1288.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2025,
+    "n": 1459.0
+   },
+   {
+    "camara": "MONTERIA",
+    "anio": 2026,
+    "n": 1326.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2015,
+    "n": 65.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2016,
+    "n": 77.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2017,
+    "n": 68.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2018,
+    "n": 79.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2019,
+    "n": 126.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2020,
+    "n": 147.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2021,
+    "n": 153.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2022,
+    "n": 165.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2023,
+    "n": 129.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2024,
+    "n": 146.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2025,
+    "n": 163.0
+   },
+   {
+    "camara": "OCANA",
+    "anio": 2026,
+    "n": 119.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2015,
+    "n": 521.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2016,
+    "n": 765.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2017,
+    "n": 706.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2018,
+    "n": 768.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2019,
+    "n": 974.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2020,
+    "n": 886.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2021,
+    "n": 1145.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2022,
+    "n": 1146.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2023,
+    "n": 1075.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2024,
+    "n": 1217.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2025,
+    "n": 1381.0
+   },
+   {
+    "camara": "ORIENTE ANTIOQUENO",
+    "anio": 2026,
+    "n": 1175.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2015,
+    "n": 408.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2016,
+    "n": 445.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2017,
+    "n": 384.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2018,
+    "n": 439.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2019,
+    "n": 489.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2020,
+    "n": 460.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2021,
+    "n": 542.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2022,
+    "n": 534.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2023,
+    "n": 499.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2024,
+    "n": 568.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2025,
+    "n": 528.0
+   },
+   {
+    "camara": "PALMIRA",
+    "anio": 2026,
+    "n": 534.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2015,
+    "n": 27.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2016,
+    "n": 40.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2017,
+    "n": 25.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2018,
+    "n": 51.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2019,
+    "n": 57.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2020,
+    "n": 78.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2021,
+    "n": 70.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2022,
+    "n": 140.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2023,
+    "n": 69.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2024,
+    "n": 85.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2025,
+    "n": 66.0
+   },
+   {
+    "camara": "PAMPLONA",
+    "anio": 2026,
+    "n": 58.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2015,
+    "n": 383.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2016,
+    "n": 515.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2017,
+    "n": 506.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2018,
+    "n": 466.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2019,
+    "n": 575.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2020,
+    "n": 542.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2021,
+    "n": 632.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2022,
+    "n": 623.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2023,
+    "n": 609.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2024,
+    "n": 682.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2025,
+    "n": 676.0
+   },
+   {
+    "camara": "PASTO",
+    "anio": 2026,
+    "n": 564.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2015,
+    "n": 814.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2016,
+    "n": 980.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2017,
+    "n": 902.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2018,
+    "n": 930.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2019,
+    "n": 1065.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2020,
+    "n": 985.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2021,
+    "n": 1123.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2022,
+    "n": 1301.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2023,
+    "n": 1144.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2024,
+    "n": 1190.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2025,
+    "n": 1250.0
+   },
+   {
+    "camara": "PEREIRA",
+    "anio": 2026,
+    "n": 1058.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2015,
+    "n": 70.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2016,
+    "n": 96.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2017,
+    "n": 77.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2018,
+    "n": 70.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2019,
+    "n": 72.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2020,
+    "n": 138.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2021,
+    "n": 103.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2022,
+    "n": 112.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2023,
+    "n": 84.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2024,
+    "n": 123.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2025,
+    "n": 88.0
+   },
+   {
+    "camara": "PIEDEMONTE ARAUCANO",
+    "anio": 2026,
+    "n": 85.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2015,
+    "n": 156.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2016,
+    "n": 185.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2017,
+    "n": 213.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2018,
+    "n": 213.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2019,
+    "n": 259.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2020,
+    "n": 330.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2021,
+    "n": 316.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2022,
+    "n": 249.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2023,
+    "n": 250.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2024,
+    "n": 280.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2025,
+    "n": 240.0
+   },
+   {
+    "camara": "PUTUMAYO",
+    "anio": 2026,
+    "n": 197.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2015,
+    "n": 145.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2016,
+    "n": 178.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2017,
+    "n": 177.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2018,
+    "n": 128.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2019,
+    "n": 140.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2020,
+    "n": 158.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2021,
+    "n": 160.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2022,
+    "n": 185.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2023,
+    "n": 172.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2024,
+    "n": 181.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2025,
+    "n": 187.0
+   },
+   {
+    "camara": "SAN ANDRES",
+    "anio": 2026,
+    "n": 154.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2015,
+    "n": 28.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2016,
+    "n": 56.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2017,
+    "n": 59.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2018,
+    "n": 65.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2019,
+    "n": 81.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2020,
+    "n": 116.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2021,
+    "n": 128.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2022,
+    "n": 132.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2023,
+    "n": 136.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2024,
+    "n": 194.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2025,
+    "n": 126.0
+   },
+   {
+    "camara": "SAN JOSE",
+    "anio": 2026,
+    "n": 113.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2015,
+    "n": 974.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2016,
+    "n": 1127.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2017,
+    "n": 1210.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2018,
+    "n": 1176.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2019,
+    "n": 1241.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2020,
+    "n": 1197.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2021,
+    "n": 1379.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2022,
+    "n": 1547.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2023,
+    "n": 1370.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2024,
+    "n": 1620.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2025,
+    "n": 1583.0
+   },
+   {
+    "camara": "SANTA MARTA PARA EL MAGDALENA",
+    "anio": 2026,
+    "n": 1291.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2015,
+    "n": 41.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2016,
+    "n": 60.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2017,
+    "n": 63.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2018,
+    "n": 37.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2019,
+    "n": 46.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2020,
+    "n": 51.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2021,
+    "n": 82.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2022,
+    "n": 73.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2023,
+    "n": 49.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2024,
+    "n": 62.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2025,
+    "n": 60.0
+   },
+   {
+    "camara": "SANTA ROSA DE CABAL",
+    "anio": 2026,
+    "n": 64.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2015,
+    "n": 17.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2016,
+    "n": 20.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2017,
+    "n": 25.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2018,
+    "n": 26.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2019,
+    "n": 19.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2020,
+    "n": 30.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2021,
+    "n": 25.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2022,
+    "n": 34.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2023,
+    "n": 18.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2024,
+    "n": 27.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2025,
+    "n": 28.0
+   },
+   {
+    "camara": "SEVILLA",
+    "anio": 2026,
+    "n": 22.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2015,
+    "n": 316.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2016,
+    "n": 429.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2017,
+    "n": 417.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2018,
+    "n": 475.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2019,
+    "n": 453.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2020,
+    "n": 482.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2021,
+    "n": 565.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2022,
+    "n": 561.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2023,
+    "n": 569.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2024,
+    "n": 641.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2025,
+    "n": 650.0
+   },
+   {
+    "camara": "SINCELEJO",
+    "anio": 2026,
+    "n": 560.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2015,
+    "n": 120.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2016,
+    "n": 195.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2017,
+    "n": 218.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2018,
+    "n": 259.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2019,
+    "n": 330.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2020,
+    "n": 339.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2021,
+    "n": 441.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2022,
+    "n": 411.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2023,
+    "n": 475.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2024,
+    "n": 342.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2025,
+    "n": 320.0
+   },
+   {
+    "camara": "SOACHA",
+    "anio": 2026,
+    "n": 315.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2015,
+    "n": 164.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2016,
+    "n": 270.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2017,
+    "n": 216.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2018,
+    "n": 233.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2019,
+    "n": 230.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2020,
+    "n": 241.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2021,
+    "n": 255.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2022,
+    "n": 395.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2023,
+    "n": 326.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2024,
+    "n": 340.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2025,
+    "n": 298.0
+   },
+   {
+    "camara": "SOGAMOSO",
+    "anio": 2026,
+    "n": 242.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2015,
+    "n": 128.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2016,
+    "n": 171.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2017,
+    "n": 167.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2018,
+    "n": 192.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2019,
+    "n": 165.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2020,
+    "n": 250.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2021,
+    "n": 274.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2022,
+    "n": 226.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2023,
+    "n": 227.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2024,
+    "n": 338.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2025,
+    "n": 285.0
+   },
+   {
+    "camara": "SUR Y ORIENTE DEL TOLIMA",
+    "anio": 2026,
+    "n": 223.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2015,
+    "n": 181.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2016,
+    "n": 237.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2017,
+    "n": 211.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2018,
+    "n": 247.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2019,
+    "n": 237.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2020,
+    "n": 277.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2021,
+    "n": 255.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2022,
+    "n": 256.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2023,
+    "n": 239.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2024,
+    "n": 258.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2025,
+    "n": 266.0
+   },
+   {
+    "camara": "TULUA",
+    "anio": 2026,
+    "n": 238.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2015,
+    "n": 89.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2016,
+    "n": 101.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2017,
+    "n": 110.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2018,
+    "n": 104.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2019,
+    "n": 111.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2020,
+    "n": 88.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2021,
+    "n": 123.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2022,
+    "n": 101.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2023,
+    "n": 111.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2024,
+    "n": 129.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2025,
+    "n": 101.0
+   },
+   {
+    "camara": "TUMACO",
+    "anio": 2026,
+    "n": 112.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2015,
+    "n": 413.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2016,
+    "n": 540.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2017,
+    "n": 508.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2018,
+    "n": 516.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2019,
+    "n": 662.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2020,
+    "n": 648.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2021,
+    "n": 652.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2022,
+    "n": 658.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2023,
+    "n": 633.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2024,
+    "n": 765.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2025,
+    "n": 676.0
+   },
+   {
+    "camara": "TUNJA",
+    "anio": 2026,
+    "n": 603.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2015,
+    "n": 253.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2016,
+    "n": 301.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2017,
+    "n": 307.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2018,
+    "n": 336.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2019,
+    "n": 501.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2020,
+    "n": 470.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2021,
+    "n": 513.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2022,
+    "n": 437.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2023,
+    "n": 374.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2024,
+    "n": 454.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2025,
+    "n": 427.0
+   },
+   {
+    "camara": "URABA",
+    "anio": 2026,
+    "n": 354.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2015,
+    "n": 766.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2016,
+    "n": 957.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2017,
+    "n": 829.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2018,
+    "n": 713.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2019,
+    "n": 770.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2020,
+    "n": 873.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2021,
+    "n": 927.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2022,
+    "n": 935.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2023,
+    "n": 929.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2024,
+    "n": 1067.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2025,
+    "n": 1102.0
+   },
+   {
+    "camara": "VALLEDUPAR",
+    "anio": 2026,
+    "n": 1337.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2015,
+    "n": 1121.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2016,
+    "n": 1376.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2017,
+    "n": 1271.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2018,
+    "n": 1288.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2019,
+    "n": 1516.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2020,
+    "n": 1775.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2021,
+    "n": 1883.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2022,
+    "n": 2046.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2023,
+    "n": 1842.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2024,
+    "n": 2100.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2025,
+    "n": 2198.0
+   },
+   {
+    "camara": "VILLAVICENCIO",
+    "anio": 2026,
+    "n": 1888.0
+   }
+  ],
+  "mensual": [
+   {
+    "mes": "2005-01-01",
+    "n": 2704.0
+   },
+   {
+    "mes": "2005-02-01",
+    "n": 2588.0
+   },
+   {
+    "mes": "2005-03-01",
+    "n": 2744.0
+   },
+   {
+    "mes": "2005-04-01",
+    "n": 2841.0
+   },
+   {
+    "mes": "2005-05-01",
+    "n": 2644.0
+   },
+   {
+    "mes": "2005-06-01",
+    "n": 2780.0
+   },
+   {
+    "mes": "2005-07-01",
+    "n": 2576.0
+   },
+   {
+    "mes": "2005-08-01",
+    "n": 3148.0
+   },
+   {
+    "mes": "2005-09-01",
+    "n": 2837.0
+   },
+   {
+    "mes": "2005-10-01",
+    "n": 2577.0
+   },
+   {
+    "mes": "2005-11-01",
+    "n": 2426.0
+   },
+   {
+    "mes": "2005-12-01",
+    "n": 1689.0
+   },
+   {
+    "mes": "2006-01-01",
+    "n": 2609.0
+   },
+   {
+    "mes": "2006-02-01",
+    "n": 3024.0
+   },
+   {
+    "mes": "2006-03-01",
+    "n": 3196.0
+   },
+   {
+    "mes": "2006-04-01",
+    "n": 2481.0
+   },
+   {
+    "mes": "2006-05-01",
+    "n": 2847.0
+   },
+   {
+    "mes": "2006-06-01",
+    "n": 2905.0
+   },
+   {
+    "mes": "2006-07-01",
+    "n": 2788.0
+   },
+   {
+    "mes": "2006-08-01",
+    "n": 3144.0
+   },
+   {
+    "mes": "2006-09-01",
+    "n": 3262.0
+   },
+   {
+    "mes": "2006-10-01",
+    "n": 3122.0
+   },
+   {
+    "mes": "2006-11-01",
+    "n": 2724.0
+   },
+   {
+    "mes": "2006-12-01",
+    "n": 1876.0
+   },
+   {
+    "mes": "2007-01-01",
+    "n": 3048.0
+   },
+   {
+    "mes": "2007-02-01",
+    "n": 3506.0
+   },
+   {
+    "mes": "2007-03-01",
+    "n": 3567.0
+   },
+   {
+    "mes": "2007-04-01",
+    "n": 2944.0
+   },
+   {
+    "mes": "2007-05-01",
+    "n": 3358.0
+   },
+   {
+    "mes": "2007-06-01",
+    "n": 3165.0
+   },
+   {
+    "mes": "2007-07-01",
+    "n": 3212.0
+   },
+   {
+    "mes": "2007-08-01",
+    "n": 3173.0
+   },
+   {
+    "mes": "2007-09-01",
+    "n": 3132.0
+   },
+   {
+    "mes": "2007-10-01",
+    "n": 3443.0
+   },
+   {
+    "mes": "2007-11-01",
+    "n": 2902.0
+   },
+   {
+    "mes": "2007-12-01",
+    "n": 2115.0
+   },
+   {
+    "mes": "2008-01-01",
+    "n": 3605.0
+   },
+   {
+    "mes": "2008-02-01",
+    "n": 4263.0
+   },
+   {
+    "mes": "2008-03-01",
+    "n": 3446.0
+   },
+   {
+    "mes": "2008-04-01",
+    "n": 4298.0
+   },
+   {
+    "mes": "2008-05-01",
+    "n": 3623.0
+   },
+   {
+    "mes": "2008-06-01",
+    "n": 3168.0
+   },
+   {
+    "mes": "2008-07-01",
+    "n": 3848.0
+   },
+   {
+    "mes": "2008-08-01",
+    "n": 3069.0
+   },
+   {
+    "mes": "2008-09-01",
+    "n": 3519.0
+   },
+   {
+    "mes": "2008-10-01",
+    "n": 3333.0
+   },
+   {
+    "mes": "2008-11-01",
+    "n": 2356.0
+   },
+   {
+    "mes": "2008-12-01",
+    "n": 2135.0
+   },
+   {
+    "mes": "2009-01-01",
+    "n": 2843.0
+   },
+   {
+    "mes": "2009-02-01",
+    "n": 3584.0
+   },
+   {
+    "mes": "2009-03-01",
+    "n": 3667.0
+   },
+   {
+    "mes": "2009-04-01",
+    "n": 3473.0
+   },
+   {
+    "mes": "2009-05-01",
+    "n": 3405.0
+   },
+   {
+    "mes": "2009-06-01",
+    "n": 3322.0
+   },
+   {
+    "mes": "2009-07-01",
+    "n": 3964.0
+   },
+   {
+    "mes": "2009-08-01",
+    "n": 3226.0
+   },
+   {
+    "mes": "2009-09-01",
+    "n": 3971.0
+   },
+   {
+    "mes": "2009-10-01",
+    "n": 3501.0
+   },
+   {
+    "mes": "2009-11-01",
+    "n": 2950.0
+   },
+   {
+    "mes": "2009-12-01",
+    "n": 2368.0
+   },
+   {
+    "mes": "2010-01-01",
+    "n": 3408.0
+   },
+   {
+    "mes": "2010-02-01",
+    "n": 4255.0
+   },
+   {
+    "mes": "2010-03-01",
+    "n": 4450.0
+   },
+   {
+    "mes": "2010-04-01",
+    "n": 3694.0
+   },
+   {
+    "mes": "2010-05-01",
+    "n": 3684.0
+   },
+   {
+    "mes": "2010-06-01",
+    "n": 3744.0
+   },
+   {
+    "mes": "2010-07-01",
+    "n": 3689.0
+   },
+   {
+    "mes": "2010-08-01",
+    "n": 4166.0
+   },
+   {
+    "mes": "2010-09-01",
+    "n": 4420.0
+   },
+   {
+    "mes": "2010-10-01",
+    "n": 3972.0
+   },
+   {
+    "mes": "2010-11-01",
+    "n": 3833.0
+   },
+   {
+    "mes": "2010-12-01",
+    "n": 3610.0
+   },
+   {
+    "mes": "2011-01-01",
+    "n": 4231.0
+   },
+   {
+    "mes": "2011-02-01",
+    "n": 4854.0
+   },
+   {
+    "mes": "2011-03-01",
+    "n": 5625.0
+   },
+   {
+    "mes": "2011-04-01",
+    "n": 4746.0
+   },
+   {
+    "mes": "2011-05-01",
+    "n": 5445.0
+   },
+   {
+    "mes": "2011-06-01",
+    "n": 5148.0
+   },
+   {
+    "mes": "2011-07-01",
+    "n": 4794.0
+   },
+   {
+    "mes": "2011-08-01",
+    "n": 5272.0
+   },
+   {
+    "mes": "2011-09-01",
+    "n": 5282.0
+   },
+   {
+    "mes": "2011-10-01",
+    "n": 4498.0
+   },
+   {
+    "mes": "2011-11-01",
+    "n": 4649.0
+   },
+   {
+    "mes": "2011-12-01",
+    "n": 3688.0
+   },
+   {
+    "mes": "2012-01-01",
+    "n": 5612.0
+   },
+   {
+    "mes": "2012-02-01",
+    "n": 6699.0
+   },
+   {
+    "mes": "2012-03-01",
+    "n": 7318.0
+   },
+   {
+    "mes": "2012-04-01",
+    "n": 4959.0
+   },
+   {
+    "mes": "2012-05-01",
+    "n": 5302.0
+   },
+   {
+    "mes": "2012-06-01",
+    "n": 4850.0
+   },
+   {
+    "mes": "2012-07-01",
+    "n": 5310.0
+   },
+   {
+    "mes": "2012-08-01",
+    "n": 4992.0
+   },
+   {
+    "mes": "2012-09-01",
+    "n": 4872.0
+   },
+   {
+    "mes": "2012-10-01",
+    "n": 4936.0
+   },
+   {
+    "mes": "2012-11-01",
+    "n": 4452.0
+   },
+   {
+    "mes": "2012-12-01",
+    "n": 3001.0
+   },
+   {
+    "mes": "2013-01-01",
+    "n": 5038.0
+   },
+   {
+    "mes": "2013-02-01",
+    "n": 5682.0
+   },
+   {
+    "mes": "2013-03-01",
+    "n": 4641.0
+   },
+   {
+    "mes": "2013-04-01",
+    "n": 5372.0
+   },
+   {
+    "mes": "2013-05-01",
+    "n": 5601.0
+   },
+   {
+    "mes": "2013-06-01",
+    "n": 4740.0
+   },
+   {
+    "mes": "2013-07-01",
+    "n": 6608.0
+   },
+   {
+    "mes": "2013-08-01",
+    "n": 5662.0
+   },
+   {
+    "mes": "2013-09-01",
+    "n": 5976.0
+   },
+   {
+    "mes": "2013-10-01",
+    "n": 6005.0
+   },
+   {
+    "mes": "2013-11-01",
+    "n": 4660.0
+   },
+   {
+    "mes": "2013-12-01",
+    "n": 3503.0
+   },
+   {
+    "mes": "2014-01-01",
+    "n": 6492.0
+   },
+   {
+    "mes": "2014-02-01",
+    "n": 6805.0
+   },
+   {
+    "mes": "2014-03-01",
+    "n": 6544.0
+   },
+   {
+    "mes": "2014-04-01",
+    "n": 5449.0
+   },
+   {
+    "mes": "2014-05-01",
+    "n": 6050.0
+   },
+   {
+    "mes": "2014-06-01",
+    "n": 4958.0
+   },
+   {
+    "mes": "2014-07-01",
+    "n": 5883.0
+   },
+   {
+    "mes": "2014-08-01",
+    "n": 5398.0
+   },
+   {
+    "mes": "2014-09-01",
+    "n": 6402.0
+   },
+   {
+    "mes": "2014-10-01",
+    "n": 6268.0
+   },
+   {
+    "mes": "2014-11-01",
+    "n": 4930.0
+   },
+   {
+    "mes": "2014-12-01",
+    "n": 6597.0
+   },
+   {
+    "mes": "2015-01-01",
+    "n": 5088.0
+   },
+   {
+    "mes": "2015-02-01",
+    "n": 6135.0
+   },
+   {
+    "mes": "2015-03-01",
+    "n": 6025.0
+   },
+   {
+    "mes": "2015-04-01",
+    "n": 5056.0
+   },
+   {
+    "mes": "2015-05-01",
+    "n": 5127.0
+   },
+   {
+    "mes": "2015-06-01",
+    "n": 5218.0
+   },
+   {
+    "mes": "2015-07-01",
+    "n": 5933.0
+   },
+   {
+    "mes": "2015-08-01",
+    "n": 5151.0
+   },
+   {
+    "mes": "2015-09-01",
+    "n": 5882.0
+   },
+   {
+    "mes": "2015-10-01",
+    "n": 5340.0
+   },
+   {
+    "mes": "2015-11-01",
+    "n": 4637.0
+   },
+   {
+    "mes": "2015-12-01",
+    "n": 3181.0
+   },
+   {
+    "mes": "2016-01-01",
+    "n": 6554.0
+   },
+   {
+    "mes": "2016-02-01",
+    "n": 7954.0
+   },
+   {
+    "mes": "2016-03-01",
+    "n": 6526.0
+   },
+   {
+    "mes": "2016-04-01",
+    "n": 6379.0
+   },
+   {
+    "mes": "2016-05-01",
+    "n": 6165.0
+   },
+   {
+    "mes": "2016-06-01",
+    "n": 6562.0
+   },
+   {
+    "mes": "2016-07-01",
+    "n": 6384.0
+   },
+   {
+    "mes": "2016-08-01",
+    "n": 6674.0
+   },
+   {
+    "mes": "2016-09-01",
+    "n": 6384.0
+   },
+   {
+    "mes": "2016-10-01",
+    "n": 5933.0
+   },
+   {
+    "mes": "2016-11-01",
+    "n": 5471.0
+   },
+   {
+    "mes": "2016-12-01",
+    "n": 5714.0
+   },
+   {
+    "mes": "2017-01-01",
+    "n": 6776.0
+   },
+   {
+    "mes": "2017-02-01",
+    "n": 7152.0
+   },
+   {
+    "mes": "2017-03-01",
+    "n": 6884.0
+   },
+   {
+    "mes": "2017-04-01",
+    "n": 5163.0
+   },
+   {
+    "mes": "2017-05-01",
+    "n": 6226.0
+   },
+   {
+    "mes": "2017-06-01",
+    "n": 5980.0
+   },
+   {
+    "mes": "2017-07-01",
+    "n": 5892.0
+   },
+   {
+    "mes": "2017-08-01",
+    "n": 5828.0
+   },
+   {
+    "mes": "2017-09-01",
+    "n": 5778.0
+   },
+   {
+    "mes": "2017-10-01",
+    "n": 5521.0
+   },
+   {
+    "mes": "2017-11-01",
+    "n": 5172.0
+   },
+   {
+    "mes": "2017-12-01",
+    "n": 3308.0
+   },
+   {
+    "mes": "2018-01-01",
+    "n": 6687.0
+   },
+   {
+    "mes": "2018-02-01",
+    "n": 6808.0
+   },
+   {
+    "mes": "2018-03-01",
+    "n": 6196.0
+   },
+   {
+    "mes": "2018-04-01",
+    "n": 5865.0
+   },
+   {
+    "mes": "2018-05-01",
+    "n": 6415.0
+   },
+   {
+    "mes": "2018-06-01",
+    "n": 5237.0
+   },
+   {
+    "mes": "2018-07-01",
+    "n": 5464.0
+   },
+   {
+    "mes": "2018-08-01",
+    "n": 6386.0
+   },
+   {
+    "mes": "2018-09-01",
+    "n": 6035.0
+   },
+   {
+    "mes": "2018-10-01",
+    "n": 6390.0
+   },
+   {
+    "mes": "2018-11-01",
+    "n": 5515.0
+   },
+   {
+    "mes": "2018-12-01",
+    "n": 3823.0
+   },
+   {
+    "mes": "2019-01-01",
+    "n": 7225.0
+   },
+   {
+    "mes": "2019-02-01",
+    "n": 7967.0
+   },
+   {
+    "mes": "2019-03-01",
+    "n": 7076.0
+   },
+   {
+    "mes": "2019-04-01",
+    "n": 6574.0
+   },
+   {
+    "mes": "2019-05-01",
+    "n": 7549.0
+   },
+   {
+    "mes": "2019-06-01",
+    "n": 6024.0
+   },
+   {
+    "mes": "2019-07-01",
+    "n": 7196.0
+   },
+   {
+    "mes": "2019-08-01",
+    "n": 6423.0
+   },
+   {
+    "mes": "2019-09-01",
+    "n": 6563.0
+   },
+   {
+    "mes": "2019-10-01",
+    "n": 6485.0
+   },
+   {
+    "mes": "2019-11-01",
+    "n": 5235.0
+   },
+   {
+    "mes": "2019-12-01",
+    "n": 3988.0
+   },
+   {
+    "mes": "2020-01-01",
+    "n": 8090.0
+   },
+   {
+    "mes": "2020-02-01",
+    "n": 8464.0
+   },
+   {
+    "mes": "2020-03-01",
+    "n": 5912.0
+   },
+   {
+    "mes": "2020-04-01",
+    "n": 897.0
+   },
+   {
+    "mes": "2020-05-01",
+    "n": 2539.0
+   },
+   {
+    "mes": "2020-06-01",
+    "n": 5578.0
+   },
+   {
+    "mes": "2020-07-01",
+    "n": 6717.0
+   },
+   {
+    "mes": "2020-08-01",
+    "n": 6069.0
+   },
+   {
+    "mes": "2020-09-01",
+    "n": 7904.0
+   },
+   {
+    "mes": "2020-10-01",
+    "n": 7646.0
+   },
+   {
+    "mes": "2020-11-01",
+    "n": 6467.0
+   },
+   {
+    "mes": "2020-12-01",
+    "n": 4837.0
+   },
+   {
+    "mes": "2021-01-01",
+    "n": 6398.0
+   },
+   {
+    "mes": "2021-02-01",
+    "n": 8701.0
+   },
+   {
+    "mes": "2021-03-01",
+    "n": 9272.0
+   },
+   {
+    "mes": "2021-04-01",
+    "n": 6521.0
+   },
+   {
+    "mes": "2021-05-01",
+    "n": 6074.0
+   },
+   {
+    "mes": "2021-06-01",
+    "n": 6239.0
+   },
+   {
+    "mes": "2021-07-01",
+    "n": 6756.0
+   },
+   {
+    "mes": "2021-08-01",
+    "n": 7097.0
+   },
+   {
+    "mes": "2021-09-01",
+    "n": 7250.0
+   },
+   {
+    "mes": "2021-10-01",
+    "n": 6560.0
+   },
+   {
+    "mes": "2021-11-01",
+    "n": 6073.0
+   },
+   {
+    "mes": "2021-12-01",
+    "n": 4548.0
+   },
+   {
+    "mes": "2022-01-01",
+    "n": 6642.0
+   },
+   {
+    "mes": "2022-02-01",
+    "n": 7986.0
+   },
+   {
+    "mes": "2022-03-01",
+    "n": 8078.0
+   },
+   {
+    "mes": "2022-04-01",
+    "n": 6639.0
+   },
+   {
+    "mes": "2022-05-01",
+    "n": 7776.0
+   },
+   {
+    "mes": "2022-06-01",
+    "n": 6745.0
+   },
+   {
+    "mes": "2022-07-01",
+    "n": 6393.0
+   },
+   {
+    "mes": "2022-08-01",
+    "n": 7366.0
+   },
+   {
+    "mes": "2022-09-01",
+    "n": 7633.0
+   },
+   {
+    "mes": "2022-10-01",
+    "n": 6962.0
+   },
+   {
+    "mes": "2022-11-01",
+    "n": 6377.0
+   },
+   {
+    "mes": "2022-12-01",
+    "n": 5363.0
+   },
+   {
+    "mes": "2023-01-01",
+    "n": 7433.0
+   },
+   {
+    "mes": "2023-02-01",
+    "n": 8204.0
+   },
+   {
+    "mes": "2023-03-01",
+    "n": 8174.0
+   },
+   {
+    "mes": "2023-04-01",
+    "n": 6051.0
+   },
+   {
+    "mes": "2023-05-01",
+    "n": 7234.0
+   },
+   {
+    "mes": "2023-06-01",
+    "n": 6735.0
+   },
+   {
+    "mes": "2023-07-01",
+    "n": 6253.0
+   },
+   {
+    "mes": "2023-08-01",
+    "n": 6840.0
+   },
+   {
+    "mes": "2023-09-01",
+    "n": 6889.0
+   },
+   {
+    "mes": "2023-10-01",
+    "n": 6373.0
+   },
+   {
+    "mes": "2023-11-01",
+    "n": 6026.0
+   },
+   {
+    "mes": "2023-12-01",
+    "n": 4560.0
+   },
+   {
+    "mes": "2024-01-01",
+    "n": 8261.0
+   },
+   {
+    "mes": "2024-02-01",
+    "n": 9166.0
+   },
+   {
+    "mes": "2024-03-01",
+    "n": 7762.0
+   },
+   {
+    "mes": "2024-04-01",
+    "n": 7634.0
+   },
+   {
+    "mes": "2024-05-01",
+    "n": 7396.0
+   },
+   {
+    "mes": "2024-06-01",
+    "n": 6092.0
+   },
+   {
+    "mes": "2024-07-01",
+    "n": 7451.0
+   },
+   {
+    "mes": "2024-08-01",
+    "n": 6806.0
+   },
+   {
+    "mes": "2024-09-01",
+    "n": 6849.0
+   },
+   {
+    "mes": "2024-10-01",
+    "n": 7235.0
+   },
+   {
+    "mes": "2024-11-01",
+    "n": 5946.0
+   },
+   {
+    "mes": "2024-12-01",
+    "n": 5105.0
+   },
+   {
+    "mes": "2025-01-01",
+    "n": 8073.0
+   },
+   {
+    "mes": "2025-02-01",
+    "n": 8861.0
+   },
+   {
+    "mes": "2025-03-01",
+    "n": 8032.0
+   },
+   {
+    "mes": "2025-04-01",
+    "n": 7079.0
+   },
+   {
+    "mes": "2025-05-01",
+    "n": 7508.0
+   },
+   {
+    "mes": "2025-06-01",
+    "n": 6507.0
+   },
+   {
+    "mes": "2025-07-01",
+    "n": 8656.0
+   },
+   {
+    "mes": "2025-08-01",
+    "n": 6757.0
+   },
+   {
+    "mes": "2025-09-01",
+    "n": 7861.0
+   },
+   {
+    "mes": "2025-10-01",
+    "n": 7775.0
+   },
+   {
+    "mes": "2025-11-01",
+    "n": 6022.0
+   },
+   {
+    "mes": "2025-12-01",
+    "n": 5059.0
+   },
+   {
+    "mes": "2026-01-01",
+    "n": 7386.0
+   },
+   {
+    "mes": "2026-02-01",
+    "n": 9188.0
+   },
+   {
+    "mes": "2026-03-01",
+    "n": 8687.0
+   },
+   {
+    "mes": "2026-04-01",
+    "n": 7406.0
+   },
+   {
+    "mes": "2026-05-01",
+    "n": 7325.0
+   },
+   {
+    "mes": "2026-06-01",
+    "n": 6899.0
+   },
+   {
+    "mes": "2026-07-01",
+    "n": 7725.0
+   },
+   {
+    "mes": "2026-08-01",
+    "n": 7168.0
+   },
+   {
+    "mes": "2026-09-01",
+    "n": 8523.0
+   },
+   {
+    "mes": "2026-10-01",
+    "n": 7841.0
+   },
+   {
+    "mes": "2026-11-01",
+    "n": 1173.0
+   }
+  ]
+ }
+}
