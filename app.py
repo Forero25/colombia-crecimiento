@@ -78,7 +78,9 @@ rec = G["reciente"]
 pr1 = F["pronostico"]["h1"]
 app_ui = ui.page_navbar(
     ui.nav_panel("Gemelos",
-        ui.p({"class": "lead"}, f"Comparé {rec['n_paises']} países por su estructura económica (2015-2024). Los gemelos de Colombia no son sus vecinos: son economías de ingreso medio que dependen de materias primas."),
+        ui.p({"class": "lead"}, f"Comparé {rec['n_paises']} países por su estructura económica (2015-2024). "
+             f"De los {len(ESTABLES)} gemelos estables de Colombia, {sum(P[P.iso3.isin(ESTABLES)].groupby('iso3').latinoamerica.first())} son de la región y el resto no: "
+             "lo que los une es ser economías de ingreso medio que dependen de materias primas."),
         ui.layout_column_wrap(
             ui.value_box("Gemelos estables", str(len(ESTABLES))),
             ui.value_box("Países comparados", str(rec["n_paises"])),

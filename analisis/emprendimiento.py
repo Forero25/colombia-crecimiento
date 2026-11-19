@@ -73,7 +73,9 @@ def colombia_rues():
     sect["n"] = sect.n.astype(float)
     cam = leer("""SELECT camara, anio, sum(n) n FROM staging.stg_rues WHERE tipo = 'sociedad' AND anio >= 2015 GROUP BY 1, 2""")
     cam["n"] = cam.n.astype(float)
-    mensual = leer("""SELECT mes, sum(n) n FROM staging.stg_rues WHERE tipo = 'sociedad' GROUP BY 1 ORDER BY 1""")
+    # el último mes del archivo puede estar incompleto (el conjunto se actualiza a mitad de mes): se excluye
+    mensual = leer("""SELECT mes, sum(n) n FROM staging.stg_rues WHERE tipo = 'sociedad'
+                      AND mes < (SELECT max(mes) FROM staging.stg_rues) GROUP BY 1 ORDER BY 1""")
     return {"anual": a.to_dict("records"), "validacion": val,
             "sas_participacion": {int(i): float(r.nuevas_sas / r.nuevas) for i, r in soc.iterrows()},
             "sectores": sect.to_dict("records"), "camaras": cam.to_dict("records"),
