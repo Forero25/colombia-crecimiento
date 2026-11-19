@@ -66,6 +66,12 @@ def indicador(codigo, fuente, desde=1990, hasta=2026):
     url = (f"https://api.worldbank.org/v2/country/all/indicator/{codigo}?format=json&per_page=20000"
            f"&date={desde}:{hasta}&source={fuente}")
     pag = pedir(url)
+    if not (isinstance(pag, list) and len(pag) > 1 and "pages" in pag[0]):
+        # los indicadores de gobernanza cambiaron de código en la API (GOV_WGI_GE.EST); se prueba el nombre nuevo
+        if fuente == 3 and not codigo.startswith("GOV_WGI_"):
+            print("aviso:", codigo, "no existe con ese código; probando GOV_WGI_" + codigo, str(pag)[:200], file=sys.stderr)
+            return [(i, codigo, a, v) for i, _c, a, v in indicador("GOV_WGI_" + codigo, fuente, desde, hasta)]
+        raise SystemExit(f"Respuesta inesperada para {codigo}: {str(pag)[:300]}")
     filas = []
     for p in range(1, pag[0]["pages"] + 1):
         datos = pag[1] if p == 1 else pedir(url + f"&page={p}")[1]
