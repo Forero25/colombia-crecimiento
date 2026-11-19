@@ -1,22 +1,21 @@
-"""Exploración de fuentes (solo imprime): columnas y volumen del RUES en datos.gov.co, y archivos de Penn World Table."""
+"""Exploración del RUES en datos.gov.co: ¿se puede agregar por año sin bajar datos personales?"""
 import json, urllib.request, urllib.parse
 
 UA = {"User-Agent": "colombia-crecimiento portfolio project"}
+B = "https://www.datos.gov.co/resource/c82u-588k.json?"
 
 
-def get(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=120) as r:
-        return r.read()
+def get(q):
+    url = B + urllib.parse.urlencode(q)
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=300) as r:
+            return r.read()[:1500]
+    except Exception as e:  # noqa: BLE001
+        return f"ERROR {e}".encode()
 
 
-for ds in ["c82u-588k"]:
-    meta = json.loads(get(f"https://www.datos.gov.co/api/views/{ds}.json"))
-    print(ds, meta["name"], "| actualizado", meta.get("rowsUpdatedAt"), "| licencia", (meta.get("license") or {}).get("name"))
-    print("columnas:", [(c["fieldName"], c["dataTypeName"]) for c in meta["columns"]])
-    print("total:", get(f"https://www.datos.gov.co/resource/{ds}.json?$select=count(*)"))
-    print("muestra:", get(f"https://www.datos.gov.co/resource/{ds}.json?$limit=2")[:1500])
-
-d = json.loads(get("https://dataverse.nl/api/datasets/:persistentId/?persistentId=doi:10.34894/FABVLR"))
-v = d["data"]["latestVersion"]
-print("PWT version", v.get("versionNumber"), [(f["dataFile"]["id"], f["dataFile"]["filename"], f["dataFile"].get("filesize")) for f in v["files"]])
-print("licencia", v.get("license"))
+print("formato fechas:", get({"$select": "fecha_matricula, fecha_cancelacion, estado_matricula, organizacion_juridica, categoria_matricula, cod_ciiu_act_econ_pri, camara_comercio", "$limit": 5}))
+print("substring:", get({"$select": "substring(fecha_matricula, 1, 4) as anio, count(*) as n", "$group": "anio", "$order": "anio", "$limit": 100}))
+print("estados:", get({"$select": "estado_matricula, count(*) as n", "$group": "estado_matricula"}))
+print("organizacion:", get({"$select": "organizacion_juridica, count(*) as n", "$group": "organizacion_juridica"}))
+print("categoria:", get({"$select": "categoria_matricula, count(*) as n", "$group": "categoria_matricula"}))

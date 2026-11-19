@@ -17,6 +17,7 @@ jobs:
       - run: python ingesta/explorar.py
       - run: python ingesta/banco_mundial.py
       - run: python ingesta/innovation_graph.py
+      - run: pip install pandas && python ingesta/pwt.py
       - name: Publicar en el release "crudos"
         env: {GH_TOKEN: "${{ github.token }}"}
         run: |
