@@ -1,0 +1,6 @@
+# Dependencias de la app (Posit Connect Cloud, Python 3.11). El pipeline usa requirements-pipeline.txt.
+shiny>=1.5,<2
+shinywidgets>=0.6,<1
+plotly>=6,<8
+pandas>=2.2,<4
+numpy>=1.26,<3

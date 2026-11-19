@@ -8,5 +8,6 @@ COPY ingesta/ ingesta/
 COPY dbt/ dbt/
 COPY analisis/ analisis/
 COPY tests/ tests/
+COPY entradas/ entradas/
 COPY correr.sh .
 CMD ["sh", "correr.sh"]
