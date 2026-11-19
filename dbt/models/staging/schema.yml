@@ -4,6 +4,9 @@ models:
     columns:
       - name: iso3
         tests: [unique, not_null]
+      - name: latinoamerica
+        description: "Debe haber al menos 30 países de América Latina y el Caribe (prueba en tests/latam.sql)."
+
   - name: stg_indicadores
     tests:
       - combinacion_unica: {arguments: {columns: [iso3, indicador, anio]}}
